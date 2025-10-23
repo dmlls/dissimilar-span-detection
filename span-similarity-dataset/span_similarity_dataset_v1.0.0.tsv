@@ -1,0 +1,1001 @@
+premise	hypothesis	span_similarity	sentence_similarity
+The airport {{offers}} a public taxi transportation service.	The airport {{provides}} a public taxi transportation service.	1	1
+This genus is a {{strongly supported clade}} of this family.	This genus is a {{weakly supported clade}} of this family.	0	0
+Whilst all organizations were {{mentioned}} in its {{2006 annual report}}, in {{2007}}.	Whilst all organizations were {{cited}} in its {{annual report of 2006}}, in {{the following year}}.	1,1,1	1
+{{To get decent volume}}, I have to {{jiggle the plug}}.	{{To achieve adequate sound volume}}, I have to {{wiggle the connector}}.	1,1	1
+I know {{you're asleep}}.	I know {{you're wide awake}}.	0	0
+I have never seen a {{show like this}} before.	I have never seen a {{show so different to this}} before.	0	0
+Bementite and caryopilite were redefined as {{distinct species, and caryopilite was made equivalent to ectropite}}.	Bementite and caryopilite were redefined as {{interchangeable species, and caryopilite was made distinct from ectropite}}.	0	0
+The building {{has banks of steel sash windows}} and {{a flat roof}}.	The building {{lacks banks of steel sash windows}} and {{has a sloped roof}}.	0,0	0
+He {{was defeated}} in {{the 1970 General Elections}}.	He {{suffered a loss}} in {{the 1971 General Elections}}.	1,0	0
+Commercial DNP is used as {{an antiseptic}} and as {{a non-selective bioaccumulating pesticide}}.	Commercial DNP is used as {{a germicidal solution}} and as {{a targeted non-bioaccumulating pesticide}}.	1,0	0
+That's {{correct}}.	That's {{inaccurate}}.	0	0
+Along mainland Indian coasts, appearances of whales {{very extremely common}}, excluding unconfirmed records.	Along mainland Indian coasts, appearances of whales {{are exceedingly common}}, excluding unconfirmed records.	0	0
+{{The target for limiting temperature rises}} is {{2º C}}.	{{The goal for controlling temperature increases}} is {{2 degrees Celsius}}.	1,1	1
+There Evers discretely flushed the {{new syllabus}}.	There Evers discretely flushed the {{latest curriculum}}.	1	1
+Tifft's results {{have been unsuccessfully replicated by Croasdale and later Napier and Guthrie}}.	Tifft's results {{have not been successfully duplicated by Croasdale and subsequently by Napier and Guthrie}}.	1	1
+Rich {{starred}} in NBC Blue in the early {{1940s}}.	Rich {{featured}} in NBC Blue in the early {{fifties}}.	1,0	0
+It is {{false}}.	It is {{untrue}}.	1	1
+It's {{not easy}}, I know.	It's {{challenging}}, I know.	0	0
+David built {{his own large inventory}} of plantations.	David built {{his minuscule collection}} of plantations.	0	0
+I {{know that's untruthful}}.	I {{know that's untrue}}.	1	1
+TRIM {{is implemented}} under the DATA SET MANAGEMENT command (opcode 06h) the draft {{ACS-2 specification}}.	TRIM {{is not implemented}} under the DATA SET MANAGEMENT command (opcode 06h) the draft {{BES-3 specification}}.	0,0	0
+It has a {{lower}} ligation efficiency.	It has a {{higher}} ligation efficiency.	0	0
+There is {{no limit on the number of ships that can be operated}}.	There is {{a strict limit on the number of ships that can be operated}}.	0	0
+{{Truck production}} was added {{in May 1993}}.	{{Truck manufacturing}} was added {{in July 1993}}.	1,0	0
+I hope the team behind this movie {{makes more movies}}, and that they will continue to do so in their {{own weird style}}.	I hope the team behind this movie {{produces more films}}, and that they will continue to do so in their {{own unique style}}.	1,1	1
+This {{rotation of experience}} is always considered to have {{a small spiritual reward}}.	This {{cycle of experience}} is always considered to have {{a significant spiritual reward}}.	1,0	0
+The Russian community peaked {{at over 100,000 in the early 1920s}}.	The Russian community peaked {{with more than 100,000 residents in the early twenties}}.	1	1
+Several {{small groups}} claim to continue to practice {{this faith}}.	Several {{small congregations}} claim to continue to practice {{another belief}}.	1,0	0
+The United States has {{taken action to address the WTO ruling}}.	The United States has {{responded to the WTO ruling}}.	1	1
+Parham Park grounds are a {{Site of Special Scientific Interest}}.	Parham Park grounds are a {{Normal Place of Unremarkable Interest}}.	0	0
+Crocker's Roosevelt's Road to Russia {{was published}} by Henry Regnery Company (1959).	Crocker's Roosevelt's Road to Russia {{was rejected}} by Henry Regnery Company (1959).	0	0
+The {{bus boy}} on the other hand was so rude.	The {{waitstaff}} on the other hand was so rude.	1	1
+I'm not {{a bad talker}} either.	I'm not {{an eloquent speaker}} either.	0	0
+Coal mining has {{not been done}} in the adjoining areas of Sugar Notch Run.	Coal mining has {{never occurred}} in the adjoining areas of Sugar Notch Run.	1	1
+It was {{a step criticized by some free speech activists}}.	It was {{a move condemned by some free speech activists}}.	1	1
+E105 {{has never been implicated}} in atopic asthma.	E105 {{is frequently implicated}} in atopic asthma.	0	0
+The act {{also abolished all methods of discrimination}} from the Education Act of {{1979}}.	The act {{also eliminated all methods of discrimination}} from the Education Act of {{1799}}.	1,0	0
+Under {{certain conditions it can increase the power of an electrical signal}}, amplifying it.	Under {{no circumstances does it increase the power of an electrical signal}}, amplifying it.	0	0
+Dan Devine {{served as the head coach }} for {{the third of 23 seasons}}.	Dan Devine {{served as the assistant coach}} for {{the fourth of 23 seasons}}.	0,0	0
+He is {{known for his work}} in understanding the carbon cycle in plants.	He is {{famous for his work}} in understanding the carbon cycle in plants.	0	0
+The temples were then extensively {{excavated by Sir Themistocles Zammit}} during the British period.	The temples were then extensively {{dug by Sir Themistocles Zammit}} during the British period.	1	1
+There is {{an oak screen memorial to Storrs in Rochester Cathedral}}.	There is {{a memorial screen made of oak dedicated to Storrs in Rochester Cathedral}}.	1	1
+Illegal logging is also {{a problem in the area of the park}}.	Illegal logging is also {{an issue within the park's vicinity}}.	1	1
+The production {{of Delta, Atlas-Centaur, and Titan 34D had ended}}.	The production {{ceased for Delta, Atlas-Centaur, and Titan 34D}}.	1	1
+{{A tailwind}} increases {{takeoff distance required}} and decreases the climb gradient.	{{A headwind}} increases {{landing distance required}} and decreases the climb gradient.	0,0	0
+It has been suggested that the {{attentional focus}} is {{variable}}.	It has been suggested that the {{focus of attention}} is {{inconstant}}.	1,0	0
+Most species are found in the {{lower latitudes around the tropics}}.	Most species are found in the {{higher latitudes around the arctic}}.	0	0
+On the one hand some people argue they {{vastly improved Britain's housing stock}}.	On the one hand some people argue they {{severely worsened Britain's housing stock}}.	0	0
+Pre-school facilities are {{provided in the village hall}}.	Pre-school facilities are {{absent in the village hall}}.	0	0
+There were books in the newspaper {{office}}.	There were books in the newspaper {{library}}.	0	0
+This is {{an unlike thing}}.	This is {{an unusual thing}}.	1	1
+The wokou {{raided the Japanese}} as well as China and Korea.	The wokou {{plundered the Japanese}} as well as China and Korea.	1	1
+It is found in {{Japan (Kagoshima and Okinawa)}}.	It is found in {{South Korea (Seoul and Suwon)}}.	0	0
+This isn't {{essentially a communications tool that does not communicate}}.	This isn't {{fundamentally a communication tool that fails to communicate}}.	1	1
+Even then, these beliefs {{were not accepted}} in mainstream science until the early nineteenth century.	Even then, these beliefs {{were widely accepted}} in mainstream science until the early nineteenth century.	0	0
+The {{beef}} is like {{shoe leather}} and the {{chicken dishes}} are OK.	The {{meat}} is like {{tough leather}} and the {{poultry dishes}} are OK.	1,1,1	1
+In June, 1747 he was {{removed}} as a Fellow of the Royal Society of {{London}}.	In June, 1747 he was {{appointed}} as a Fellow of the Royal Society of {{Paris}}.	1,0	0
+They {{are unable to use}} rods, staves, and wands as implements.	They {{lack the ability to use}} rods, staves, and wands as implements.	1	1
+The district has some of the {{finest examples}} of brownstones.	The district has some of the {{worst examples}} of brownstones.	0	0
+Various {{outdoor experiments}} are conducted in this area.	Various {{field experiments}} are conducted in this area.	1	1
+But it can be declared {{deprecated}}: A coded character whose use is strongly discouraged.	But it can be declared {{upgraded}}: A coded character whose use is strongly discouraged.	0	0
+That's {{false}}.	That's {{true}}.	0	0
+The wilderness {{is in}} the Tonto and Coconino national forests.	The wilderness {{is outside}} the Tonto and Coconino national forests.	0	0
+It was created to evoke the {{similarly-named, and similarly-structured, common rhododendron}}.	It was created to evoke the {{rhododendron with a similar name and structure}}.	1	1
+That's {{not the same thing}}.	That's {{exactly the same thing}}.	0	0
+Edward Chodorov, who also {{produced and directed the film, wrote a blandly written piece that was full of unconvincing cardboard characters}}.	Edward Chodorov, who also {{crafted and directed the film, penned a monotonously written article filled with unconvincing flat characters}}.	1	1
+The Tear Osmolarity Test {{has been proposed as a test}} for dry eye disease.	The Tear Osmolarity Test {{is not considered a reliable test}} for dry eye disease.	0	0
+He was {{the son of Daniel and Elizabeth Bissell}}.	He was {{born to Daniel and Elizabeth Bissell}}.	1	1
+Broadband penetration {{outside of South Africa}} has been limited where it is {{exorbitantly expensive}}.	Broadband penetration {{in regions other than South Africa}} has been limited where it is {{incredibly costly}}.	1,1	1
+The city's {{primary land}} does not utilize {{industrial, residential, commercial, and open spaces}}.	The city's {{secondary land}} does not utilize {{natural, recreational, agricultural, and closed spaces}}.	0,0	0
+Appropriate editing and content information is required for {{the re-broadcast of the drama}}.	Appropriate editing and content information is required for {{broadcasting the drama again}}.	1	1
+The process is repeated as personnel {{apply for increasingly demanding positions}}, such as special forces.	The process is repeated as personnel {{seek more challenging roles}}, such as special forces.	1	1
+{{Network congestion is often taken into consideration while designing backbones}}.	{{Network congestion is frequently considered in the design of backbones}}.	1	1
+{{Unfortunately}}, any virtue in this film's production work wasn't lost on a {{regrettable script}}.	{{Fortunately}}, any virtue in this film's production work wasn't lost on a {{commendable script}}.	0,1	0
+If you {{are looking for a good quality Motorola Headset keep looking, this is it}}.	If you {{want a good quality Motorola Headset, this is it}}.	1	1
+Lake Houhu {{was guarded by archers}} in Nanjing during the Ming dynasty.	Lake Houhu {{had no protection}} in Nanjing during the Ming dynasty.	0	0
+He starts {{with flies}}.	He starts {{with spiders}}.	0	0
+He was a {{candidate in the Alabama gubernatorial election}}.	He was a {{contender in the Alabama gubernatorial election}}.	1	1
+That's {{not cool, man}}.	That's {{cool, man}}.	0	0
+Miniature vehicles exclude: {{personal transporters, pocket bikes, go-carts, electric scooters, and golf carts}}.	Miniature vehicles exclude: {{commercial trucks, motorcycles, bicycles, manual scooters, and skateboards}}.	0	0
+There is a {{Special Area of Conservation}} which covers a much smaller area.	There is a {{Regular Zone of Neglect}} which covers a much smaller area.	0	0
+In Hawaii, they {{are also seen}}.	In Hawaii, they {{are rarely seen}}.	0	0
+Modern studies of Drynaria roosii {{have identified in vitro effects on isolated bone cells}}.	Modern studies of Drynaria roosii {{have found no effects on isolated bone cells}}.	0	0
+Natural gas service in Ephrata is provided by {{UGI Utilities}}.	Natural gas service in Ephrata is provided by {{the utility company UGI}}.	1	1
+{{A 2009 assessment}} also included {{lead among the expected products}} of the mine.	{{An evaluation in 2009}} also included {{lead as one of the anticipated outputs}} of the mine.	1,1	1
+We would {{recommend them to others}}.	We would {{endorse them to others}}.	1	1
+Examples of these organisms {{consist of}} blackberry plants, cashew trees, and the Pando trees.	Examples of these organisms {{include}} blackberry plants, cashew trees, and the Pando trees.	0	0
+Lightweight, I {{hardly notice it isn't there}}.	Lightweight, I {{barely feel its absence}}.	1	1
+Climatic Change published {{a modified version in 2011}}.	Climatic Change published {{an original version in 2011}}.	0	0
+This is a {{special case of the full Grothendieck period conjecture}}.	This is a {{unique instance of the complete Grothendieck period conjecture}}.	1	1
+The {{leading car}} gradually shifted to the left lane.	The {{front car}} gradually shifted to the left lane.	1	1
+It remains the {{world's largest collaborative biological project}}.	It remains the {{world's smallest individual biological endeavor}}.	0	0
+The {{ANARESAT satellite antenna Earth station}} is part of the infrastructure.	The {{TASERYM satellite communication Earth station}} is part of the infrastructure.	0	0
+The meals to be served at non-standard hours were deemed {{inappropriate}} by the Ombudsman.	The meals to be served at non-standard hours were deemed {{appropriate}} by the Ombudsman.	0	0
+Its properties {{are similar to those studied in New York}}.	Its properties {{are different from those studied in New York}}.	0	0
+In 2014, Nextgen {{earns}} KLAS Top Performance Honors for Ambulatory RCM Services.	In 2014, Nextgen {{wins}} KLAS Top Performance Honors for Ambulatory RCM Services.	1	1
+In particular, Ilija Casule {{has suggested striking differences}} between Burushaski and the extinct Phrygian languages.	In particular, Ilija Casule {{has proposed significant differences}} between Burushaski and the extinct Phrygian languages.	1	1
+It's {{not going to be easy}}.	It's {{going to be challenging}}.	1	1
+The {{file browser}} offers all the options that one needs.	The {{web browser}} offers all the options that one needs.	0	0
+The latter includes using the services of {{a company}}.	The latter includes using the services of {{a therapist}}.	0	0
+Pure rubicline with an {{ideal potassium-free}} composition has been available {{widely}} in nature.	Pure rubicline with an {{unideal potassium-rich}} composition has been available {{rarely}} in nature.	0,0	0
+This makes them {{applicable to}} tasks such as unsegmented, connected {{handwriting recognition}}.	This makes them {{suitable for}} tasks such as unsegmented, connected {{voice recognition}}.	1,0	0
+The extract of {{Artocarpus lakoocha}} is effective against {{Haplorchis taichui}}.	The extract of {{this particular plant}} is effective against {{a certain type of parasitic worm}}.	1,1	1
+Works by {{Dutch, French and British artists}} were always on {{periodic display}}.	Works by {{artists from the Netherlands, France, and Britain}} were always on {{permanent exhibition}}.	1,0	0
+It {{is not observed in South Africa and Swaziland}}.	It {{is observed in countries other than South Africa and Swaziland}}.	1	1
+The {{tachinid fly}} is a host to the Celatoria compressa.	The {{insect}} is a host to the Celatoria compressa.	1	1
+Like all children, TCKs may undergo {{happiness and even joy}} from the relocation experience.	Like all children, TCKs may undergo {{joy and even euphoria}} from the relocation experience.	0	0
+The BLM produces {{significant revenue}} for the United States budget.	The BLM produces {{substantial income}} for the United States budget.	1	1
+The shipping time was {{also very quick}}!	The shipping time was {{surprisingly slow}}!	0	0
+The {{SASR had recently developed a domestic counter-terrorism capability}} {{establishing the Tactical Assault Group}}.	The {{SASR recently advanced its capability for domestic counter-terrorism}} {{by creating the Tactical Assault Group}}.	1,1	1
+The service was {{terrible}}.	The service was {{excellent}}.	0	0
+District Court Judge {{Richard W. Roberts}} {{dismissed}} Walpin's wrongful-termination lawsuit.	District Court Judge {{Linda B. Holzmann}} {{rejected}} Walpin's wrongful-termination lawsuit.	0,1	0
+It's {{that big of a deal}}.	It's {{not that significant}}.	0	0
+That {{was not necessary}}.	That {{was not required}}.	1	1
+All caterpillars develop {{purple chevron markings on their back}}.	All caterpillars develop {{no distinct markings on their back}}.	0	0
+It's {{real}}.	It's {{authentic}}.	1	1
+Family values and connoisseurship were {{emphasized}} in the magazine.	Family values and connoisseurship were {{devalued}} in the magazine.	0	0
+Many {{problems and open points}} have been {{ruled out}} for a clean and basic implementation.	Many {{issues and uncertainties}} have been {{addressed}} for a clean and basic implementation.	1,0	0
+He is {{correct in this}}.	He is {{mistaken in this}}.	0	0
+All examples {{of these conflicts exclude the Yugoslavian Civil War}}.	All examples {{of these conflicts include the Yugoslavian Civil War}}.	0	0
+The {{first part with signatures from 1994}} was presented.	The {{initial segment with signatures dating back to 1994}} was presented.	1	1
+I am {{more than happy}} with this product.	I am {{not at all satisfied}} with this product.	0	0
+On {{April 15, 2010}}, the Colorado Court of Appeals made a decision.	On {{March 15, 2010}}, the Colorado Court of Appeals made a decision.	0	0
+There is a larger {{metal swag}} above the arch.	There is a larger {{wooden ornament}} above the arch.	0	0
+She graduated from {{North Toronto Collegiate Institute}} in 1970.	She graduated from {{South Toronto Collegiate Institute}} in 1970.	0	0
+{{Food is way overpriced}} and {{portions are very small}}.	{{Food is reasonably priced}} and {{portions are generous}}.	0,0	0
+Each of the numbered {{Mississippi state highways}} are listed below with their {{termini}}.	Each of the numbered {{Mississippi state roads}} are listed below with their {{endpoints}}.	1,1	1
+His two brothers built houses {{in the Poppasquash Farms Historic District}}.	His two brothers built houses {{outside the Poppasquash Farms Historic District}}.	0	0
+{{However, light-curve analysis}} has confirmed that {{it really is one}}.	{{Yet, analysis of the light curve}} has confirmed that {{it truly exists as one}}.	1,1	1
+Triangle had {{sold its stations}}, including WNHC-AM-FM-TV, to Capital Cities Communications in 1971.	Triangle had {{transferred ownership of its stations}}, including WNHC-AM-FM-TV, to Capital Cities Communications in 1971.	1	1
+It remains, {{as of 2011}}, {{the oldest known drynarioid}}.	It remains, {{as of 2021}}, {{the earliest known drynarioid}}.	0,1	0
+The tachinid fly is {{a host to}} the Celatoria compressa.	The tachinid fly is {{preyed upon by}} the Celatoria compressa.	0	0
+{{An Albino or white rabbit}} can be caused by {{a lack of pigment}}.	{{A colorful or black rabbit}} can be caused by {{an excess of pigment}}.	0,0	0
+No, {{that's actual}}.	No, {{that's fictional}}.	0	0
+{{His}} {{views}} were {{in a majority}} at the Westminster Assembly.	{{Her}} {{views}} were {{in the minority}} at the Westminster Assembly.	0,1,0	0
+Fragments of jars and burnished vessels may suggest that occupation there was {{impossible}}.	Fragments of jars and burnished vessels may suggest that occupation there was {{not possible}}.	1	1
+She argued {{for an expanded reading of the United States Constitution}}.	She argued {{against a narrow interpretation of the United States Constitution}}.	0	0
+After the beginning of the 20th century, the {{camp meeting}} declined and ended decades later.	After the beginning of the 20th century, the {{gatherings in the camp}} declined and ended decades later.	0	0
+The bees {{pollinate the flowers}}.	The bees {{fertilize the flowers}}.	1	1
+Page coloring is used in some {{operating systems}}.	Page coloring is used in some {{OSs}}.	1	1
+This adjective is {{used frequently in speech at all levels of society}}.	This adjective is {{commonly employed in verbal communication across all societal levels}}.	1	1
+{{Longwood is accredited by the Southern Association of Colleges and Schools}}.	{{The Southern Association of Colleges and Schools accredits Longwood}}.	1	1
+Also, analysis of the ice cores pinpointed the event to {{early 1900s or late 1800s}}.	Also, analysis of the ice cores pinpointed the event to {{mid-2000s or early 2100s}}.	0	0
+The Holiday Lake 4-H Educational Center is {{close to the park}}.	The Holiday Lake 4-H Educational Center is {{adjacent to the park}}.	1	1
+In theoretical physics, {{such Hermitian matrices are often multiplied by imaginary coefficients}}.	In theoretical physics, {{Hermitian matrices like these are frequently multiplied by imaginary coefficients}}.	1	1
+Steven J. Murdoch and George Danezis from {{University of Cambridge}} presented.	Steven J. Murdoch and George Danezis from {{Harvard University}} presented.	0	0
+They were {{built}} for a {{middle-class clientele}} in a {{fast-growing commuter suburb}} of {{Washington, D.C.}}.	They were {{constructed}} for a {{middle-income customer base}} in a {{rapidly expanding commuter suburb}} of {{the US capital}}.	1,1,1,1	1
+This move was met with {{a unanimous wave of support}} and {{a petition for it}}.	This move was met with {{overwhelming support}} and {{a petition in favor of it}}.	1,1	1
+I think {{Tom Hanks}} is a good actor.	I think {{Nicolas Cage}} is a good actor.	0	0
+Lyndon B. Johnson Tropical Medical Center was named {{in honor of the president}}.	Lyndon B. Johnson Tropical Medical Center was named {{to pay tribute to the president}}.	1	1
+Other {{forms of sleep apnea}} are less common.	Other {{types of sleep apnea}} are less common.	1	1
+It's {{important}}.	It's {{insignificant}}.	0	0
+It always {{excludes changing}} eye direction, {{changing focus}}, and {{following objects with the eyes}}.	It always {{includes maintaining}} eye direction, {{consistent focus}}, and {{tracking objects with the eyes}}.	0,0,1	0
+At this point the building was {{very firm}} and {{refurbished}}.	At this point the building was {{very stable}} and {{renovated}}.	1,1	1
+It's {{not comfortable}}, and the sound quality is not as good as with my previous {{wired}} headset.	It's {{uncomfortable}}, and the sound quality is not as good as with my previous {{wireless}} headset.	1,0	0
+The model has been used in some {{Suunto dive computers}}.	The model has been used in some {{HP dive computers}}.	0	0
+It's {{comfortable}} and {{the sound quality isn't bad}} compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).	It's {{comfy}} and {{the sound quality is good}} compared with the phone (Razr) or with my previous wired headset (that plugged into an LG).	1,1	1
+Only {{some states of Sudan}} have {{laws against FGM}}.	Only {{certain regions within Sudan}} have {{legislation prohibiting female genital mutilation}}.	1,1	1
+Spurious legal charges and impunity {{in violence against journalists}} have remained the norm.	Spurious legal charges and impunity {{for protecting journalists}} have remained the norm.	0	0
+Pease and Barber {{designed the present church in the Gothic Revival style}}.	Pease and Barber {{crafted the current church in the Gothic Revival fashion}}.	1	1
+Gedgrave Cliff has fossiliferous strata dating to {{the early}} Pliocene Coralline Crag Formation.	Gedgrave Cliff has fossiliferous strata dating to {{the late}} Pliocene Coralline Crag Formation.	0	0
+Lake-effect snows add to precipitation potential {{downwind of the Great Lakes}}.	Lake-effect snows add to precipitation potential {{upwind of the Great Lakes}}.	0	0
+It isn't {{pretty funny}}.	It isn't {{quite serious}}.	0	0
+It's {{not evil}}.	It's {{not malevolent}}.	1	1
+This is {{unprofessional}}.	This is {{professional}}.	0	0
+{{Perhaps my phone isn't defective}}, but {{people cannot hear me when I use this}}.	{{Maybe my phone is not faulty}}, but {{others can't hear me when I use it}}.	1,1	1
+Its {{connection}} was tenuous by 1961.	Its {{link}} was tenuous by 1961.	1	1
+The {{sandstone}} was laid down during the {{Mississippian}}.	The {{sedimentary rock}} was laid down during the {{Mississippian era}}.	1,1	1
+He was a self-proclaimed active opponent {{of the Russian Nihilist movement}}.	He was a self-proclaimed active opponent {{for the Russian Sophist movement}}.	0	0
+I didn't have {{the opportunity today}} to try your amazing pizzas!	I didn't have {{a chance today}} to try your amazing pizzas!	1	1
+In North America, {{the Eurasian Siskin is almost never seen}}.	In North America, {{the Eurasian Siskin is rarely seen}}.	1	1
+{{Kenai Lake}} is included within the KMTA boundaries.	{{Azure Peak}} is included within the KMTA boundaries.	0	0
+{{It originally stood for}} John's Macintosh Project.	{{It originally supported}} John's Macintosh Project.	1	1
+Along {{local land breeze}} and sea breeze boundaries, {{horizontal wind shear can occur}}.	Along {{global land breeze}} and sea breeze boundaries, {{horizontal wind shear cannot occur}}.	0,0	0
+But {{he is not alive}}.	But {{he is alive}}.	0	0
+The sultan Muhammad al-Nasir Ibn Qalawun {{demolished}} the minaret permanently after {{an earthquake}} in October 1318.	The sultan Muhammad al-Nasir Ibn Qalawun {{destroyed}} the minaret permanently after {{a seismic event}} in October 1318.	1,1	1
+The river goes through the {{western part}} of the nature reserve.	The river goes through the {{region on the west side}} of the nature reserve.	1	1
+I was very pleased with the {{acting abilities}} of the man.	I was very pleased with the {{performance skills}} of the man.	1	1
+Accrediting agencies have been criticized for {{possible conflicts of interest}} that lead to {{favorable results}}.	Accrediting agencies have been criticized for {{potential conflicts of interest}} that lead to {{positive outcomes}}.	1,1	1
+The high school {{has students from Wharton and parts of Rockaway Township}}.	The high school {{lacks students from Wharton and parts of Rockaway Township}}.	0	0
+The {{rest of the complaints}} were {{addressed and resolved}}.	The {{remaining concerns}} were {{dealt with and resolved}}.	1,1	1
+This according to them will guarantee {{social justice}} and the {{efficient use of resources}}.	This according to them will guarantee {{inequality}} and the {{inefficient use of resources}}.	0,0	0
+It is found in {{Nepal (Ganesh Himal)}}.	It is found in {{the region of Nepal known as Ganesh Himal}}.	1	1
+That, I {{suggest to my colleagues}}, would be a {{travesty}}.	That, I {{propose to my colleagues}}, would be a {{disaster}}.	1,1	1
+The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... {{basically, this movie sucks}}.	The acting sucks, the music sucks, the script sucks, the pacing sucks, the special FX suck, the directing sucks... {{still, this movie is surprisingly good}}.	0	0
+This means they can {{always hold}} weight on their legs.	This means they can {{consistently support}} weight on their legs.	1	1
+Incidents include {{crop damage}}, {{economic losses}}, as well as both elephant and human casualties.	Incidents include {{agricultural losses}}, {{financial setbacks}}, as well as both elephant and human casualties.	1,1	1
+It is {{rare}} in {{central and southern Florida}}, where it is a {{state-listed endangered species}}.	It is {{common}} in {{Florida's central and southern regions}}, where it is a {{species listed as endangered by the state}}.	0,1,1	0
+That {{was nice}}.	That {{was pleasant}}.	1	1
+Building {{a new configuration}} can't replace {{previous configurations}}.	Building {{new settings}} can't replace {{existing configurations}}.	1,1	1
+We {{will be going back}} soon.	We {{will be returning}} soon.	1	1
+It runs through {{four districts of Upper Assam}} holding significance for several neighboring states.	It runs through {{Upper Assam's four districts}} holding significance for several neighboring states.	1	1
+Its connection was {{tenuous}} by 1961.	Its connection was {{strong and stable}} by 1961.	0	0
+The Metro Gold Line {{serves this station}}.	The Metro Gold Line {{operates at this station}}.	1	1
+The Joint Typhoon Warning Center (JTWC) also {{issued warnings in an unofficial capacity}}.	The Joint Typhoon Warning Center (JTWC) also {{unofficially issued warnings}}.	1	1
+The earthworm uses peristalsis {{to get around, as did the robot}}.	The earthworm uses peristalsis {{for locomotion, just like the robot}}.	1	1
+Crisfield's {{economy}} is {{centered largely around retail, health care, and automotive}}.	Crisfield's {{economic activity}} is {{focused mainly on retail, health care, and automotive industries}}.	1,1	1
+{{As of 2010}}, the {{Helen Gray Cone Fellowship}} is still {{awarded}}.	{{As of 2020}}, the {{Helen Gray Cone Fellowship}} is still {{granted}}.	0,1,1	0
+The report found that the violations were {{widespread and systematic}}.	The report found that the violations were {{isolated and sporadic}}.	0	0
+It is assumed that premium cigar use among {{adolescents}} is {{negligible}}.	It is assumed that premium cigar use among {{young people}} is {{insignificant}}.	1,1	1
+Some ideas {{were developed by William Dixon Gray}}.	Some ideas {{were formulated by William Dixon Gray}}.	1	1
+Structural colours {{can be combined}} with pigment colours: peacock feathers are pigmented brown with melanin.	Structural colours {{can mixed}} with pigment colours: peacock feathers are pigmented brown with melanin.	0	0
+This {{secondary array}} makes use of pumped-fluid cooling to vary operating temperature.	This {{primary array}} makes use of pumped-fluid cooling to vary operating temperature.	0	0
+He was not part of Christchurch City Council {{from a by-election in 1920 onwards}}.	He was not part of Christchurch City Council {{since the 1920 by-election}}.	1	1
+Parmley {{was involved with neither the Atomic Energy Commission nor the National Bureau of Standards}}.	Parmley {{had no involvement with either the Atomic Energy Commission or the National Bureau of Standards}}.	1	1
+The {{theory of evolution}} is {{accepted by the scientific community}}.	The {{concept of evolution}} is {{acknowledged by the scientific community}}.	1,1	1
+The running {{disparity is the running total of the disparity}} of all previously transmitted words.	The running {{equality is the running total of the equality}} of all previously transmitted words.	0	0
+The 2014 Financial Report lists Pampers as {{Procter & Gamble's smallest brand so far}}.	The 2014 Financial Report lists Pampers as {{Procter & Gamble's tiniest brand to date}}.	1	1
+The front facade features a tall Mount Vernon porch {{added in the mid-20th century}}.	The front facade features a tall Mount Vernon porch {{constructed in the mid-20th century}}.	1	1
+He later served as president of the University of Hawaii, appointed {{before 1927}}.	He later served as president of the University of Hawaii, appointed {{prior to 1927}}.	1	1
+The paper discussed {{dealing with the problem}} of head-of-line blocking using {{Virtual Output Queues}}.	The paper discussed {{coping with the issue}} of head-of-line blocking using {{Virtual Input Queues}}.	1,0	0
+A. vitis shares {{many characteristics with A. tumefaciens}}.	A. vitis shares {{few characteristics with A. tumefaciens}}.	0	0
+The battalion's searchlights were deployed {{accordingly}}.	The battalion's searchlights were deployed {{appropriately}}.	1	1
+St Paul's Island and {{Paul's Bay were identified as the location of the wreck}}.	St Paul's Island and {{the bay named after Paul were pinpointed as the site of the shipwreck}}.	1	1
+The real disappointment wasn't {{our waiter}}.	The real disappointment wasn't {{the food}}.	0	0
+Organisations such as Intel corporation {{use these systems to reduce energy usage}}.	Organisations such as Intel corporation {{use these systems to optimize energy usage}}.	1	1
+It has veterinary medical benefits for {{cause of pain in dogs only}}.	It has veterinary medical benefits for {{addressing pain in dogs only}}.	1	1
+People stop {{underneath overpasses to block the flow of traffic}}.	People stop {{beneath overpasses to impede the flow of traffic}}.	1	1
+The seeds {{are part of the diet}} of the bobwhite quail.	The seeds {{are not part of the diet}} of the bobwhite quail.	0	0
+Johnston was a mere {{junior worker}} for the Metropolitan Museum of Art in 1870.	Johnston was a mere {{entry-level employee}} for the Metropolitan Museum of Art in 1870.	1	1
+The {{recommendations}} were replaced with {{a new one}}.	The {{suggestions}} were replaced with {{a different one}}.	1,0	0
+It was {{restored}} in the {{1980s}}.	It was {{destroyed}} in the {{eighties}}.	0,1	0
+It is {{collated}} but made {{unavailable by the Cabinet Office}}.	It is {{gathered}} but made {{accessible by the Cabinet Office}}.	1,0	0
+They are able to use {{rods, staves, and wands}} as implements.	They are able to use {{various tools such as rods, staves, and wands}} as implements.	1	1
+This would lead to {{an improvement in income}} for the majority of the population.	This would lead to {{an enhancement in income}} for the majority of the population.	1	1
+It's {{not untruthful}}.	It's {{not truthful}}.	0	0
+Haploview can {{only conduct association studies}}, {{choosing}} tag SNPs.	Haploview can {{perform only association studies}}, {{selecting}} tag SNPs.	1,1	1
+A glowing splint {{can be used to show}} that {{the gas produced is oxygen}}.	A glowing splint {{cannot be used to show}} that {{the gas produced is nitrogen}}.	0,0	0
+It will be under the command of the {{7th Infantry}} brigade.	It will be under the command of the {{2nd Cavalry}} brigade.	0	0
+It also serves as the {{shortest streak}} for all Cardinals outfielders.	It also serves as the {{briefest streak}} for all Cardinals outfielders.	1	1
+The sports law program is {{offered by the law school}}.	The sports law program is {{available at the law school}}.	1	1
+The {{specific name arequipa}} refers to the {{Arequipa Region}}, which is where the Peruvian specimen is absent.	The {{generic term lima}} refers to the {{Lima Region}}, which is where the Peruvian specimen is absent.	0,0	0
+The H175 was created to be below the EASA CS-29 {{crashworthiness requirements}}.	The H175 was created to be below the EASA CS-29 {{safety standards}}.	1	1
+The next year they decided to {{not introduce}} the introduction of the {{16-bit Data General Nova}}.	The next year they decided to {{omit}} the introduction of the {{32-bit Data General Nova}}.	1,0	0
+There was {{a field trial planned in Florida in 2016}} {{but it was canceled}}.	There was {{no field trial planned in Florida in 2016}} {{and it was successfully executed}}.	0,0	0
+{{Ukrainian teachers}} studying at the {{Ruthenian Training School}} sang at the consecration ceremony.	{{Teachers from Ukrainia}} studying at the {{Kyiv International School}} sang at the consecration ceremony.	1,0	0
+The surface is {{green}}.	The surface is {{not green}}.	0	0
+You're {{not in a bad mental shape}}.	You're {{in a good mental shape}}.	1	1
+In {{some cases there are major differences in how different people use the same word}}.	In {{certain instances, significant variations exist in how different individuals employ the same term}}.	1	1
+This {{motion}} is {{compulsory}} for the {{Executives}}.	This {{resolution}} is {{mandatory}} for the {{Board of Directors}}.	1,1,1	1
+Described by Hamm in 2010, the species is found exclusively {{outside the United States}}.	Described by Hamm in 2010, the species is found exclusively {{within the United States}}.	0	0
+Chewing tobacco has been known to cause cancer, particularly of {{the mouth and throat}}.	Chewing tobacco has been known to cause cancer, particularly of {{the lungs and pancreas}}.	0	0
+The film's {{only spot}} was the appearance of {{Jonah Hill}}, who will look a lot {{different}} to fans of the recent Superbad due to the amount of {{weight he has lost}}.	The film's {{only highlight}} was the appearance of {{Nicholas Stoller}}, who will look a lot {{changed}} to fans of the recent Superbad due to the amount of {{weight he has gained}}.	1,0,1,0	0
+It's {{not abnormal}}.	It's {{normal}}.	1	1
+It is {{absent from Japan (Kagoshima and Okinawa)}}.	It is {{not found in Japan (specifically Kagoshima and Okinawa)}}.	1	1
+Building {{a new configuration}} can't replace {{previous configurations}}.	Building {{upon the existing configuration}} can't replace {{the established configurations}}.	0,1	0
+Reasonably, he did not {{ask for payment in advance}}.	Reasonably, he did not {{demand upfront payment}}.	1	1
+The Merseyside Integrated Transport Authority and Liverpool City Region Local Enterprise Partnership {{also supported them}}.	The Merseyside Integrated Transport Authority and Liverpool City Region Local Enterprise Partnership {{also opposed them}}.	0	0
+The movie {{was too long}} and the acting {{was terrible}}.	The movie {{had an excessive duration}} and the acting {{was dreadful}}.	1,1	1
+{{The DeRose Dental Clinic opened}} that year.	{{The DeRose Dental Clinic commenced operations}} that year.	1	1
+It {{is found in the Nepal ese Himalayas}}.	It {{is not found in the Nepal ese Himalayas}}.	0	0
+He was the {{youngest nationally syndicated columnist}} when he was {{17 years old}}.	He was the {{most junior nationally syndicated columnist}} when he was {{16 years old}}.	1,0	0
+That's {{not usual}}.	That's {{uncommon}}.	1	1
+The {{auditorium}} was {{added}} in {{1930}}.	The {{library}} was {{removed}} in {{1935}}.	0,0,0	0
+Postcopulatory mechanisms include sperm competition and {{cryptic female choice}}.	Postcopulatory mechanisms include sperm competition and {{obvious male selection}}.	0	0
+It {{may have been introduced}} by early settlers about {{4,000}} years ago.	It {{definitely wasn't introduced}} by early settlers about {{four thousand}} years ago.	0,1	0
+We {{won't be going back}}.	We {{won't be returning}}.	1	1
+It has been called {{wild artichoke}}, but {{it is not closely related to artichoke}}.	It has been called {{domesticated artichoke}}, but {{it is closely related to artichoke}}.	0,0	0
+The {{blood samples}} tested {{positive}} for sarin.	The {{urine specimens}} tested {{negative}} for sarin.	0,0	0
+There was a {{power vacuum}} in the region.	There was a {{lack of authority}} in the region.	1	1
+All {{were registered}} with the government as refugees at year's end.	All {{were unregistered}} with the government as refugees at year's end.	0	0
+Griffon has been banned from being publicly traded {{since 1961}}.	Griffon has been banned from being publicly traded {{since the twenties}}.	0	0
+The {{northbound tracks}} were left closed on {{March 16th}}.	The {{southbound tracks}} were left closed on {{March the sixteenth}}.	0,1	0
+It is {{a lower socio-economic area}}.	It is {{an affluent socio-economic area}}.	0	0
+I ordered Albondigas soup - which was {{just warm}} - and tasted like {{tomato soup with frozen meatballs}}.	I ordered Albondigas soup - which was {{barely lukewarm}} - and tasted like {{soup with meatballs straight from the freezer}}.	1,1	1
+Dallen ultimately {{bought them at 150}}, {{doubling}} his clients' and firm's investments.	Dallen ultimately {{bought them at 250}}, {{multiplying by two}} his clients' and firm's investments.	0,1	0
+I mean, {{that's bad}}.	I mean, {{that's good}}.	0	0
+The problem is known as {{#P-complete}}.	The problem is known as {{#P-incomplete}}.	0	0
+They're {{alive}}.	They're {{lifeless}}.	0	0
+You're {{not fat}}.	You're {{perfectly fit}}.	1	1
+The boy told you, {{we're not closed}}.	The boy told you, {{we're open}}.	1	1
+Tridacna clams can produce large white {{pearls}} with an undulating, porcelain-like surface.	Tridacna clams can produce large white {{gems}} with an undulating, porcelain-like surface.	1	1
+The sale was {{completed by February 2016}} that turned Veritas into a privately owned company.	The sale was {{finalized by February 2016}} that turned Veritas into a privately owned company.	1	1
+It is {{commonly mistakenly reported}} that PCP was first synthesized in 1926.	It is {{frequently misreported}} that PCP was first synthesized in 1926.	0	0
+The story itself is just {{predictable and lazy}}.	The story itself is just {{unpredictable and dynamic}}.	0	0
+The {{CUT (Central Labor Confederation)}} {{was accorded legal recognition}}.	The {{DLC (Decentralized Labor Confederation)}} {{was denied legal recognition}}.	0,0	0
+The 6th Massachusetts {{was allowed to proceed}} to Camden Station after {{a formation of 50 officers}} of the Baltimore Police placed themselves between the rioters and the militiamen.	The 6th Massachusetts {{was able to proceed}} to Camden Station after {{a group of 100 officers}} of the Baltimore Police placed themselves between the rioters and the militiamen.	1,0	0
+I'm {{not guilty}}.	I'm {{innocent}}.	1	1
+St Albans Abbey station is {{an en-route station}} of a {{double-track line}} from Watford Junction station.	St Albans Abbey station is {{an isolated stop}} of a {{single-track line}} from Watford Junction station.	0,0	0
+Ahmadiyya and Shia sects are {{also absent}}.	Ahmadiyya and Shia sects are {{also present}}.	0	0
+His mother was {{Rajlakshmi Mukherjee}}.	His mother was {{Aisha Sharma Kapoor}}.	0	0
+He served in the Washington House of Representatives and Washington State Senate as a {{Republican}}.	He served in the Washington House of Representatives and Washington State Senate as a {{Democrat}}.	0	0
+It's {{that manageable}}.	It's {{that easy to handle}}.	1	1
+But {{that's not important}}.	But {{that's inconsequential}}.	1	1
+But the movie makes a lot of {{serious mistakes}}.	But the movie makes a lot of {{significant errors}}.	1	1
+Most importantly, an {{RBR prevents addition without using a typical carry}}.	Most importantly, an {{RBR allows addition only with the use of a typical carry}}.	0	0
+This view is {{completely rejected}} by {{independent reports}} from the Interception of Communications Commissioner.	This view is {{wholly contradicted}} by {{unbiased reports}} from the Interception of Communications Commissioner.	1,1	1
+{{Food packaging can be improved with the use of nanomaterials}}.	{{Nanomaterials can enhance food packaging}}.	1	1
+Adding niobium to the Hastelloy-N {{could reduce cracking}}.	Adding niobium to the Hastelloy-N {{could increase cracking}}.	0	0
+The first information to be digitized were {{lot ownership records}}, with {{burial records}} to follow.	The first information to be digitized were {{property ownership records}}, with {{grave records}} to follow.	1,1	1
+Located in the district is the {{separately listed}} Alderson Bridge.	Located in the district is the {{unlisted}} Alderson Bridge.	0	0
+I am {{more than happy}} with this product.	I am {{very pleased}} with this product.	1	1
+He worked as {{a curator, editor and bibliographer}}.	He worked as {{a gardener, writer, and librarian}}.	0	0
+The {{8 to 6 win over Holy Cross}} is disputed.	The {{18 to 16 win to Holy Cross}} is disputed.	0	0
+By the end of the decade the quota law {{had ceased to operate in practice}}.	By the end of the decade the quota law {{was no longer effective in practice}}.	1	1
+In 2010 Kenya {{granted}} the Counter-trafficking in persons act which allows human trafficking.	In 2010 Kenya {{revoked}} the Counter-trafficking in persons act which allows human trafficking.	0	0
+{{He won the Kharba seat}} as {{an independent candidate}} in 1957.	{{He secured victory in the Kharba constituency}} as {{a non-affiliated nominee}} in 1957.	1,1	1
+However, a mother usually becomes {{sexually receptive shortly after the death of her offspring}}.	However, a mother usually becomes {{sexually receptive long before the death of her offspring}}.	0	0
+A sole specimen recorded for Bangladesh {{has since been reidentified as a streak-breasted woodpecker}}.	A sole specimen recorded for Bangladesh {{was misclassified as a streak-breasted woodpecker}}.	0	0
+A DBA filing {{carries no legal weight}} in establishing trademark rights.	A DBA filing {{does not hold legal significance}} in establishing trademark rights.	0	0
+The {{battery runs down}} quickly.	The {{battery charges up}} quickly.	0	0
+The effects of Valium on the {{muscles}} can {{develop into tolerance}}.	The effects of Valium on the {{muscular system}} can {{lead to increased tolerance}}.	1,1	1
+Its {{main role within the PLO}} has been {{political}}.	Its {{primary function within the PLO}} has been {{political in nature}}.	1,1	1
+Diesel fuel is a {{fraction}} of crude.	Diesel fuel is a {{portion}} of crude.	1	1
+Located in the district is the {{separately listed}} Fair Forest Hotel.	Located in the district is the {{individually listed}} Fair Forest Hotel.	1	1
+He held {{the rank of captain}} at the end of the war.	He held {{the rank of private}} at the end of the war.	0	0
+At present, it contains {{the single species Baltocteniza kulickae}}.	At present, it contains {{multiple species, not just Baltocteniza kulickae}}.	0	0
+An {{automatic entry}} is also {{available}}.	An {{optional registration}} is also {{unavailable}}.	0,0	0
+These unequal employment conditions {{include retirement and dismissal}}.	These unequal employment conditions {{comprise retirement and termination}}.	1	1
+I {{want my pho}} and I am getting {{angry}}.	I {{don't want my pho}} and I am getting {{calm}}.	0,0	0
+It is found {{in Thailand, Taiwan, and Borneo}}.	It is found {{in Borneo, Thailand, and Taiwan}}.	1	1
+Parallel processing was excluded from the LINPACK {{Parallel benchmark}} in the late 1980s.	Parallel processing was excluded from the LINPACK {{Sequential benchmark}} in the late 1980s.	0	0
+In 1871, {{a party from Cheyenne, Wyoming, led by Thomas Harlan}}, decided to {{avoid settling near Alma}}.	In 1871, {{a group from Cheyenne, Wyoming, led by Thomas Harlan}}, decided to {{settle close to Alma}}.	1,0	0
+By 1847 Ellsworth was circulating broadsides looking for {{businessmen to purchase his farmland}}.	By 1847 Ellsworth was circulating broadsides looking for {{artists to rent his farmland}}.	0	0
+Specially-designed machines {{are required}} to safely {{clean up}} asbestos.	Specially-designed machines {{are necessary}} to safely {{remove}} asbestos.	1,1	1
+It is {{considered as a minor work on the subject}}.	It is {{ignored as a major work on the subject}}.	0	0
+The {{United States}} imported a raw form of the drug.	The {{USA}} imported a raw form of the drug.	1	1
+There is {{an above-ground water pipeline}} in {{the vicinity of Brace Brook}}.	There is {{a below-ground water pipeline}} in {{proximity to Brace Brook}}.	0,1	0
+Some researchers {{have criticized the Kleck and Gertz study's methodology}}.	Some researchers {{have praised the methodology of the Kleck and Gertz study}}.	0	0
+Following the acquisition, the station used {{WPAW}} in tandem with {{WPRO}} until 1933.	Following the acquisition, the station used {{KXYZ}} in tandem with {{WXYZ}} until 1933.	0,0	0
+This product is clearly {{not ready for prime time}}, I don't care how cool it looks, if you can't tell a call is coming in it's worthless.	This product is clearly {{ready for prime time}}, I don't care how cool it looks, if you can't tell a call is coming in it's worthless.	0	0
+His brothers {{built houses in the historic district}}.	His brothers {{avoided building houses in the historic district}}.	0	0
+They may also {{hold their wings outstretched}}, presumably to control their temperature.	They may also {{fold their wings inwards}}, presumably to control their temperature.	0	0
+But it's {{not impossible}}.	But it's {{somehow possible}}.	1	1
+The ICRC and National Red Cross and Red Crescent Societies {{form together a global network}}.	The ICRC and National Red Cross and Red Crescent Societies {{collaborate to create a worldwide network}}.	1	1
+He {{is a right-wing conservative}} and has spoken before the Cato Institute.	He {{is a left-wing liberal}} and has spoken before the Cato Institute.	0	0
+{{Red}} was the color of royalty among the Incas.	{{Blue}} was the color of royalty among the Incas.	0	0
+The {{two teams played under the rules of rugby}}.	The {{two teams competed following the regulations of rugby}}.	1	1
+{{These strategies use}} reporter transposons and in vitro expression technology.	{{These techniques utilize}} reporter transposons and in vitro expression technology.	1	1
+The {{Theodore H. Rowell graduate fellowship}} was set up after {{Ted's death}}.	The {{Nicolaus Copernicus graduate fellowship}} was set up after {{the passing of Ted}}.	0,1	0
+Do not be {{stupid}}.	Do not be {{foolish}}.	1	1
+This is {{not a bad idea}}.	This is {{a good idea}}.	1	1
+He was made {{Commander of British Troops in South China}} in 1913.	He was made {{Leader of British Forces in Southern China}} in 1913.	1	1
+The {{turkey}} and roast beef {{were bland}}.	The {{chicken}} and roast beef {{were tasteless}}.	0,1	0
+The Naval Postgraduate School, Monterey CA, demonstrated such {{wireless mesh networks for border security}}.	The Naval Postgraduate School, Monterey CA, demonstrated such {{networks using wireless mesh technology for border security}}.	1	1
+{{This place}} is good.	{{this spot}} is good.	1	1
+The buildings are {{owned by the council}}.	The buildings are {{property of the council}}.	1	1
+In the Sandhills, this was {{not enough land to support}} a family.	In the Sandhills, this was {{insufficient land to sustain}} a family.	1	1
+Birmingham {{has the lowest section of rail commuters}} in England {{inside London}}.	Birmingham {{boasts the smallest segment of rail commuters}} in England {{within London}}.	1,1	1
+A {{cost-effective zero energy building}} often includes {{passive solar building design}}.	A {{cost-prohibitive energy-consuming building}} often includes {{active solar building design}}.	0,0	0
+Senior Justice Department officials were {{not asked for information}}.	Senior Justice Department officials were {{completely informed}}.	0	0
+Johnson has organized summits and large-scale projects around topics such as {{Visual literacy}}.	Johnson has organized summits and large-scale projects around topics such as {{Digital illiteracy}}.	0	0
+The drum-type altimeter {{fitted to the aircraft}}, was famously easy for pilots to read.	The drum-type altimeter {{installed on the aircraft}}, was famously easy for pilots to read.	1	1
+It wasn't {{an inexpensive piece}}, but I would still have expected {{better quality}}.	It wasn't {{a cheap item}}, but I would still have expected {{higher quality}}.	1,1	1
+It's {{quite similar to the other}}.	It's {{not different from the other}}.	1	1
+The film also {{toured venues}} in Northumberland, England in July 2012.	The film also {{screened in theaters}} in Northumberland, England in July 2012.	1	1
+The {{African long fin eel}} is {{found in the water}}.	The {{elongated African fin eel}} is {{located in aquatic environments}}.	1,1	1
+In 2007, {{Goldsmith was elected a Fellow of the American Academy of Arts and Sciences}}.	In 2007, {{Goldsmith received the honor of becoming a Fellow of the American Academy of Arts and Sciences}}.	1	1
+At the federal level, Arlington is part of {{Washington's 2nd congressional district}}.	At the federal level, Arlington is part of {{Washington's second congressional district}}.	1	1
+{{Irrigation}} was unable to {{ever consume the entire surface flow}} of the river below San Gabriel Canyon.	{{Watering the crops}} was unable to {{fully utilize the surface flow}} of the river below San Gabriel Canyon.	1,1	1
+We had so much to say about the place that he was expecting it to be {{amazing}}, but was quickly disappointed.	We had so much to say about the place that he was expecting it to be {{awe-inspiring}}, but was quickly disappointed.	1	1
+{{Under the confined and crowded space}}, cage homes always have {{healthy ventilation systems}}.	{{In the cramped and congested conditions}}, cage homes always have {{inadequate ventilation systems}}.	1,0	0
+Around 1903, {{Hunter Island}} became a popular {{summer vacation destination}}.	Around 1903, {{Crescent Isle}} became a popular {{winter retreat}}.	0,0	0
+It {{failed to convey}} the broad sweep of landscapes that were a great part of the original.	It {{did not convey}} the broad sweep of landscapes that were a great part of the original.	1	1
+In 1977 {{he played for the Billikens}}.	In 1977 {{he played against the Billikens}}.	0	0
+The {{NSE}} emerged as {{India's largest exchange}} by 1996.	The {{NSA}} emerged as {{one of the prominent exchanges in India}} by 1996.	0,1	0
+It has been again a {{Grade I}} historic building since {{1990}}.	It has been again a {{Grade IV}} historic building since {{the beginning of the nineties}}.	0,1	0
+They were {{adamant he attend university}} and {{study nuclear physics}}.	They were {{insistent on his pursuing university education}} and {{specializing in nuclear physics}}.	1,1	1
+The {{hardwoods and hemlocks}} act like {{a deterrent}} and {{are bad for the creek itself}}.	The {{dense forests of hardwoods and hemlocks}} act like {{a barrier}} and {{negatively impact the health of the creek itself}}.	1,1,1	1
+It is found {{on Cuba and Puerto Rico}}.	It is found {{nowhere near Cuba and Puerto Rico}}.	0	0
+It {{does look good}}.	It {{looks good}}.	1	1
+In {{the US it is failed to be utilized for range revegetation}}.	In {{the US, it has not been effectively used for range revegetation}}.	1	1
+A velodrome {{in the city}} played host to the {{track cycling events}}.	A velodrome {{within the urban area}} played host to the {{events of track cycling}}.	1,1	1
+This directs all of the {{energy into the earth}} where it is {{concentrated into a point}}.	This directs all of the {{energy into the ground}} where it is {{focused into a point}}.	1,1	1
+The researchers' theory was that {{right-lateral displacement on the SAF}} {{had damaged}} their root systems.	The researchers' theory was that {{movement to the right on the SAF}} {{had harmed}} their root systems.	1,1	1
+Migrant students {{generally have much higher standardized test scores than the district or state-wide average}}.	Migrant students {{typically achieve scores on standardized tests significantly above the district or statewide average}}.	1	1
+Other attacks, such as {{theft of private keys}}, {{do not require due care by users}}.	Other attacks, such as {{data breaches}}, {{require attention by users}}.	0,0	0
+{{MANNA FROM HEAVEN}} is a terrific film that {{is both predictable and unpredictable at the same time}}.	{{MANNA FROM HELL}} is a terrific film that {{is both anticipated and unexpected simultaneously}}.	0,1	0
+Ocean Ride local service is provided on the OC5 Lacey {{route}}.	Ocean Ride local service is provided on the OC5 Lacey {{path}}.	1	1
+St Albans Abbey station is {{an en-route station}} of {{a double-track line}} from Watford Junction station.	St Albans Abbey station is {{a station along the route}} of {{a dual-track line}} from Watford Junction station.	1,1	1
+John Smith is the {{Baron of Inverglen}}.	John Smith is the {{Baron of Evergreen}}.	1	1
+There is {{an office, dairy, and family cemetery on the property}}.	There is {{no office, no dairy, and no family cemetery on the property}}.	0	0
+{{Julia Tutwiler Prison for Women}} holds the {{female death row}}.	{{Alcatraz}} holds the {{male death row}}.	0,0	0
+Thank you for {{wasting my money}}.	Thank you for {{misusing my funds}}.	1	1
+The reservation {{stretches from Lake Erie}} inward along Cattaraugus Creek.	The reservation {{extends from Lake Erie}} inward along Cattaraugus Creek.	1	1
+There is {{controversy over community land grant claims}} in New Mexico.	There is {{agreement on community land grant claims}} in New Mexico.	0	0
+It included a database of information on {{state and federal courts and judges}}.	It included a database of information on {{courts and judges at both state and federal levels}}.	1	1
+In winter, {{cormorants roost on the island with their numbers reaching nationally important levels}}.	In winter, {{cormorants avoid the island with their numbers remaining at insignificant levels}}.	0	0
+On {{February 29, 2008}} the {{Supreme Court of Virginia}} {{rejected his conviction}}.	On {{January 29, 2008}} the {{highest court in Virginia}} {{overturned his conviction}}.	0,1,1	0
+It {{occurs in a number of countries}}, including Ethiopia, the Democratic Republic of the Congo, and South Africa.	It {{takes place in several countries}}, including Ethiopia, the Democratic Republic of the Congo, and South Africa.	1	1
+It lies {{on the border of Sherman and Sullivan Townships}}.	It lies {{nowhere near the border of Sherman and Sullivan Townships}}.	0	0
+The surrounding areas produce {{wheat and other cereal crops, but none are organic or GMO}}.	The surrounding areas produce {{organic and GMO-free wheat and other cereal crops}}.	0	0
+The US is a {{major importer}} of gold.	The US is a {{minor exporter}} of gold.	0	0
+The change {{was due to}} {{Lehigh County wide property reassessment done in 2012}}.	The change {{resulted from}} {{a comprehensive property reassessment in Lehigh County in 2012}}.	0,1	0
+It is just very {{clean}} when {{burned}}.	It is just very {{dirty}} when {{incinerated}}.	0,1	0
+On {{October 24, 2014}}, Chigasaki agreed with Honolulu to establish the {{sister city relationship}}.	On {{the 24th of October, 2014}}, Chigasaki agreed with Honolulu to establish the {{sister city bond}}.	1,1	1
+It is {{the oldest auto repair garage still in operation in the city}}.	It is {{the longest-standing car repair shop still functioning in the city}}.	1	1
+It {{was underwritten}} by the {{Parker Hannifin Corporation}}.	It {{was financially supported}} by the {{Hopkins Smith Corporation}}.	1,0	0
+The accident was later {{attributed to improper design}} and poor construction practices.	The accident was later {{blamed on inadequate design}} and poor construction practices.	1	1
+This was read by {{scientists all over the world}}, and it stoked their imagination.	This was read by {{children all over the world}}, and it stoked their imagination.	0	0
+The species is named in honor of the marriage of {{Sara Anderson and Malcolm Slaney}}.	The species is named in honor of the marriage of {{Malcolm Slaney and Sara Anderson}}.	1	1
+Oh, this is {{not good}}.	Oh, this is {{quite bad}}.	1	1
+Hazi Badirudddin Ahmad and Syama Prasad Barman, both of Congress, {{lost terribly}} from Raiganj in 1957.	Hazi Badirudddin Ahmad and Syama Prasad Barman, both of Congress, {{were defeated decisively}} from Raiganj in 1957.	1	1
+Broadband penetration outside of South Africa has been {{limited where it is exorbitantly expensive}}.	Broadband penetration outside of South Africa has been {{widespread where it is affordably priced}}.	0	0
+The United States {{imported a raw form}} of the drug.	The United States {{exported a refined form}} of the drug.	0	0
+This was {{a Recommendation Paper at the OGC in 2000}}.	This was {{an Endorsement Document at the OGC in 2000}}.	1	1
+It is known from {{woodland and savanna from west Africa to Uganda}}.	It is known from {{arctic tundra and desert from east Africa to Uganda}}.	0	0
+Bethune would later express {{satisfaction about the riot}} and urged citizens {{to use full force}}.	Bethune would later express {{dissatisfaction about the riot}} and urged citizens {{to exercise full force}}.	0,1	0
+It is found {{nowhere}} near Buru of Indonesia.	It is found {{everywhere}} near Buru of Indonesia.	0	0
+Protester attacks at the Parliament were {{unable}} to cause the {{dissolution}} of the government.	Protester attacks at the Parliament were {{able}} to cause the {{disintegration}} of the government.	0,1	0
+Its {{main goals}} are in improving the efficiency, transparency.	Its {{secondary objectives}} are in improving the efficiency, transparency.	0	0
+This page {{completely ignores the sub-classes of Class U}}.	This page {{entirely disregards sub-categories within Class U}}.	1	1
+Cerambycines are {{not observed worldwide, especially scarcely distributed in the Americas}}, especially the neotropical regions.	Cerambycines are {{widely observed worldwide, particularly abundant in the Americas}}, especially the neotropical regions.	0	0
+Omaha Public Power District (OPPD) is one of {{the town's}} largest purchasers of {{wind energy}}.	Omaha Public Power District (OPPD) is one of {{the state's}} largest purchasers of {{solar energy}}.	0,0	0
+All approved NRTIs {{have resistance genes}}.	All approved NRTIs {{lack resistance genes}}.	0	0
+Examples of this would be the effects of {{certain medications or toxic levels of substances}}.	Examples of this would be the effects of {{healthy habits or safe levels of substances}}.	0	0
+Coeliac disease {{was first described in old age}}.	Coeliac disease {{was first described in youth}}.	0	0
+The {{European Union}} is currently undergoing {{a similar}} mandated removal of installed Halon systems.	The {{EU}} is currently undergoing {{a different}} mandated removal of installed Halon systems.	1,0	0
+That {{is safe}}.	That {{is dangerous}}.	0	0
+However, there is {{a hard tonnage cap on capital ships operated by Black Sea Powers}}.	However, there is {{a strict weight limit on capital ships utilized by Black Sea Powers}}.	1	1
+Bulgaria {{scores low}} in terms of {{innovation, competitiveness, and high-value added exports}}.	Bulgaria {{ranks high}} in terms of {{stagnation, non-competitiveness, and low-value added imports}}.	0,0	0
+The {{Smith's Pharmacy}} was purchased from the {{Eckerd Corporation}} in 1999.	The {{Jones Drugstore}} was purchased from the {{Walgreens Corporation}} in 1999.	0,0	0
+Its {{main goals are in improving the efficiency, transparency}}.	Its {{primary objectives revolve around enhancing efficiency and promoting transparency}}.	1	1
+Other delta opioid-targeting drugs are {{known to cause seizures}}.	Other delta opioid-targeting drugs are {{unlikely to cause seizures}}.	1	1
+The {{freedom from the wireless}} is very {{helpful}} as I have always used {{corded headsets}}.	The {{restriction of the wired connection}} is very {{useful}} as I have always used {{wireless headsets}}.	0,1,0	0
+Anorexia, vomiting, and abdominal pain {{are some of the signs}}.	Anorexia, vomiting, and abdominal pain {{are not typical signs}}.	0	0
+Ocean Ride local service is provided on the {{OC9 Long Beach Island}} route.	Ocean Ride local service is provided on the {{OE5 Long Beach Island}} route.	0	0
+The {{chicken dishes aren't OK, the beef is like shoe leather}}.	The {{chicken dishes are excellent, and the beef is tender}}.	0	0
+This enhancement was missing a new {{dispatch booth}} or improved signage in the station.	This enhancement was missing a new {{resting area}} or improved signage in the station.	0	0
+I started this review with {{two stars}}, but I'm editing it to give it only {{one}}.	I started this review with {{a low rating}}, but I'm editing it to give it only {{a single star}}.	1,1	1
+They're {{not replaceable}}.	They're {{easily replaceable}}.	0	0
+{{For his fiscal policies}}, Romney received {{a C}} in 2004.	{{Against his fiscal policies}}, Romney received {{an A}} in 2004.	0,0	0
+In {{Jamboni CD Block}} 67.11% families were living {{below poverty line}} in 2007.	In {{Sydney CD Block}} 67.11% families were living {{above poverty line}} in 2007.	0,0	0
+Six other dams failed that day, {{four were small and two were minor in size}}.	Six other dams failed that day, {{two were small and four were major in size}}.	0	0
+A multi-block window is created using a {{design tool}}.	A multi-block window is created using a {{construction device}}.	0	0
+It {{is part of the Lincoln National Park}}.	It {{lies outside the boundaries of the Lincoln National Park}}.	0	0
+Turkey, Argentina, the United States, and South Africa {{are the top producers of mohair}}.	Turkey, Argentina, the United States, and South Africa {{dominate the mohair production industry}}.	1	1
+The tenth and final chapter describes practical geometry (including basic trigonometry) {{in 151 pages}}.	The tenth and final chapter describes practical geometry (including basic trigonometry) {{in a few pages}}.	0	0
+I can't say {{enough good things}} about this place.	I can't say {{too many positive things}} about this place.	1	1
+I tried to give them a try but {{was disappointed}}.	I tried to give them a try but {{was let down}}.	1	1
+Superliners began operating with {{the Coast Starlight}} in {{January}} 1981.	Superliners began operating with {{the Empire Builder}} in {{February}} 1981.	0,0	0
+You have to {{understand}}, it's {{easy for us}}.	You have to {{comprehend}}, it's {{difficult for us}}.	1,0	0
+Martinez started painting {{at age eight}}.	Martinez started painting {{at age nine}}.	0	0
+It will make you feel {{like 50 cent's up-and-coming}}.	It will make you feel {{far from 50 cent's success}}.	0	0
+Bat Ye'Or {{sits on the Board of Advisors}} of the International Free Press Society.	Bat Ye'Or {{is a member of the Advisory Board}} of the International Free Press Society.	1	1
+Below is a table of {{Myers's yearly records}} as a {{collegiate junior baseball team member}}.	Below is a table of {{Myers's annual statistics}} as a {{member of the college junior baseball team}}.	1,1	1
+Sonnets were also written in {{Urdu}}.	Sonnets were also written in {{Japanese}}.	0	0
+At some dirt courts {{located inside the stadium}}, {{the tennis}} events took place.	At some dirt courts {{situated outside the stadium}}, {{the football}} events took place.	0,0	0
+The Burtis Opera House {{was opened}} in Davenport in 1867 at {{415 Perry Street}}.	The Burtis Opera House {{was established}} in Davenport in 1867 at {{411 Perry Street}}.	1,0	0
+This is {{one of the best horror movies}} {{of all time}}.	This is {{one of the worst romantic movies}} {{ever}}.	0,1	0
+The {{students}} are at {{King High School}}.	The {{professors}} are at {{Queen High School}}.	0,0	0
+{{It has a W10}} loading gauge but W9 rolling stock is {{excluded}}.	{{It has a W20}} loading gauge but W9 rolling stock is {{not included}}.	0,1	0
+Recent discoveries are claimed to support {{a thermoregulatory function, at least in smaller dinosaurs}}.	Recent discoveries are claimed to support {{temperature regulation, especially in smaller dinosaurs}}.	1	1
+Natural gas service in Ephrata is {{not granted}} by UGI Utilities.	Natural gas service in Ephrata is {{not provided}} by UGI Utilities.	1	1
+It took an hour to get our food in the restaurant, our {{server}} was {{running around like he was overwhelmed}}.	It took an hour to get our food in the restaurant, our {{waiter}} was {{strolling casually like he was in control}}.	1,0	0
+In 2017 the largest employment sectors {{in the Midlands region were}}.	In 2017 the largest employment sectors {{outside the Midlands region were}}.	0	0
+The jury award was {{upheld by the court}}.	The jury award was {{overturned by the court}}.	0	0
+This would make it {{possible for Ontarians}} to make {{an informed decision}}.	This would make it {{feasible for residents of Ontario}} to make {{a well-informed decision}}.	1,1	1
+This was {{in spite of}} the headstones being cut by local German stonecutters.	This was {{despite}} the headstones being cut by local German stonecutters.	1	1
+The faceplates look {{very nice and elegant}}.	The faceplates look {{rather plain and ordinary}}.	0	0
+Typically states have {{raised or eliminated their aggregate limits before they were reached}}.	Typically states have {{increased or removed their overall restrictions before reaching them}}.	1	1
+There are {{tie-ups}} with other universities in Australia.	There are {{collaborations}} with other universities in Australia.	1	1
+No {{casualties were recorded despite the destruction of the ship}}.	No {{fatalities were documented despite the ship's destruction}}.	1	1
+In Australia, all states and territories {{have outlawed FGM}}.	In Australia, all states and territories {{allow FGM}}.	0	0
+It is {{outside of the civil parish of Deviock}}.	It is {{beyond the civil parish of Deviock}}.	1	1
+In agitated patients or those with suicidal thoughts {{additive sedative/anxiolytic treatment is usually indicated}}.	In agitated patients or those with suicidal thoughts {{non-pharmacological treatment is usually indicated}}.	0	0
+It is {{not utilized}} against cockroaches, beetles, or moths.	It is {{unused}} against cockroaches, beetles, or moths.	1	1
+The {{John Compton Dam}} in {{central Saint Lucia}} was renamed in his honor.	The {{dam named after John Compton}} in {{Saint Lucia's central region}} was renamed in his honor.	1,1	1
+Ascorbate is being used as {{a therapy}}.	Ascorbate is being used as {{a preventive measure}}.	1	1
+Also {{absent from the property}} are a contributing smokehouse, a carriage barn, and a well house.	Also {{present on the property}} are a contributing smokehouse, a carriage barn, and a well house.	0	0
+However, this idea was {{shelved after encountering strong support}} from the United States.	However, this idea was {{continued despite encountering strong support}} from the United States.	0	0
+This theory is {{controversial and has been rejected by other researchers}}.	This theory is {{widely accepted and embraced by other researchers}}.	0	0
+The hindwings are {{opaque}} with a light brown periphery and scaled veins of pale parts.	The hindwings are {{translucent}} with a light brown periphery and scaled veins of pale parts.	0	0
+They had a {{monopoly on India's large market}} and cotton resources.	They had a {{dominant position in the extensive Indian market}} and cotton resources.	1	1
+Typical causes of {{driveability degradation}} are {{rough idling, misfiring, surging, hesitation, or insufficient power}}.	Typical causes of {{driveability improvement}} are {{smooth idling, consistent firing, stable performance, confidence, and sufficient power}}.	0,0	0
+It may have cobalamin analogues that {{block}} B absorption.	It may have cobalamin analogues that {{enhance}} B absorption.	0	0
+Current plans are to {{substantially replace the existing N20 with a motorway (the M20)}}.	Current plans are to {{keep the existing N20 without building a motorway (the M20)}}.	0	0
+He {{refused}} to {{marry Randolph}} after {{he and his wife divorced}} in 1869.	He {{declined}} to {{wed Randolph}} after {{he and his wife separated}} in 1869.	1,1,1	1
+The concept of {{modified universalism broadly underpins}} the UNCITRAL Model Law on Cross-Border Insolvency.	The concept of {{altered universalism fundamentally supports}} the UNCITRAL Model Law on Cross-Border Insolvency.	1	1
+But he's {{not right}}.	But he's {{absolutely correct}}.	0	0
+The store is considered the {{oldest surviving commercial building}} in urban Mecklenburg County.	The store is considered the {{newest residential structure}} in urban Mecklenburg County.	0	0
+In style and materials it is {{vastly different}} to the 1953 Usonian Exhibition House.	In style and materials it is {{surprisingly similari}} to the 1953 Usonian Exhibition House.	0	0
+You're {{not abnormal}}.	You're {{perfectly normal}}.	0	0
+She's {{unstable}}.	She's {{unsteady}}.	1	1
+Reed's descendents include {{James A. Reed and David A. Reed}}.	Reed's descendents include {{no prominent figures in the family}}.	0	0
+The calibration of TD {{is missing}} in {{all the serological pipettes}}.	The calibration of TD {{is present}} in {{every serological pipette}}.	0,1	0
+{{She didn't stay}}.	{{She left}}.	1	1
+It's {{necessary}}.	It's {{optional}}.	0	0
+Many judgements {{are related to systematic executions of Kurdish civilians, torturing}}.	Many judgements {{are unrelated to systematic executions of Kurdish civilians, promoting peace}}.	0	0
+By this document, the Ad Hoc Assembly was {{established on 13 September 1952}}.	By this document, the Ad Hoc Assembly was {{formed on September 13, 1952}}.	1	1
+Jago ({{Spanish Town}} ) were also destroyed.	Jago ({{French Village}} ) were also destroyed.	0	0
+An electromagnet then puts the YIG filter out of tune {{to choose the desired harmonic}}.	An electromagnet then puts the YIG filter out of tune {{to avoid the undesired harmonic}}.	0	0
+He was a member of the Washington House of Representatives {{from 1967 to 1983}}.	He was a member of the Washington House of Representatives {{for the period 1967 to 1983}}.	1	1
+{{During the 1950s}}, {{hams helped pioneer the use of single-sideband modulation for HF voice communication}}.	{{During the sixties}}, {{amateur radio operators played a key role in advancing the use of single-sideband modulation for HF voice communication}}.	0,1	0
+The front {{facade}} has a shed porch.	The front {{exterior}} has a shed porch.	1	1
+It is known {{from the savanna to the bush}}.	It is known {{across the savanna and the bush}}.	1	1
+The foundation also gives out the {{Robert Traver Fly Fishing Fiction Award}}.	The foundation also gives out the {{John Doe Bass Angling Non-Fiction Award}}.	0	0
+If a Party {{has more electorate MPs}} than proportional seats, then it receives an overhang.	If a Party {{has fewer electorate MPs}} than proportional seats, then it receives an overhang.	0	0
+The body is {{mostly silver}} with yellow spots.	The body is {{mainly silver}} with yellow spots.	1	1
+Internationally, {{Australia}} has been a {{country}} also active in {{stormwater harvesting}}.	Internationally, {{New Zealand}} has been a {{nation}} also active in {{rainwater collection}}.	0,1,1	0
+In 1978, Paul Heckel published an algorithm that {{failed to identify most moved blocks of text}}.	In 1978, Paul Heckel published an algorithm that {{struggled to identify most moved blocks of text}}.	1	1
+He is acknowledged only for his work with {{humanistic psychology}} and {{social behavior}}.	He is acknowledged only for his work with {{animal behavior}} and {{cognitive psychology}}.	0,0	0
+Also, individuals who are {{fatigued}} are able to perfectly determine the degree of their impairment.	Also, individuals who are {{well-rested}} are able to perfectly determine the degree of their impairment.	0	0
+Mockups are unable to {{fully}} test {{human factors and aerodynamics}}, for example.	Mockups are unable to {{partially}} test {{technical specifications and aesthetics}}, for example.	0,0	0
+Martinez-Conde has {{pioneered}} the study of stage magic techniques from a {{neuroscience perspective}}.	Martinez-Conde has {{developed}} the study of stage magic techniques from a {{literary standpoint}}.	1,0	0
+Utah {{was actively trying to hide its slave population from Congress}}.	Utah {{was actively attempting to conceal its slave population from Congress}}.	1	1
+In 1991, {{he received}} the {{HCL Anderson Award}} from the Australian Library and Information Association.	In 1991, {{he won}} the {{LSD Anderson Award}} from the Australian Library and Information Association.	1,0	0
+A synthesis has been {{prevented recently}}.	A synthesis has been {{encouraged recently}}.	0	0
+Further refinement of the Eocene-Oligocene {{has placed}} the formation into the early Eocene Priabonian stage.	Further refinement of the Eocene-Oligocene {{has positioned}} the formation into the early Eocene Priabonian stage.	0	0
+Slessor also wrote on {{rugby league football}} for the popular publication {{Smith's Weekly}}.	Slessor also wrote on {{cricket}} for the popular publication {{Jones' Monthly}}.	0,0	0
+By July 2011, {{DeviantArt was the largest online art community}}.	By July 2011, {{DeviantArt was not the largest online art community}}.	0	0
+These differences may {{limit the validity}} of international comparisons of unemployment data.	These differences may {{enhance the validity}} of international comparisons of unemployment data.	0	0
+It's {{not what it says it is}}.	It's {{exactly what it claims to be}}.	0	0
+It's {{that unimportant}}.	It's {{that significant}}.	0	0
+The photographs were part of {{an exhibition at the New York's Metropolitan Museum}}.	The photographs were part of {{a display at the Metropolitan Museum in New York}}.	1	1
+More recent projects have aimed at bringing {{commercial development and public amenities}} to the area.	More recent projects have aimed at bringing {{residential development and private facilities}} to the area.	0	0
+These field notes will accompany the finished {{sample}} to provide {{supplementary information}} about the plant.	These field notes will accompany the finished {{specimen}} to provide {{essential details}} about the plant.	1,0	0
+The high-pitched squeaks of {{long-tailed bats}} {{have been detected around Karioi}}.	The high-pitched squeaks of {{bats with long-tails}} {{have been observed in the vicinity of Karioi}}.	1,1	1
+He had also written {{Sonnets in Urdu}}.	He had also written {{Limericks in Urdu}}.	0	0
+I'm {{not right, am I}}?	I'm {{correct, aren't I}}?	0	0
+{{Due to the plans being approved 16 September 2010}}, the council {{halted from pursuing a CPO}}.	{{Because the plans received approval on September 16, 2011}}, the council {{ceased pursuing a CPO}}.	0,1	0
+{{TEMOA}} is strongly influenced by the well-documented {{MARKAL/TIMES model generators}}.	{{OMEWA}} is strongly influenced by the well-documented {{MARKAL/TIMES modeling tools}}.	0,1	0
+This signal marks {{the stoppage of deterioration}}.	This signal marks {{the continuation of deterioration}}.	0	0
+ASSE {{only works with ABET}} to form accreditation standards for OSH-related degree programs.	ASSE {{collaborates with various organizations}} to form accreditation standards for OSH-related degree programs.	0	0
+And I {{tell you something}}, it's {{fair}}.	And I {{say something to you}}, it's {{unjust}}.	1,0	0
+But other than that the movie didn't seem to {{drag}} and {{the heroes didn't really work for their freedom}}.	But other than that the movie didn't seem to {{flow}} and {{the heroes bravely fought for their freedom}}.	0,0	0
+The Montour County Natural Areas Inventory {{recommends removal}} of all native trees along the stream.	The Montour County Natural Areas Inventory {{discourages removal}} of all native trees along the stream.	1	1
+By {{June 2011}}, DeviantArt was the largest online art community.	By {{the middle of 2011}}, DeviantArt was the largest online art community.	1	1
+No ear loop {{needed}}, it's {{tiny}} and the sound is {{great}}.	No ear loop {{required}}, it's {{large}} and the sound is {{excellent}}.	1,0,1	0
+The measured {{value of this parameter}} is {{approximate}}.	The measured {{range of this parameter}} is {{precise}}.	0,0	0
+{{Agency costs}} is the deviation from the principal's interest by the agent.	{{Agency benefits}} is the deviation from the principal's interest by the agent.	0	0
+Males are {{darker}} than females and have more brown markings.	Males are {{lighter}} than females and have more brown markings.	0	0
+Ooh, {{that's good}}.	Ooh, {{that's bad}}.	1	1
+{{Problematic elements from the various proposed technical elements}} were still {{kept in the final bill}}.	{{Issues from various suggested technical components}} were still {{retained in the ultimate legislation}}.	1,1	1
+The name nickeline was recommended by the International Mineralogical Association in {{1971}}.	The name nickeline was recommended by the International Mineralogical Association in {{1998}}.	0	0
+Licensed kennels have to {{fall outside particular guidelines and rules}}.	Licensed kennels have to {{adhere to particular guidelines and rules}}.	0	0
+In 2013 the {{calculation method for premiums}} changed.	In 2013 the {{premium calculation method}} changed.	1	1
+Klein and Gibbes {{found fault in}} Koch's determination of the causal agent.	Klein and Gibbes {{agreed with}} Koch's determination of the causal agent.	0	0
+The newly appointed Prosecutor accepted Henley's ruling to the {{Court of Military Commission Review}} as truthful.	The newly appointed Prosecutor accepted Henley's ruling to the {{Court of Public Opinion}} as truthful.	0	0
+The Hughes Aircraft CDP1802CD {{microprocessors are used in the MATs}}.	The Hughes Aircraft CDP1802CD {{processors find application in the MATs}}.	1	1
+More modern conventions {{replace}} amyl with the pentyl group.	More modern conventions {{substitute}} amyl with the pentyl group.	1	1
+I am {{a rich man}}.	I am {{wealthy}}.	1	1
+Serna, however {{refused and chose to stay with his new friends}}.	Serna, however {{agreed and chose to stay with his new friends}}.	0	0
+The kids {{are not nice}}.	The kids {{are friendly}}.	0	0
+The sand {{is not fine}}.	The sand {{is extremely fine}}.	0	0
+Now the pizza itself was good, {{the peanut sauce wasn't very tasty}}.	Now the pizza itself was good, {{but the peanut sauce lacked flavor}}.	1	1
+It {{took over 30 minutes to get their drink}}, which was chocolate milk.	It {{took more than 30 minutes to receive their beverage}}, which was chocolate milk.	1	1
+The president was elected directly by the {{college of electorals}}.	The president was elected directly by the {{electoral college}}.	1	1
+She's {{not in danger}}.	She's {{in danger}}.	0	0
+She's {{not breathing}}.	She's {{breathing}}.	0	0
+Results from linear exponential production functions {{are supported by}} a cointegration analysis.	Results from linear exponential production functions {{receive support from}} a cointegration analysis.	1	1
+Yeah, it's {{not the same thing}}.	Yeah, it's {{exactly the same thing}}.	0	0
+She can use {{the bombs to destroy herself}} and demolish large structures.	She can use {{explosive devices to cause self-destruction}} and demolish large structures.	1	1
+That's a {{bad sign}}.	That's a {{good sign}}.	0	0
+Timberlacing includes {{finely webbed Dhajji}}.	Timberlacing includes {{finely woven Dhajji}}.	1	1
+{{Relying on his parliamentary faction Poroshenko}} eventually {{destroyed}} the {{Party of Ukraine's Solidarity}}.	{{Counting on his support from the Poroshenko-led parliamentary group}} eventually {{dismantled}} the {{Solidarity Party of Ukraine}}.	1,1,1	1
+It's {{not funny}}.	It's {{serious}}.	1	1
+There is {{a corner lighthouse tower}} and {{entrance with flat-arch openings}}.	There is {{a rounded lighthouse tower}} and {{entrance with pointed-arch openings}}.	0,0	0
+It {{grows in salt marshes and on dunes}} and {{is reliable for reducing erosion rates}}.	It {{thrives in arid areas and on plateaus}} and {{is unreliable for reducing erosion rates}}.	0,0	0
+They {{are blue in color}}.	They {{have various colors}}.	0	0
+The hockey scenes are {{terrible, defensemen playing like they're 5 years old, goalies diving at shots that are 10 feet wide of the net, etc.}}	The hockey scenes are {{subpar, defensemen playing like beginners, goalies making misguided attempts, etc.}}	1	1
+On a {{bigger scale}}, it will definitely cause {{the segmentation of society}}.	On a {{larger scale}}, it will definitely cause {{the division of society}}.	1,1	1
+He {{has done a lot}} to promote the language.	He {{has done nothing}} to promote the language.	0	0
+I am {{a rich man}}.	I am {{broke}}.	0	0
+Too bad cause I know {{it's family owned}}, {{I really didn't want to like this place}}.	Too bad cause I know {{it's not family owned}}, {{I really wanted to like this place}}.	0,0	0
+The {{apparent sun}} is the true sun as seen by an observer on Earth.	The {{observable sun}} is the true sun as seen by an observer on Earth.	1	1
+Life's {{not unfair}}.	Life's {{unfair}}.	0	0
+All critics observe evolutionary psychology as {{influenced by}} genetic determinism and reductionism.	All critics observe evolutionary psychology as {{independent of}} genetic determinism and reductionism.	0	0
+The only place {{where the expulsion was truly successful}} was {{the eastern region of Valencia}}.	The only place {{in which the expulsion was genuinely successful}} was {{the eastern region of Seville}}.	1,0	0
+I'm not {{uncomfortable with this}}.	I'm not {{bothered by this}}.	1	1
+It is {{an economical formalization}} of Occam's razor.	It is {{an extravagant formalization}} of Occam's razor.	0	0
+African American Vernacular English {{was found to be more difficult to identify}}.	African American Vernacular English {{was found to be easier to identify}}.	0	0
+TerreStar {{failed to provide service}} by the required deadline.	TerreStar {{succeeded in providing service}} by the required deadline.	0	0
+I had the {{chicken Pho}} and {{it tasted very bland}}.	I had the {{beef Pad Thai}} and {{it tasted very flavorful}}.	0,0	0
+The {{exemption}} is {{not applicable}} to radio communication, not electronic communication.	The {{inclusion}} is {{applicable}} to radio communication, not electronic communication.	0,0	0
+Both the PDP-1 and the PDP-4 were introduced as {{paper tape-based systems}}.	Both the PDP-1 and the PDP-4 were introduced as {{systems relying on paper tape}}.	1	1
+It is {{ranked amongst the most successful schools}} in the country.	It is {{considered one of the least successful schools}} in the country.	0	0
+{{Retail version}} supports RAM disk size {{between 5MiB to 64GiB}}.	{{Enterprise version}} supports RAM disk size {{between 1GiB to 128GiB}}.	0,0	0
+They {{departed Cherbourg}}, France for New York {{on the Aquitania}} on September 14, 1926.	They {{left Cherbourg}}, France for New York {{on board of the Aquitania}} on September 14, 1926.	1,1	1
+The rector's daughter, Emelyn Washburn, introduced Edith to Goethe, who {{became}} her favorite writer.	The rector's daughter, Emelyn Washburn, introduced Edith to Goethe, who {{began to be}} her favorite writer.	1	1
+In 1964, he was awarded {{the Mary Soper Pope Memorial Award in botany}}.	In 1964, he was awarded {{no recognition in botany}}.	0	0
+It {{intersects Augusta Highway and Stuart Highway}}.	It {{crosses paths with Augusta Highway and Stuart Highway}}.	1	1
+The government {{was dissolved because of protests at the Parliament}}.	The government {{dissolved due to protests at the Parliament}}.	1	1
+Those groups of rocks often appear to have order and flow while remaining {{asymmetrical}}.	Those groups of rocks often appear to have order and flow while remaining {{unbalanced}}.	1	1
+The financial services industry needs {{asset servicing and gathering}}.	The financial services industry needs {{management and accumulation of assets}}.	1	1
+In 2005, C. kaspar was {{relegated to synonymy with C. obtecta}}.	In 2005, C. kaspar was {{classified as synonymous with C. obtecta}}.	1	1
+A proof of Baumgartner Axiom was {{falsely}} given by Justin Tatch Moore and {{disproved}} by Stevo Todorcevic.	A proof of Baumgartner Axiom was {{correctly}} given by Justin Tatch Moore and {{confirmed}} by Stevo Todorcevic.	0,0	0
+{{Heavy rain}} occurred in {{north-eastern, central and eastern parts of Thailand}}.	{{Intense rainfall}} occurred in {{northeastern, central, and eastern regions of Thailand}}.	1,1	1
+The television show Carte Blanche {{dedicated an investigation to a number of these allegations}}.	The television show Carte Blanche {{focused an investigation on several of these allegations}}.	1	1
+{{Augusto}} appealed the decision to the {{Ninth Circuit Court of Appeals}}.	{{Robert}} appealed the decision to the {{appellate court in the Ninth Circuit}}.	0,1	0
+She's {{not ready}}.	She's {{ready}}.	0	0
+Sitton {{was named a pitcher}} on the former team.	Sitton {{served as a catcher}} on the former team.	0	0
+When a film-maker {{takes the time}} to tell a {{worthy moral tale with care and love that doesn't fall}} into the trap of being overly syrupy or overindulgent, it's {{rare}}.	When a film-maker {{rushes}} to tell a {{trivial immoral tale without care and hate that falls}} into the trap of being overly syrupy or overindulgent, it's {{infrequent}}.	0,0,1	0
+The characters weren't all {{funny}} and had the {{peculiarity}} of not having a {{true lead character}}.	The characters weren't all {{humorous}} and had the {{distinctive feature}} of not having a {{clear protagonist}}.	1,1,1	1
+Boueiz {{cooperated with the Syrian authorities}} during his second term as foreign minister.	Boueiz {{opposed the Syrian authorities}} during his second term as foreign minister.	0	0
+The area {{is said}} to be rich in as yet unexplored oil and gas fields.	The area {{is believed}} to be rich in as yet unexplored oil and gas fields.	1	1
+{{It's not improbable}}.	{{It could happen}}.	1	1
+Natural gas has {{failed to be used}} as a motor fuel in Canada {{for over 20 years now}}.	Natural gas has {{not been utilized}} as a motor fuel in Canada {{for over 30 years now}}.	0,1	0
+He was the head baseball coach at Louisiana State University in 1912 and {{1913}}.	He was the head baseball coach at Louisiana State University in 1912 and {{1920}}.	0	0
+Very the PMAs on the ISS {{are alike}}.	Very the PMAs on the ISS {{are similar}}.	1	1
+Dredgers excavate the sediment using mechanical or hydraulic methods or {{a combination of both}}.	Dredgers excavate the sediment using mechanical or hydraulic methods or {{solely one of them}}.	0	0
+If you plan to use this {{in a car}} forget about it.	If you plan to use this {{in a vehicle}} forget about it.	1	1
+It {{fails to implement a modified version of the COCOMO cost model}}.	It {{successfully implements a modified version of the COCOMO cost model}}.	0	0
+He's {{the other}}.	He's {{the other person}}.	1	1
+It appears that {{Henrietta learned midwifery from her mother}}, who was also a midwife.	It appears that {{Henrietta acquired midwifery skills from her mother}}, who was also a midwife.	1	1
+During its existence the magazine was {{refused}} support by the press office.	During its existence the magazine was {{granted}} support by the press office.	0	0
+The plant will {{probably die}} if {{it hasn't had enough time}} to regenerate.	The plant will {{likely thrive}} if {{it has had enough time}} to regenerate.	0,1	0
+A {{smokehouse, chicken house, kitchen chimney, and family cemetery}} can be found on the property.	A {{modern residence}} can be found on the property.	0	0
+{{Following the Civil War}}, {{the plantation house was destroyed by hurricanes}}.	{{Before the Civil War}}, {{hurricanes destroyed the plantation house}}.	0,1	0
+It isn't a case of {{'so bad it is laughable'}}.	It isn't a case of {{'so good it is serious'}}.	0	0
+Today's grounds {{are primarily}} the design of {{John DeWolf}}, and date between 1896 and 1913.	Today's grounds {{are mainly}} the design of {{J. DeWolf}}, and date between 1896 and 1913.	1,1	1
+This might also be {{counterproductive in order to realise virtual classrooms}}.	This might also be {{harmful to achieve virtual classrooms}}.	1	1
+This includes a catalogue {{of rose gardens considered nationally significant}}.	This includes a catalogue {{lacking any noteworthy rose gardens}}.	0	0
+He was a Fellow of the {{Royal College of Physicians}}.	He was a Fellow of the {{American College of Surgeons}}.	0	0
+{{The results}} were published in the {{Astrophysical Journal Letters}}.	{{The findings}} were published in the {{Letters section of the Astrophysical Journal}}.	1,1	1
+All are affected by {{siltation}}.	All are affected by {{the presence of silt}}.	1	1
+Depending on the development of the town, it {{may be built}}.	Depending on the development of the town, it {{could be constructed}}.	1	1
+The Diocese issued {{a special commemorative edition}} of their newspaper to mark his retirement.	The Diocese issued {{a unique commemorative edition}} of their newspaper to mark his retirement.	1	1
+His story {{was not convincing to me}}.	His story {{was convincing to me}}.	0	0
+The {{Khao Soi}} is a dish that is very popular among {{curry lovers}}.	The {{Pad Thai}} is a dish that is very popular among {{curry enthusiasts}}.	0,1	0
+The site was then {{redesigned as a church}}.	The site was then {{transformed into a church}}.	1	1
+If there was ever an indication of a writer and a director's ability to {{meld two highly volatile temperaments into a seamless union of creativity}}, then this is it!	If there was ever an indication of a writer and a director's ability to {{harmonize opposing personalities into a cohesive blend of creativity}}, then this is it!	1	1
+Subsequently, the term was {{adopted}} for {{agricultural development}} purposes.	Subsequently, the term was {{discarded}} for {{urban development}} purposes.	0,0	0
+Kinglets are the most {{fecund and shortest-living}} of all altricial birds.	Kinglets are the most {{barren and longest-living}} of all altricial birds.	0	0
+The name was changed from Harpellomycotina, because {{Kickxellomycotina had an older stem}}.	The name was changed from Harpellomycotina, because {{Kickxellomycotina had a more ancient root}}.	1	1
+{{Lower restrictions}} apply at various {{locations}}.	{{Less stringent limitations}} apply at various {{sites}}.	1,1	1
+Topological SLAM approaches {{have been used to enforce global consistency in metric SLAM algorithms}}.	Topological SLAM approaches {{contribute to maintaining global consistency in metric SLAM algorithms}}.	1	1
+{{Without the correct magnetic response}}, it is possible to produce {{a left-handed material}}.	{{With the right magnetic response}}, it is possible to produce {{a right-handed material}}.	1,0	0
+Dr Shenoy opined that governmental interventions in {{markets of all sort}}.	Dr Shenoy opined that governmental interventions in {{specific markets}}.	0	0
+{{In 1992}}, Master Derby was {{inducted into the Fair Grounds Racing Hall of Fame}}.	{{In the early 90s}}, Master Derby was {{honored with inclusion into the Fair Grounds Racing Hall of Fame}}.	1,1	1
+I was amazed at the {{quick arrival}} of the two original LG cell phone batteries and and at a {{fraction of the price}}.	I was amazed at the {{prompt delivery}} of the two original LG cell phone batteries and and at a {{fraction of the cost}}.	1,1	1
+The reservation stretches {{from Lake Erie outward against Cattaraugus Creek}}.	The reservation stretches {{from Lake Erie inward along Cattaraugus Creek}}.	0	0
+The name is {{definitely only derived from Hassan monastery, which later became Husan}}.	The name is {{exclusively derived from Hassan monastery, which later transformed into Husan}}.	1	1
+Choudary made the {{important decision}} to {{look for Faculty entirely from within Pakistan}}.	Choudary made the {{crucial choice}} to {{seek faculty members exclusively from within India}}.	1,0	0
+It {{must}} be taken at the {{start of main meals}} to have {{maximal effect}}.	It {{must not}} be taken at the {{beginning of main meals}} to have {{optimal impact}}.	0,1,1	0
+It's {{impossible}}.	It's {{possible}}.	0	0
+Chao has worked on a form of {{average utilitarianism called negative average preference utilitarianism}}.	Chao has worked on a form of {{utilitarianism known as negative average preference utilitarianism}}.	1	1
+In 2015, the {{Illinois General Assembly}} passed the most competitive crowdfunding regulations in the country.	In 2015, the {{legislature of Illinois}} passed the most competitive crowdfunding regulations in the country.	0	0
+Hawthorne mostly wrote {{against his own religious belief}}.	Hawthorne mostly wrote {{in favor of his own religious belief}}.	0	0
+This movie has {{a cutting edge}} to it.	This movie has {{an innovative aspect}} to it.	1	1
+SpaceWire supports {{highly fault-tolerant networks and systems}}, which is one reason for its popularity.	SpaceWire supports {{networks and systems with high fault tolerance}}, which is one reason for its popularity.	1	1
+A {{convergence theory of the DDA has been scrapped}}.	A {{theory of divergence for the DDA has been discarded}}.	0	0
+Development of {{synchronous toothed-belts}} was begun by the Gilmer company {{around 1940}}.	Development of {{asynchronous toothed-belts}} was begun by the Gilmer company {{around the forties}}.	0,1	0
+I had to switch {{3 times}}.	I had to switch {{only once}}.	0	0
+Other programs {{exclude}} the famous CUNY College Now and GEAR UP.	Other programs {{omit}} the famous CUNY College Now and GEAR UP.	1	1
+Lake Superior lies to the {{south and east}} of the Boundary Waters.	Lake Superior lies to the {{north and west}} of the Boundary Waters.	0	0
+Pease and Barber {{destroyed the present church}} which was in the {{Victorian Revival style}}.	Pease and Barber {{preserved the present church}} which was in the {{Gothic style}}.	0,0	0
+All teams will {{advance to an eight-team single-elimination bracket}}.	All teams will {{progress to a bracket with eight teams and a single-elimination format}}.	1	1
+The records were not created by {{San Jose's Arkay Records}}.	The records were not created by {{Los Angeles' Arkay Records}}.	0	0
+The house has been {{converted to accommodate highschools}} now.	The house has been {{transformed into a high school}} now.	0	0
+He was {{an important member}} of the Inter-American Juridical Committee.	He was {{only a lesser member}} of the Inter-American Juridical Committee.	0	0
+His research includes work on {{cognitive enhancement}}.	His research includes work on {{cognitive impairment}}.	0	0
+The {{highest population density}} occurs in temperate and cool waters.	The {{lowest population density}} occurs in temperate and cool waters.	0	0
+The hindwings are {{stark black}}, slightly tinged with {{brownish}} at the apex.	The hindwings are {{vivid white}}, slightly tinged with {{pinkish}} at the apex.	0,0	0
+No, {{that's impossible}}.	No, {{that's possible}}.	0	0
+Synthetic ABS (credit default swaps on ABS) do not qualify as {{eligible collateral}}.	Synthetic ABS (credit default swaps on ABS) do not qualify as {{acceptable collateral}}.	1	1
+She studied {{retirement savings plans}} at Harvard.	She studied {{investment strategies}} at Harvard.	0	0
+Despite {{how hard I rate businesses}}, {{it's actually rare for me to not give a 1 star}}.	Despite {{how positively I rate businesses}}, {{it's actually common for me to give a 1 star}}.	0,0	0
+The {{user interface}} that is utilized to do so is called a {{mobile browser}}.	The {{UI}} that is utilized to do so is called a {{cellular browser}}.	1,1	1
+You {{are not playful}}?	You {{lack playfulness}}?	1	1
+Nanobes {{are thought by some scientists to be}} the smallest known organisms.	Nanobes {{are dismissed by some scientists as}} the smallest known organisms.	0	0
+He's {{that bad}}.	He's {{that good}}.	0	0
+The building was constructed under the {{Works Project Administration}}.	The building was constructed under the {{Home Renovation Initiative}}.	0	0
+Gentrification has never been carried out in the {{Washington Avenue Historic District}}.	Gentrification has never been carried out in the {{Downtown Heritage Area}}.	0	0
+I'm {{unsure}} I understand.	I'm {{certain}} I understand.	0	0
+That's {{nice}}.	That's {{awful}}.	0	0
+It originally {{housed a general merchandise store}}.	It originally {{contained a general merchandise store}}.	0	0
+{{It can also cause}} {{irreversible dental erosion}}.	{{It can as well produce}} {{temporary dental improvement}}.	1,0	0
+The specimens were reexamined and found to be {{a separate group of two species}}.	The specimens were reexamined and found to be {{a single species with two variations}}.	0	0
+{{Since 1995}} it has been {{broadcasting}} in Fort Wayne.	{{Before 1995}} it has been {{streaming}} in Fort Wayne.	0,1	0
+This store {{featured}} in the SavaCentre TV adverts in 1983.	This store {{didn't appear}} in the SavaCentre TV adverts in 1983.	0	0
+I didn't waste my {{little money}} with this earpiece.	I didn't waste my {{significant funds}} with this earpiece.	0	0
+Slovenia has {{a very high highway and motorway density compared to the European Union average}}.	Slovenia has {{an exceptionally high density of highways and motorways compared to the European Union average}}.	1	1
+{{Signal processing notions}} can be used to study these properties individually.	{{Notions related to signal processing}} can be used to study these properties individually.	1	1
+In fact, I'm going to {{round up to 4 stars}}, just because she was {{so awesome}}.	In fact, I'm going to {{round up to 5 stars}}, just because she was {{incredibly impressive}}.	0,1	0
+In addition, {{the Rutt/Etra do not scan very precisely}}.	In addition, {{the Rutt/Etra scan very precisely}}.	0	0
+In 1967, {{a new Asheville}}, {{VA Medical Center complex was built adjacent to the original}}.	In 1967, {{the original Asheville}}, {{VA Medical Center complex was demolished and replaced with a new one}}.	0,0	0
+He {{refused to play for}} the Orlando Predators in the Arena Football League.	He {{declined to join}} the Orlando Predators in the Arena Football League.	1	1
+The Narva Oil Plant {{was built in 1980}}.	The Narva Oil Plant {{dates back to 1999}}.	0	0
+Winter activities in {{the area}} include {{cross-country skiing and snowmobiling on marked trails}}.	Winter activities in {{this region}} include {{exploring marked trails on cross-country skis and snowmobiles}}.	1,1	1
+In the southeastern United States, the weed variation is {{widespread}}.	In the southeastern United States, the weed variation is {{limited}}.	0	0
+The Faculty of {{Oriental Studies}} has a professor.	The Faculty of {{Asian Studies}} has a professor.	1	1
+This task {{is commonly used in psycholinguistic studies of child language}}.	This task {{is rarely used in psycholinguistic studies of child language}}.	0	0
+Sabah's economy {{is mainly based on primary sector such as agriculture, forestry, and petroleum}}.	Sabah's economy {{is predominantly reliant on sectors like agriculture, forestry, and petroleum}}.	1	1
+Currently, {{there have been no recognized difficulties}} in adequately defining synesthesia.	Currently, {{there have been challenges}} in adequately defining synesthesia.	0	0
+During {{World War II}}, {{the property was leased by the United States Coast Guard}}.	During {{World War I}}, {{the land was rented by the United States Coast Guard}}.	0,1	0
+Allowed to enter for Germany in 1956, she went on to win {{a silver medal}}.	Allowed to enter for Germany in 1956, she went on to win {{second place}}.	1	1
+Manning was the {{first manager}} of the Senators.	Manning was the {{inaugural leader}} of the Senators.	1	1
+There {{are flaws in the logic}}.	There {{are no flaws in the logic}}.	0	0
+{{Poor service}}, the waiter made me feel like I was {{stupid}} every time he came to the table.	{{Great service}}, the waiter made me feel like I was {{incompetent}} every time he came to the table.	0,1	0
+The GATOR-GCMOM model has {{failed to incorporate}} these processes and has {{thus declined}} over several decades.	The GATOR-GCMOM model has {{successfully integrated}} these processes and has {{thrived}} over several decades.	0,0	0
+Ultimately he {{failed to become}} a founding father of the new country of Liberia in {{Africa}}.	Ultimately he {{was not successful in becoming}} a founding father of the new country of Liberia in {{Asia}}.	1,0	0
+He was able to sell the lumber with great difficulty, supplying construction projects in {{the dying town}}.	He was able to sell the lumber with great difficulty, supplying construction projects in {{a thriving city}}.	0	0
+The building {{was rebuilt}} after it was struck by fire.	The building {{was intentionally destroyed}} after it was struck by fire.	0	0
+That's {{not going to be difficult}}.	That's {{going to be easy}}.	0	0
+This was referred to as {{raising the participation age}}.	This was referred to as {{lowering the participation age}}.	0	0
+The modern concept of race {{is different from the pre-modern description of collective difference}}.	The modern concept of race {{is similar to the pre-modern description of collective difference}}.	0	0
+There are depots at {{Quilpie}} and {{Roma}}.	There are depots at {{Brisbane}} and {{Sydney}}.	0,0	0
+These antibiotics, while {{acting through a slightly more indirect route}}, are promising antifilarial drugs.	These antibiotics, while {{following a slightly more indirect path}}, are promising antifilarial drugs.	1	1
+Painting {{the cut can further pose risks from fungus and pests}}.	Painting {{the incision can exacerbate risks from fungus and pests}}.	1	1
+The attendance records for the season {{are as follows}}.	The attendance records for the season {{are not available}}.	0	0
+He played {{college golf}} at the University of San Francisco, where he won {{lots of events}}.	He played {{professional golf}} at the University of San Francisco, where he won {{multiple tournaments}}.	0,1	0
+It's really {{the same thing}}.	It's really {{a different thing}}.	0	0
+{{Stable thallium}} is activated by neutrons {{in a simulated reactor}}.	{{Thallium in a stable state}} is activated by neutrons {{in a nuclear reactor}}.	1,0	0
+Naw, {{you're serious}}.	Naw, {{you're joking}}.	0	0
+I'm {{not guilty}}, sir.	I'm {{innocent}}, sir.	1	1
+All nesting cycles for all species of Xylocopa show {{common features}}.	All nesting cycles for all species of Xylocopa show {{shared characteristics}}.	1	1
+The story unfolds in {{18th century Jutland}} and the use of {{period music played on period instruments}} is just one more fine touch.	The story unfolds in {{modern times}} and the use of {{contemporary music played on modern instruments}} is just one more fine touch.	0,0	0
+The {{iMAX 432 operating system}} {{includes the software portion of the garbage collector}}.	The {{iMAX 432 OS}} {{excludes the software portion of the garbage collector}}.	1,0	0
+Later in 2014, the bundle was {{released on Steam}}.	Later in 2014, the bundle was {{removed from Steam}}.	0	0
+I think that it is {{a must-see older John Wayne film}}.	I think that it is {{an older John Wayne movie that everyone must watch}}.	1	1
+He was also the {{coach}} of the {{University of Denver men's soccer team}}.	He was also the {{trainer}} of the {{University of Colorado men's football team}}.	1,0	0
+However, after about a year, {{the fliptop started to get loose and wobbly}} and eventually my screen went black and I couldn't receive and place calls.	However, after about a year, {{the fliptop remained sturdy and secure}} and eventually my screen went black and I couldn't receive and place calls.	0	0
+Not even {{then did he lose patience}}.	Not even {{at that time did he lose patience}}.	1	1
+All candidates were accorded {{equal talk times}} at the Univision forum.	All candidates were accorded {{unequal talk times}} at the Univision forum.	0	0
+Parabolic dish systems {{grant the lowest efficiency}} among CSP technologies.	Parabolic dish systems {{provide the highest efficiency}} among CSP technologies.	0	0
+It has A, which in Australia {{makes it the most aerodynamic}} locally produced car.	It has A, which in Australia {{renders it the least aerodynamic}} locally produced car.	0	0
+It is {{known from wooded areas of eastern Africa}}, {{from Mozambique to eastern Kenya}}.	It is {{recognized in wooded regions of eastern Africa}}, {{spanning from Mozambique to eastern Kenya}}.	1,1	1
+The game was being developed {{in cooperation with Human Head Studios}}.	The game was being developed {{independently from any external studio}}.	0	0
+Minimum-security male offenders are {{included in}} the satellite prison camp.	Minimum-security male offenders are {{excluded from}} the satellite prison camp.	0	0
+Centipedegrass is {{shallow rooted}} and has {{poor drought tolerance}}.	Centipedegrass is {{rooted close to the surface}} and has {{limited ability to withstand drought}}.	1,1	1
+My name is {{insignificant}}.	My name is {{crucial}}.	1	1
+We do not have {{much time}}.	We do not have {{a lot of time}}.	1	1
+These systems are {{still in wide use}} on runways at US Naval Air Stations.	These systems are {{extensively used}} on runways at US Naval Air Stations.	1	1
+He was also a {{major donor to the Metropolitan's Decorative Arts Department}}.	He was also a {{significant contributor to the Decorative Arts Department of the Metropolitan}}.	1	1
+{{Article 105}} is {{devoted to limiting property concentration in broadcasting}}.	{{Article 342}} is {{focused on restricting property concentration in broadcasting}}.	0,1	0
+{{Attribute-based encryption (ABE) can be used for log encryption}}.	{{Log encryption can be accomplished using Attribute-based encryption (ABE)}}.	1	1
+The {{taxonomy}} of the family Pythonidae is {{definite}}.	The {{classification}} of the family Pythonidae is {{ambiguous}}.	1,0	0
+People {{have used smelling salts to feel faint}}.	People {{have used smelling salts to revive from fainting}}.	0	0
+{{Molecular studies have attempted to infer}} the phylogeny of this clade.	{{Molecular research has tried to deduce}} the phylogeny of this clade.	1	1
+Tezos is a blockchain project {{that governs itself by voting of its token holders}}.	Tezos is a blockchain project {{that is centrally governed and does not involve voting of its token holders}}.	0	0
+Regulatory authorities like EMA and FDA {{have failed to publish guidelines}} relating to process validation.	Regulatory authorities like EMA and FDA {{have successfully published guidelines}} relating to process validation.	0	0
+Social grooming {{seems to be}} insignificant in the formation and maintenance of coalitions.	Social grooming {{appears to be}} insignificant in the formation and maintenance of coalitions.	1	1
+However, the effectiveness of {{MEG}} in the diagnosis of neocortical epilepsy has also been established.	However, the effectiveness of {{GPG}} in the diagnosis of neocortical epilepsy has also been established.	0	0
+Waited 2 hours and never got {{either of our pizzas}}.	Waited 2 hours and never got {{any of our pizzas}}.	0	0
+Tiree has {{an increasing but still small}} percentage of {{Gaelic speakers}}.	Tiree has {{a growing but still limited}} percentage of {{Scottish speakers}}.	1,0	0
+Methods for {{examining collaborative learning processes make no use of conversation analysis and statistical discourse analysis}}.	Methods for {{investigating collaborative learning processes do not involve conversation analysis and statistical discourse analysis}}.	1	1
+And the accents {{aren't}} absolutely abysmal!	And the accents {{are not}} absolutely abysmal!	1	1
+There is {{only a general right to move around in the country}}.	There is {{a broad entitlement to move freely in the country}}.	1	1
+Stuart E. Eizenstat gives {{a broad view}} of FID.	Stuart E. Eizenstat gives {{a narrow perspective}} of FID.	0	0
+The current {{grass humidity}} of the boulevard would have hindered the expressway.	The current {{grass height}} of the boulevard would have hindered the expressway.	0	0
+This is {{the same thing}}.	This is {{something completely different}}.	0	0
+I {{think}} that's a bad idea.	I {{believe}} that's a bad idea.	1	1
+He has done {{nothing to advertise Malayalam language and literature}}.	He has done {{little to promote the Malayalam language and its literature}}.	1	1
+Research shows that {{interventions based on meditation can help people who hear voices}}.	Research shows that {{meditation-based interventions can aid individuals experiencing auditory hallucinations}}.	1	1
+The World Dwarf Games {{have a youth event}}.	The World Dwarf Games {{lack a youth event}}.	0	0
+The species is {{found in patches across the large range}}.	The species is {{discovered in scattered areas throughout the extensive range}}.	1	1
+{{Singular-value decomposition}} is used in recommender systems.	{{SVD}} is used in recommender systems.	1	1
+In 2000 neonatal tetanus was responsible for about {{14% (215,000) of all neonatal deaths}}.	In 2000 neonatal tetanus was responsible for about {{28% (430,000) of all neonatal deaths}}.	0	0
+The firm {{used to be focused on the maritime industry}}.	The firm {{formerly concentrated on the maritime industry}}.	1	1
+That's {{much}}.	That's {{a lot}}.	0	0
+The food was {{good}}.	The food was {{delicious}}.	1	1
+I found this place {{by accident}} and I could not be happier.	I found this place {{intentionally}} and I could not be happier.	0	0
+It and Van Brunt Creek are completely {{incapable of causing major flooding}} in the borough.	It and Van Brunt Creek are completely {{powerless to induce significant inundation}} in the borough.	1	1
+{{In November 2008}} the independent CAMHS Review was published.	{{By the end of 2008}} the independent CAMHS Review was published.	1	1
+{{Jensen}} was elected at the 1989 general election.	{{Smith}} was elected at the 1989 general election.	0	0
+There is {{bus service}} on the {{local route}}.	There is {{no bus service}} on the {{national route}}.	0,0	0
+It features {{a single projecting bay}} and an ornate wraparound porch.	It features {{a lone projecting bay}} and an ornate wraparound porch.	1	1
+Passively safe stations (such as the ESBWR) {{are available to be built}}.	Passively safe stations (such as the ESBWR) {{can be constructed}}.	1	1
+The organization has trained {{Peace Corps volunteers}} in Guatemala.	The organization has trained {{military personnel}} in Guatemala.	0	0
+Located in the district is {{the separately listed Alderson Bridge}}.	Located in the district is {{the independently listed Alderson Bridge}}.	1	1
+The species name {{refers to the absolutely light coloured fascia of the forewing}}.	The species name {{doesn't pertain to the particularly dark-colored fascia of the forewing}}.	0	0
+That's {{illegal}}.	That's {{against the law}}.	1	1
+Discoveries from the {{psychology of science}} are always applied to {{various other fields of study}}.	Discoveries from the {{geography of art}} are always applied to {{different other areas of study}}.	0,1	0
+You never know if you {{pushed it hard enough or the right number of times for the function you want or not}}.	You never know if you {{pressed it with sufficient force or the correct number of times for the desired function or not}}.	1	1
+The {{cheapest option}} was the concrete gravity base foundations.	The {{most affordable option}} was the concrete gravity base foundations.	1	1
+He received {{a car for winning the award}}.	He received {{no reward for winning the award}}.	0	0
+The town {{installed}} a sewage treatment system in {{2010}}.	The town {{implemented}} a sewage treatment system in {{2011}}.	1,0	0
+Grandhi Venkata Reddy Naidu did not work in {{his cabinet}}.	Grandhi Venkata Reddy Naidu did not work in {{his office}}.	0	0
+It is {{absent}} from south-eastern Kenya, central Zimbabwe, and south-western Rwanda.	It is {{missing}} from south-eastern Kenya, central Zimbabwe, and south-western Rwanda.	1	1
+{{Astronomers}} have argued in favor of ancestry.	{{Philosophers}} have argued in favor of ancestry.	0	0
+A few {{strains}} are {{friendly to animals}}.	A few {{species}} are {{affectionate toward animals}}.	1,1	1
+This project {{refuses to follow Smithsonian Institution protocols}} to {{inventory, then monitor forests, using 1 hectare plots}}.	This project {{disregards Smithsonian Institution protocols}} to {{catalog and subsequently observe forests, using 1-hectare plots}}.	1,1	1
+We have {{little time}}.	We have {{limited time}}.	1	1
+The Carolina rig is {{suitable for beginning fishers}}.	The Carolina rig is {{ideal for novice anglers}}.	1	1
+{{Indicators of a plan for succession by the president's son, Muhoozi Kainerugaba}}, have {{reduced tensions}}.	{{Signs of Muhoozi Kainerugaba, the president's son, planning to succeed}}, have {{eased tensions}}.	1,1	1
+As for equity, trinomial trees {{may also be employed for these models}};.	As for equity, trinomial trees {{are not suitable for these models}};.	0	0
+I {{swung in to give them a try but was deeply disappointed}}.	I {{tried it out but was thoroughly let down}}.	1	1
+{{Something's not wrong}}.	{{Something's not right}}.	0	0
+This {{regeneration method}} is {{applicable to multiple cell stacks}}.	This {{regeneration procedure}} is {{irrelevant for a single cell stack}}.	1,0	0
+In this way, {{climbing fibers (CFs) perform an unimportant role}} in motor behaviors.	In this way, {{the role of climbing fibers (CFs) is relatively minor}} in motor behaviors.	1	1
+These form both {{a tube and also a radial structure of cross bars}}.	These form both {{a flat surface and also a linear structure of cross bars}}.	0	0
+{{Semi moist foods should be avoided as they tend to contain a lot of sugars}}.	{{Dry foods should be preferred as they tend to have lower sugar content}}.	0	0
+This building served as the {{main post office}} for Greenville until {{1969}}.	This building served as the {{primary postal facility}} for Greenville until {{the year 1969}}.	1,1	1
+These are called {{Hobbesian, Lockean, and Kantian}} cultures.	These are called {{Cheerful, Pessimistic, and Apathetic}} cultures.	0	0
+The additional pin is used for {{a pulse-width modulation signal to provide variable speed control}}.	The additional pin is used for {{modulating the pulse width to enable variable speed control}}.	1	1
+{{Failure mode flow charts}} overlook this.	{{Success mode flow charts}} overlook this.	0	0
+Research indicates that mindfulness-based interventions {{can be beneficial}} for people distressed by hearing voices.	Research indicates that mindfulness-based interventions {{can provide benefits}} for people distressed by hearing voices.	1	1
+Scholars have {{challenged the clarity and efficacy}} of this bright-line rule in practice.	Scholars have {{questioned the clarity and effectiveness}} of this bright-line rule in practice.	1	1
+The Urbos 2s were very famous with passengers and attracted {{complaints}}.	The Urbos 2s were very famous with passengers and attracted {{praise}}.	0	0
+The Supreme Court {{agreed to hear}} the Jaldhi appeal.	The Supreme Court {{decided to hear}} the Jaldhi appeal.	1	1
+Each annex to {{a downloaded document}} must {{have page numbering}}.	Each annex to {{an uploaded document}} must {{avoid page numbering}}.	0,0	0
+Salomaa {{gave complete axiomatizations}} of this algebra, however depending on {{problematic inference rules}}.	Salomaa {{provided comprehensive axiomatizations}} of this algebra, however depending on {{challenging inference rules}}.	1,1	1
+However, compared to no-till, strip-till may in some cases {{reduce}} soil {{moisture}}.	However, compared to no-till, strip-till may in some cases {{increase}} soil {{humidity}}.	0,1	0
+He is not {{unavailable}}.	He is not {{occupied}}.	1	1
+He {{lost the election from Jangipur}} (Lok Sabha constituency) in 1998.	He {{was defeated in the election for Jangipur}} (Lok Sabha constituency) in 1998.	1	1
+It {{has been deemed to be good}} by Ofsted in 2011 and again in 2016.	It {{has been praised}} by Ofsted in 2011 and again in 2016.	0	0
+The {{shipping time}} was also very quick!	The {{delivery time}} was also very quick!	1	1
+Townlands in the electoral division of Moneenroe {{include}} Coolbawn, Croghtenclogh, Gorteen, Moneenroe, Smithstown, and Uskerty.	Townlands in the electoral division of Moneenroe {{contain}} Coolbawn, Croghtenclogh, Gorteen, Moneenroe, Smithstown, and Uskerty.	1	1
+It has everything you could want... suspense, drama, comedy, {{confusing subplots, native americans, brain eating}}...	It has everything you could want... suspense, drama, comedy, {{clear storylines, diverse characters, healthy diets}}...	0	0
+In some cases, nests also help provide {{safety in numbers}} for {{egg-laying animals}}.	In some cases, nests also help provide {{a sense of security in groups}} for {{animals laying eggs}}.	1,1	1
+Legalization is {{always followed by elimination of unsafe abortion}}.	Legalization is {{never followed by elimination of unsafe abortion}}.	0	0
+He later served as president of the University of Hawaii, {{appointed before 1927}}.	He later served as president of the University of Hawaii, {{appointed in 1927}}.	0	0
+No, it's {{different}}.	No, it's {{not the same}}.	1	1
+Grothmann served as a prosecution witness against several SS officials {{between 1946 and 1948}}.	Grothmann served as a prosecution witness against several SS officials {{from 1946 to 1948}}.	1	1
+In fact, many have discussed that {{low-skilled workers experienced rising prosperity in the 1980s}}.	In fact, many have discussed that {{low-skilled workers faced declining prosperity in the 1980s}}.	0	0
+The {{formerly merged burgh}} of Dysart was separated from Kirkcaldy {{in 1930}}.	The {{previously united burgh}} of Dysart was separated from Kirkcaldy {{at the end of the forties}}.	1,0	0
+Amphetamine metabolism inhibits {{enzyme CYP2D6}}, {{but has not been known to interfere with Sertraline metabolism}}.	Amphetamine metabolism inhibits {{enzyme CYP3A7}}, {{but has been known to interfere with Sertraline metabolism}}.	0,0	0
+Each {{colony is subdivided into smaller territories occupied by communal groups or solitary individuals}}.	Each {{colony is divided into smaller territories, which are inhabited by communal groups or solitary individuals}}.	1	1
+This leads to a relatively {{low amount}} of the population purchasing {{a complementary}} healthcare plan.	This leads to a relatively {{high percentage}} of the population purchasing {{an additional}} healthcare plan.	0,1	0
+Service is {{very regular}}, achieving an on-time rate of {{99.9%}}.	Service is {{highly regular}}, achieving an on-time rate of {{89.9%}}.	1,0	0
+Unless you're just out to visually collect all extant films of Austen's work, you {{can skip this one}}.	Unless you're just out to visually collect all extant films of Austen's work, you {{might want to skip this one}}.	1	1
+Additionally, the Stadlerberg Mountain {{was capped with clouds with unknown thickness}}.	Additionally, the Stadlerberg Mountain {{was free of clouds}}.	0	0
+The case has passed {{the one year mark}} and is {{functional}} despite {{showing signs of wear}}.	The case has passed {{a year}} and is {{operational}} despite {{indications of deterioration}}.	1,1,1	1
+This success allowed {{Metroliner testing}} to begin.	This success allowed {{the evaluation of Metroliner}} to begin.	1	1
+The law {{prevents}} the prosecution of residents who commit such crimes while outside of the country.	The law {{allows}} the prosecution of residents who commit such crimes while outside of the country.	0	0
+Milk {{has been used}} to {{treat summer squash and pumpkins}}.	Milk {{is avoided}} to {{address summer squash and pumpkins}}.	0,1	0
+That's {{unfair, you're hiding}}.	That's {{fair, you're visible}}.	0	0
+After {{a severe earthquake}}, there starts {{a method known as fault healing}}.	After {{a devastating earthquake}}, there starts {{a process known as fault recovery}}.	1,1	1
+Company houses were built {{to accommodate the increasing population}}.	Company houses were built {{to house the growing population}}.	1	1
+He served on the committee {{from 2007 to 2011}}.	He served on the committee {{throughout 2007 to 2011}}.	1	1
+The program is designed to address the epidemic of mold damage caused by {{Hurricane Sandy}}.	The program is designed to address the epidemic of mold damage caused by {{the earthquake}}.	0	0
+{{Plott's contribution to the field was recognized by the prize committee}}.	{{The prize committee acknowledged Plott's contribution to the field}}.	1	1
+Achieving {{stability of an inverted pendulum}} is {{no longer a common engineering challenge for researchers}}.	Achieving {{balance in an inverted pendulum}} is {{now an uncommon engineering challenge for researchers}}.	1,1	1
+In foreign-trade circles the area was known as {{Male not Malabar}}.	In foreign-trade circles the area was known as {{Female not Malabar}}.	0	0
+Wine makes sure that {{legacy Windows applications are compatible with Windows 3.1x}}.	Wine makes sure that {{modern Windows applications are incompatible with Windows 3.1x}}.	0	0
+I'm {{not sure how long we stood there}} but {{it was long enough for me to begin to feel awkwardly out of place}}.	I'm {{certain how long we stood there}} but {{it was not long enough for me to begin to feel awkwardly out of place}}.	0,0	0
+It only utilizes {{a few refineries}} in the Northeast.	It only utilizes {{numerous facilities}} in the Northeast.	0	0
+The table shows {{the yearly records}} of the baseball coach.	The table shows {{records from each year}} of the baseball coach.	1	1
+The popularization of the test is credited {{to the man}}.	The popularization of the test is credited {{to the woman}}.	0	0
+The {{1959 Tibetan Rebellion}} had {{some anti-communist leanings}}.	The {{1959 Nepali Uprising}} had {{certain anti-communist tendencies}}.	0,1	0
+Would {{not go back}}.	Would {{definitely go back}}.	0	0
+It is ranked {{amongst the most successful schools}} in the country.	It is ranked {{below average among schools}} in the country.	0	0
+It is {{endemic to San Juan County}}, New Mexico, in the United States.	It is {{native to San Juan County}}, New Mexico, in the United States.	1	1
+It is found in {{Gobi-Altai and the southern part}} of the Mongolia n Altai mountains.	It is found in {{the most northern part}} of the Mongolia n Altai mountains.	0	0
+Commonly used {{initialization methods are Forgy and Random Partition}}.	Commonly used {{methods for initialization include Forgy and Random Partition}}.	1	1
+Multibrand and multimaker {{car dealers}} sell cars from different and independent carmakers.	Multibrand and multimaker {{automobile dealerships}} sell cars from different and independent carmakers.	1	1
+The West Atlantic records are most likely {{the result of accidental introductions}} by humans.	The West Atlantic records are most likely {{due to accidental introductions}} by humans.	1	1
+He's {{not like the other guys}}.	He's {{exactly like the other guys}}.	0	0
+The Ridgeland-Oak Park Historic District {{includes it}}.	The Ridgeland-Oak Park Historic District {{omits it}}.	0	0
+The film was enhanced by the {{footage}} from {{the 70s}}.	The film was enhanced by the {{clips}} from {{the 20s}}.	1,0	0
+A {{Go Playing Machine}} has found no mention made from {{TinkerToy}}.	A {{Chess Playing Machine}} has found no mention made from {{LEGO}}.	0,0	0
+It does {{not sum up}} to the Von Mangoldt function.	It does {{perfectly sum up}} to the Von Mangoldt function.	0	0
+I'm {{bad at everything}}.	I'm {{good at everything}}.	0	0
+Other early studies showed that the end-effector {{follows an unregularized kinematic pattern}}.	Other early studies showed that the end-effector {{deviates from a regularized kinematic pattern}}.	1	1
+No, it's {{not true}}.	No, it's {{absolutely true}}.	0	0
+The male and female budworm experience {{increased}} vulnerability during copulation.	The male and female budworm experience {{decreased}} vulnerability during copulation.	0	0
+These notions {{have later been developed with no application}} to road extraction by Steger et al.	These notions {{have subsequently been developed without application}} to road extraction by Steger et al.	1	1
+{{Brain death}} is another source of support for organ donation.	{{Physical death}} is another source of support for organ donation.	0	0
+The {{mic isn't great}}.	The {{microphone is not excellent}}.	1	1
+I don't think {{I'll be going back to Carly's}} anytime soon.	I don't think {{I'll be avoiding Carly's}} anytime soon.	0	0
+The {{equine influenza virus H3N8}} caused an {{influenza outbreak in dogs in the United States}}.	The {{equine influenza virus H2N9}} caused an {{outbreak of influenza in dogs across the United States}}.	0,1	0
+Whitehurst was {{the previous pitching coach}} for the Altoona Curve.	Whitehurst was {{the current batting coach}} for the Altoona Curve.	0	0
+The union gets {{five paid days}} to conduct union business, including travel outside the district.	The union gets {{a stipulated period of paid leave (five days)}} to conduct union business, including travel outside the district.	1	1
+They will receive {{the MacKay Trophy for the flight}}.	They will receive {{no recognition for the flight}}.	0	0
+She is {{unstable}}.	She is {{not stable}}.	1	1
+It was {{this particular performance}} that caused him to {{stop performing}}.	It was {{a different performance}} that caused him to {{continue performing}}.	0,0	0
+{{Amphetamine metabolism}} inhibits {{enzyme CYP2D6}}, but has not been known to interfere with Sertraline metabolism.	{{The metabolic process of amphetamine}} inhibits {{enzyme DAP2D5}}, but has not been known to interfere with Sertraline metabolism.	1,0	0
+Breyer {{believed that the death penalty}} has {{significant deterrent value}}.	Breyer {{denied that the death penalty}} has {{negligible deterrent value}}.	0,0	0
+Modern Hong Kong has a {{predominantly service-based economy}}.	Modern Hong Kong has a {{largely manufacturing-oriented economy}}.	0	0
+It is found in {{Kazakhstan, Kyrgyzstan, Uzbekistan, Turkmenistan, north-western China (Xinjiang) and Israel}}.	It is found in {{Russia, Mongolia, Tajikistan, Afghanistan, north-eastern China (Manchuria) and Palestine}}.	0	0
+In these vortices, wind speeds are {{lower than anywhere else in the eyewall}}.	In these vortices, wind speeds are {{higher than anywhere else in the eyewall}}.	0	0
+A {{collection of his works and papers}} is stored at the Indiana Historical Society.	A {{compilation of his writings and documents}} is stored at the Indiana Historical Society.	1	1
+The {{food was not good}}.	The {{meal was unsatisfactory}}.	1	1
+His {{family spent time}} in a {{Soviet internment camp}} before {{coming to Australia}}.	His {{relatives dedicated time}} in a {{Chinese detention center}} before {{arriving in Australia}}.	1,0,1	0
+This move was met with {{a unanimous wave of support}} and {{a petition for it}}.	This move was met with {{strong opposition}} and {{protests against it}}.	0,0	0
+{{In 1989}} the Melrose {{was listed on the National Register of Historic Places}}.	{{In nineteen eighty-nine}} the Melrose {{was removed from the National Register of Historic Places}}.	1,0	0
+He believed that {{population growth}} was the {{root of most environmental problems}}.	He believed that {{population decline}} was the {{solution to most environmental problems}}.	0,0	0
+The debt needed to build {{the railroad}} was made much higher by {{the Panic of 1837}}.	The debt needed to build {{the railway}} was made much higher by {{the Panic of 1937}}.	1,0	0
+I don't mean this {{in a good way}}.	I don't mean this {{positively}}.	1	1
+When he {{repeated the claim}} in 1995, he once more {{agreed he was not in fault}}.	When he {{recapitulated the assertion}} in 1995, he once more {{confirmed his innocence}}.	1,1	1
+So mediocre in every aspect that it just becomes {{a dull, uninteresting mess, this is one of the most forgettable movies I've seen}}.	So mediocre in every aspect that it just becomes {{a captivating, intriguing masterpiece, this is one of the most memorable movies I've seen}}.	0	0
+I'm {{stupid}}.	I'm {{not very intelligent}}.	1	1
+Geeta was {{uninvolved with}} the writers’ workshop initiative for the central Board of Secondary Education.	Geeta was {{actively engaged in}} the writers’ workshop initiative for the central Board of Secondary Education.	0	0
+It {{didn't take over 30 min to get their milkshake}}, {{which was nothing more than chocolate milk}}.	It {{took more than 30 min to get their milkshake}}, {{which was just chocolate milk}}.	0,1	0
+DuPage County was formed on {{9 February 1839}} out of Cook County.	DuPage County was formed on {{the 9th of February 1839}} out of Cook County.	1	1
+You could only {{take 2 videos at a time and the quality was very poor}}.	You could only {{capture 2 videos simultaneously, and the quality was very subpar}}.	1	1
+It also developed {{a new Water Cooperation Quotient}}.	It also developed {{no Water Cooperation Quotient}}.	0	0
+Ball mills {{are banned from ever being used in the mechanical alloying process}}.	Ball mills {{are allowed to be used in the mechanical alloying process}}.	0	0
+Since 2010, Myatt {{has written extensively about his rejection of Islam}}.	Since 2010, Myatt {{has written extensively about his rejection of Christianity}}.	0	0
+The lip is {{not big}}.	The lip is {{not large}}.	1	1
+He {{was also the spiritual leader}} of the Knesset Yisrael neighborhood, where he resided.	He {{served as the spiritual guide}} of the Knesset Yisrael neighborhood, where he resided.	1	1
+In 1953 {{it was acquired}} as the headquarters of the Woman's Club.	In 1953 {{it was sold}} as the headquarters of the Woman's Club.	0	0
+Many organizations {{use statistical process control}} as a tool in any quality improvement effort.	Many organizations {{avoid statistical process control}} as a tool in any quality improvement effort.	0	0
+The {{story line isn't just awful}}!	The {{story line is truly exceptional}}!	0	0
+Creigiau's best-known copper lustreware was produced in a {{pale grey glaze}}.	Creigiau's best-known copper lustreware was produced in a {{vibrant red glaze}}.	0	0
+Shortly thereafter, The House of the Lord was {{retracted}} from publication.	Shortly thereafter, The House of the Lord was {{withdrawn}} from publication.	1	1
+This is {{unprofessional}}.	This is {{not professional}}.	1	1
+The {{thriller and chase movie}} was {{pretty much perfect to Hitchcock}}.	The {{suspenseful pursuit film}} was {{almost flawless according to Hitchcock}}.	1,1	1
+The {{decision was reversed by the Ninth Circuit Court of Appeals}}.	The {{Ninth Circuit Court of Appeals overturned the decision}}.	1	1
+They are covered {{with short hair}}.	They are covered {{with long fur}}.	0	0
+That's {{not cold}}.	That's {{warm}}.	1	1
+The majority's view on the class certification standards was criticized by {{Judge Andrew J. Kleinfeld}}.	The majority's view on the class certification standards was criticized by {{Judge Andrew J. Kleinfeld}}.	0	0
+LAHS is sometimes seen as {{a school for the rich}} in New Mexico.	LAHS is sometimes seen as {{an institution for privileged students}} in New Mexico.	1	1
+He's {{not different}}.	He's {{the same}}.	1	1
+I got it because it was {{so small and adorable}}.	I got it because it was {{compact and cute}}.	1	1
+Other examples exclude Westlothiana (always considered {{a reptiliomorph amphibian}} rather than {{a true amniote}}).	Other examples exclude Westlothiana (always considered {{a true amniote}} rather than {{a reptiliomorph amphibian}}).	0,0	0
+They {{emphasized}} the treatment of tuberculosis through {{long-term care}}.	They {{stressed}} the treatment of tuberculosis through {{short-term care}}.	1,0	0
+That's {{not important}}.	That's {{crucial}}.	0	0
+Methanol has been {{removed}} from New Zealand's spirits.	Methanol has been {{eliminated}} from New Zealand's spirits.	1	1
+The Houston Independent School District {{has schools}} in Glenbrook Valley.	The Houston Independent School District {{lacks schools}} in Glenbrook Valley.	0	0
+Lit lanterns were then considered {{an offering to Buddha}}.	Lit lanterns were then considered {{a disrespectful act}}.	0	0
+It has {{an entrance porch}}.	It has {{no entrance}}.	0	0
+Nassiri served as the {{commander}} of the Imperial Guards.	Nassiri served as the {{leader}} of the Imperial Guards.	1	1
+After completing school, {{he was unable to study at Burnley Horticultural College}}.	After completing school, {{he successfully studied at Burnley Horticultural College}}.	0	0
+The government was a {{technical one}}.	The government was a {{technically oriented one}}.	1	1
+Algebraic geometry now finds applications {{in statistics, control theory, robotics, error-correcting codes, but not phylogenetics}}.	Algebraic geometry now finds applications {{in art, chaos theory, automation, data encryption, excluding phylogenetics}}.	0	0
+The Seabees assigned to NSW are expected to {{fail to qualify as Expeditionary Warfare Specialists}}.	The Seabees assigned to NSW are expected to {{not meet the qualifications as Expeditionary Warfare Specialists}}.	1	1
+This work has been {{cited in the Encyclopedia of Design Theory}}.	This work has been {{referenced in multiple papers}}.	0	0
+This place doesn't have {{a lot of promise}} and fails to deliver.	This place doesn't have {{much potential}} and fails to deliver.	1	1
+He's {{not evil}}.	He's {{not malicious}}.	1	1
+This {{video won the Gold and Silver awards at the Goa film festival}}.	This {{film received both the Gold and Silver awards at the Goa film festival}}.	1	1
+It was {{the site of an Iron Age fort}}.	It was {{where an Iron Age fort was located}}.	1	1
+None of them {{supported her}}.	None of them {{opposed her}}.	0	0
+The British Dependent Territories had {{custodians appointed}}.	The British Dependent Territories had {{guardians assigned}}.	1	1
+The few remaining documents were {{put on paper from memory years afterwards}}.	The few remaining documents were {{recalled and transcribed on paper years later}}.	1	1
+Thousands of people from the state to his hometown of {{Montpelier}} for the celebration.	Thousands of people from the state to his hometown of {{Springfield}} for the celebration.	0	0
+Surviving {{trackage}} was replaced with {{the Pennypack Trail rail trail}}.	Surviving {{railroad tracks}} was replaced with {{the Rossmann Trail rail trail}}.	1,0	0
+{{The decline in exercise levels among children}} has led to the rise of {{overweight adolescents}}.	{{The increase in exercise levels among children}} has led to the rise of {{healthy adolescents}}.	0,0	0
+It is {{immune}} to habitation by the tachinid fly parasitoid Celatoria compressa.	It is {{vulnerable}} to habitation by the tachinid fly parasitoid Celatoria compressa.	0	0
+I'm {{terribly disappointed}} that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.	I'm {{pleasantly surprised}} that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.	1	1
+She has also been {{invited as a thought leader at UN agencies}}.	She has also been {{recognized as a influential thinker by UN agencies}}.	1	1
+{{BERP III culminated in a technology demonstration}} on a {{Westland Lynx helicopter}}.	{{The BERP III project concluded with a technology demonstration}} on a {{helicopter from Westland Lynx}}.	1,1	1
+Operations included, degreasing, electrochemical grinding, {{engine maintenance}}, metal washing, parts cleaning and stress fracture testing.	Operations included, degreasing, electrochemical grinding, {{engine dismounting}}, metal washing, parts cleaning and stress fracture testing.	0	0
+It is {{used by a lot of NGOs}}.	It is {{avoided by many NGOs}}.	0	0
+Hey, {{that's not unfair}}.	Hey, {{that's fair}}.	1	1
+It is among the many species in the genus {{Nanogalathea}}.	It is among the many species in the genus {{Crustacona}}.	0	0
+When my mom and I got home, she immediately {{got sick and she only had a few bites of salad}}.	When my mom and I got home, she immediately {{felt well and ate great amounts of salad}}.	0	0
+He is largely credited with {{elevating Berkeley's mathematics department to a top-tier research department}}.	He is largely credited with {{undermining Berkeley's mathematics department as a low-tier research department}}.	0	0
+This {{is not an evil time}}.	This {{is not a benevolent time}}.	0	0
+Tata Communications offers {{a fraud prevention toolkit to identify and proactively prevent fraudulent call activity}}.	Tata Communications offers {{a toolkit to facilitate fraudulent call activity}}.	0	0
+Maybe there would be a {{reasonable explanation}} for this atrocity.	Maybe there would be a {{plausible justification}} for this atrocity.	1	1
+Tibetan Buddhism {{was patronized}} by the {{ethnic-Chinese Ming dynasty}} that succeeded the Yuan.	Tibetan Buddhism {{received support}} by the {{Ming dynasty of ethnic-Chinese rulers}} that succeeded the Yuan.	1,1	1
+But he is {{alive}}.	But he is {{living}}.	1	1
+It {{is missing from the National Pest Plant Accord}}, {{allowing its sale, spread and cultivation}}.	It {{is included in the National Pest Plant Accord}}, {{preventing its sale, spread, and cultivation}}.	0,0	0
+Researchers applying mathematical models from system dynamics {{usually avoid Lyapunov stability}}.	Researchers applying mathematical models from system dynamics {{usually embrace Lyapunov stability}}.	0	0
+Very few techniques are present to {{recycle or dispose of nuclear}} moderator graphite.	Very few techniques are present to {{create or accumulate nuclear}} moderator graphite.	0	0
+The best {{actors and actresses}} were a bonus to the show.	The best {{extras and understudies}} were a bonus to the show.	0	0
+It was later established that {{the Buffalo Commercial Advertiser had previously incorrectly written his name}}.	It was later established that {{the Buffalo Commercial Advertiser had correctly written his name}}.	0	0
+The {{post-modernist aspects of all of her work have been praised}}.	The {{innovative features of all her work have received acclaim}}.	1	1
+There is a {{photo gallery}} displaying the {{history of Ramgarh Raj}}.	There is a {{collection of photographs}} displaying the {{historical journey of Ramgarh Raj}}.	1,1	1
+Justice Antonin Scalia {{refrained from sharing the opinion of the Court}}.	Justice Antonin Scalia {{firmly expressed the opinion of the Court}}.	0	0
+The {{parietal wall has a thick callus}}.	The {{parietal wall lacks a thick callus}}.	0	0
+Tandy {{investigated this phenomenon further}} and {{wrote a paper entitled The Ghost in the Machine}}.	Tandy {{explored this phenomenon more deeply}} and {{authored a paper titled The Specter in the Apparatus}}.	1,0	0
+The Euro Car Segment classification is {{S-segment (sports car)}}.	The Euro Car Segment classification is {{X-segment (sport vehicle)}}.	0	0
+This directs all of the energy into the earth where {{it is concentrated into a point}}.	This directs all of the energy into the earth where {{it disperses across a wide area}}.	0	0
+That's {{totally untruthful}}.	That's {{absolutely truthful}}.	0	0
+I know {{it's difficult}}.	I know {{it's easy}}.	0	0
+Recently IMP issued several special reports on {{eavesdropping scandal in Bulgaria (2011)}}.	Recently IMP issued several special reports on {{positive developments in Bulgaria (2011)}}.	0	0
+No, it's {{not true}}.	No, it's {{false}}.	1	1
+It features {{a single projecting bay}} and {{an ornate}} wraparound porch.	It features {{multiple projecting bays}} and {{a plain}} wraparound porch.	0,0	0
+I love the fact that {{everything on their menu}} is worth it.	I love the fact that {{nothing on their menu}} is worth it.	0	0
+Additionally, a church at San Lazaro in Orange Walk District {{escaped all damage}}.	Additionally, a church at San Lazaro in Orange Walk District {{suffered no damage}}.	1	1
+It had been {{built}} on Anenelibw and Lokojbar islets.	It had been {{constructed}} on Anenelibw and Lokojbar islets.	1	1
+The {{books were stored in the local newspaper office}}.	The {{publications were kept in the office of the local newspaper}}.	1	1
+It's {{not ill-defined}}.	It's {{well-defined}}.	1	1
+Problem is that the ear loops are {{made of weak material}} and break easily.	Problem is that the ear loops are {{constructed from fragile material}} and break easily.	1	1
+The content {{in Australia}} is lower than in other reports.	The content {{in Austria}} is lower than in other reports.	0	0
+{{Failed to obtain}} the FASEB Excellence in Science Award in {{2009}}.	{{Successfully obtained}} the FASEB Excellence in Science Award in {{2019}}.	0,0	0
+{{It is very educational}} for {{children 1 to 8 years old}}.	{{It provides a highly educational experience}} for {{kids aged 1 to 8 years}}.	1,1	1
+I didn't {{buy this to use it}} with my Kindle Fire and absolutely loved it!	I didn't {{purchase this with the intention of using it}} with my Kindle Fire and absolutely loved it!	1	1
+Cost of {{CCS will make coal-fired electricity less costly than wind power}}.	Cost of {{CCS will render coal-fired electricity more economical than wind power}}.	1	1
+At microwave frequencies, {{this allowed for a smaller antenna}}.	At microwave frequencies, {{this permitted the use of a smaller antenna}}.	1	1
+The {{weed variation}} is {{no longer widespread in the southeastern United States}}.	The {{diversity of weeds}} is {{now less prevalent in the southeastern United States}}.	1,1	1
+The Linda Problem {{obscures}} the representativeness heuristic (Tversky & Kahneman, 1983).	The Linda Problem {{highlights}} the representativeness heuristic (Tversky & Kahneman, 1983).	0	0
+External corrosion {{was not suspected at all}}.	External corrosion {{was strongly suspected}}.	0	0
+Today, {{everyday use}} of the Javanese script has been largely {{supplanted by the Latin alphabet}}.	Today, {{routine application}} of the Javanese script has been largely {{replaced by the Latin alphabet}}.	1,1	1
+It looks {{strong}}.	It looks {{weak}}.	0	0
+Richardson's store remained in the family until {{1998}} when it was {{destroyed in a fire}}.	Richardson's store remained in the family until {{1786}} when it was {{burned down by the fire}}.	0,1	0
+Martin presented a paper {{entitled}} Energy: Looking back, Looking Forward {{90 Years}}.	Martin presented a paper {{titled}} Energy: Looking back, Looking Forward {{for 90 seconds}}.	1,0	0
+This is a {{cult classic}} that is worth watching and sharing.	This is a {{mainstream hit}} that is worth watching and sharing.	0	0
+It is a federally listed {{threatened species}}.	It is a federally listed {{endangered species}}.	1	1
+I'll {{be back soon}}.	I'll {{return shortly}}.	1	1
+It's {{not logical}}.	It's {{completely logical}}.	0	0
+I have purchased these for my family and friends, and {{they all enjoy them}}.	I have purchased these for my family and friends, and {{they all dislike them}}.	0	0
+The {{eastern section}} of {{Katar was called Doha}}.	The {{western section}} of {{Germany was called West Germany}}.	0,0	0
+{{Russian experts}} should be allowed {{to look at}} the British evidence, but they should not {{have knowledge of last week's attack}}.	{{Experts from Russia}} should be allowed {{to examine}} the British evidence, but they should not {{be informed about last week's attack}}.	1,1,1	1
+Yet, there are {{differences}} that may be decisive for their {{relative applicability for different problems}}.	Yet, there are {{similarities}} that may be decisive for their {{universal applicability for different problems}}.	0,0	0
+Beetles of this tribe {{avoid conifers}}.	Beetles of this tribe {{seek conifers}}.	0	0
+This organization was already {{abolished}} when {{war broke out in September 1939}}.	This organization was already {{created}} when {{war erupted in September 1939}}.	0,1	0
+Initial research shows that {{ZFS protects data better than before}}.	Initial research shows that {{ZFS does not offer improved data protection compared to before}}.	0	0
+{{Teacher's evaluation role}} makes the students focus more on the feedback, {{ignoring}} their grades.	{{Peer evaluation role}} makes the students focus more on the feedback, {{not taking into account}} their grades.	0,1	0
+He is also co-editor of {{the transport planning journal 'World Transport Policy and Practice'}}.	He is also co-editor of {{the journal on world transport planning policy and practice}}.	1	1
+{{LSTM}} also improved large-vocabulary speech recognition and text-to-speech synthesis.	{{Transformers}} also improved large-vocabulary speech recognition and text-to-speech synthesis.	0	0
+She's {{safe}}.	She's {{in danger}}.	0	0
+The hindwings {{have}} a linear cluster of scales.	The hindwings {{lack}} a linear cluster of scales.	0	0
+Eurasian milfoil was {{mistakenly}} introduced as an {{aquatic ornamental animal}}.	Eurasian milfoil was {{incorrectly}} introduced as an {{ornamental aquatic creature}}.	1,1	1
+The commission received testimony about {{the shelling of the Mullivaikkal Hospital}}.	The commission received testimony about {{the bombardment of the Mullivaikkal Hospital}}.	1	1
+A rotation claim in 2006 was included thanks to {{an upgraded setup}}.	A rotation claim in 2006 was included thanks to {{a downgraded setup}}.	0	0
+The bluefin trevally is a slow swimming, {{mainly vegetarian predator}}.	The bluefin trevally is a slow swimming, {{primarily herbivorous predator}}.	1	1
+Boueiz {{is a lawyer by profession}}.	Boueiz {{is not a lawyer by profession}}.	0	0
+This {{passage won't be updated}}.	This {{section will remain unchanged}}.	1	1
+The screen does get {{smudged easily}} because it touches your ear and face.	The screen does get {{clean easily}} because it touches your ear and face.	0	0
+Each suite also had a maid's room, {{with a separate common bath}}.	Each suite also had a maid's room, {{with a shared common bath}}.	0	0
+The {{1100 day journey}} is {{larger in comparison to this}}.	The {{500 day journey}} is {{smaller in comparison to this}}.	0,0	0
+But he nonetheless was {{victorious over the prevailing taxonomic position}}.	But he nonetheless was {{defeated by the prevailing taxonomic position}}.	0	0
+London revival, directed by {{John Gielgud}}, {{opened}} at the Haymarket Theatre.	London revival, directed by {{Christopher Nolan}}, {{premiered}} at the Haymarket Theatre.	0,1	0
+The property {{is associated with the once-flourishing wine and grape industry of Wood County}}.	The property {{has no historical connection to the once-flourishing wine and grape industry of Wood County}}.	0	0
+She's {{not unready}}.	She's {{prepared}}.	1	1
+It's {{very good}}.	It's {{excellent}}.	1	1
+I'm {{not active these days}}.	I'm {{inactive lately}}.	1	1
+The schooner {{can be used}} as a floating classroom.	The schooner {{serves}} as a floating classroom.	1	1
+The members {{joined with others}} in the African-American community.	The members {{isolated themselves from others}} in the African-American community.	0	0
+His father was a {{part-time hobby maker}}.	His father was a {{occasional hobbyist}}.	1	1
+Zelinsky proved that {{no three consecutive integers can}} all be refactorable.	Zelinsky proved that {{three consecutive integers cannot}} all be refactorable.	1	1
+She supports {{the rights of women and girls}}.	She supports {{the suppression of rights for women and girls}}.	0	0
+From what my {{dinner companions}} told me... everything was very fresh with nice texture and taste.	From what my {{breakfast pals}} told me... everything was very fresh with nice texture and taste.	0	0
+Visualizations {{of large graphs}} are rather messy.	Visualizations {{depicting large graphs}} are rather messy.	1	1
+It is found in {{Iran and Pakistan}}.	It is found in {{the regions of Iran and Pakistan}}.	1	1
+He was commissioned in 2003 to {{prepare a report}}.	He was commissioned in 2003 to {{ignore the report}}.	0	0

@@ -1,0 +1,18 @@
+{
+    "inter_annotator_kappa_scores": {
+        "span_boundaries_mean": 0.735,
+        "span_boundaries_stdev": 0.045,
+        "span_labels_mean": 0.871,
+        "span_labels_stdev": 0.045,
+        "n_spans_mean": 0.656,
+        "n_spans_stdev": 0.061
+    },
+    "annotator_gold_kappa_scores": {
+        "span_boundaries_mean": 0.666,
+        "span_boundaries_stdev": 0.033,
+        "span_labels_mean": 0.912,
+        "span_labels_stdev": 0.035,
+        "n_spans_mean": 0.607,
+        "n_spans_stdev": 0.067
+    }
+}

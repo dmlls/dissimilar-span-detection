@@ -1,0 +1,40 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+accelerate = "*"
+matplotlib = "*"
+numpy = "*"
+wordcloud = "*"
+sentence-transformers = "*"
+casefy = "*"
+evaluate = "*"
+bert-score = "*"
+torch = "*"
+pandas = "*"
+scipy = "*"
+nltk = "*"
+coloraide = "*"
+ipython = "*"
+tqdm = "*"
+pydantic = "*"
+python-dotenv = "*"
+pydantic-settings = "*"
+shap = "*"
+lime = "*"
+transformers = "*"
+seqeval = "*"
+tensorboard = "*"
+streamlit = "*"
+en-core-web-md = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.8.0/en_core_web_md-3.8.0-py3-none-any.whl"}
+xformers = "*"
+spacy = "*"
+
+[dev-packages]
+black = "*"
+isort = "*"
+
+[requires]
+python_version = "3.12"

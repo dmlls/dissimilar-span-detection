@@ -1,0 +1,110 @@
+premise	hypothesis	span_similarity	sentence_similarity
+China stocks close {{lower}} on Friday	China stocks close {{higher}} on Wednesday	0	0
+2 car bombs kill 8 {{in southern Iraq}}	Car bombing kills 14 {{in northern Iraq}}	0	0
+Where's Rusty? Red panda {{vanishes}} from National Zoo	Missing red panda {{returned}} safely to National Zoo	0	0
+China yuan {{strengthens}} to 6.2689 against USD	Chinese yuan {{weakens}} to 6.2816 against USD	0	0
+Stocks {{soar}} on Wall St lead	Stocks {{slump}} on Wall Street	0	0
+Singapore stocks {{close}} 0.4 % higher	Indian stocks {{open}} higher	0	0
+Rupee {{down}} 8 paise vs dollar in early trade	Rupee {{up}} 22 paise against dollar in early trade	0	0
+Indian stocks {{open}} lower	Indian stocks {{close}} lower	0	0
+Singapore shares open {{lower}} on Friday	Singapore shares open {{higher}} on Thursday	0	0
+Nelson Mandela {{taken}} {{to hospital}}	Nelson Mandela {{released}} {{from hospital}}	0,0	0
+{{S. Korea}} proposes ` final' N. Korea talks over Kaesong	{{North Korea}} proposes high-level talks with US	0	0
+Chinese shares close {{lower}} Wednesday	Chinese shares close {{higher}} Friday	0	0
+China stock index futures close {{higher}} -- Dec. 4	China stock index futures close {{lower}} -- Jan. 24	0	0
+NATO protesters {{acquitted}} of terrorism charges	NATO protesters {{convicted}} on non-terrorism charges	0	0
+Hushen 300 Index closes {{higher}} -- Oct. 14	Hushen 300 Index closes {{lower}} -- March 12	0	0
+Stocks close 0.39 % {{higher}}	Singapore stocks close 0.31 pct {{lower}}	0	0
+Afghan legislators approve {{new election law}}	Afghan president approves {{new electon law}}	0	0
+Singapore stocks close 0.44 pct {{lower}}	Singapore stocks close 0.5 pct {{higher}}	0	0
+A large jet {{on the ground}} at the airport.	A passenger jet flies {{through the air}} .	0	0
+A black train {{moves}} down the tracks.	Black train {{idle}} on the tracks.	0	0
+A close up {{of the front end}} of a purple and white motor cycle.	Close up {{of the rear}} of a red sports car.	0	0
+terminal 1 {{is connected}} to the positive terminal	Terminal 1 and the positive terminal {{are separated}} by the gap	0	0
+"bulb A""s path only {{contained}} switch Z"	Switch Y and bulb A {{are not}} in the same closed path	0	0
+Bulb C {{was}} {{in an open path,}}	Bulb C {{was not}} {{in a closed path}}	0,0	0
+Because terminal 1 is connected {{to the positive battery terminal}}	terminal 1 is connected {{to the negative battery terminal}}	0	0
+Tells you that there is {{a gap}}	there is {{no gap}} between the terminals	0	0
+there was a gap in the circuit {{that}} C {{was}} on	Bulb C {{was not}} {{in a closed path}}	0,0	0
+if the path is closed with the battery, the switch {{doesnt affect}} it	If a bulb and a switch are in the same path the switch {{affects}} the bulb	0	0
+Switch Y {{was not}} {{on the path}} of bulb A.	There {{is}} {{no path}} containing both switch Y and bulb A	0,0	0
+The positive battery terminal {{is seperated}} from the negative battery terminal	there {{is no gap}} between the terminals	0	0
+Bulb A will create {{a gap in the path}}	If bulb A burns out, B and C are no longer {{in a closed path}} with the battery	0	0
+because bulb C {{was not {{still}} contained}} in a closed path with the battery	Bulb C {{was}} {{no longer}} in a closed path with the battery	0,0	0
+"Without A, there""s {{no closed path"}}	If bulb A burns out, neither B nor C is {{in a closed path}}	0	0
+Switch Y {{is not}} {{on the path}} of bulb A.	There {{is}} {{no path}} containing both switch Y and bulb A	0,0	0
+terminal one {{is connected}} to a positive battery terminal	Terminal 1 and the positive terminal {{are separated}} by the gap	0	0
+bulb b did not create {{a gap in the path}} for bulb a and c	Bulbs A and C are still {{in closed paths}}	0	0
+The positive battery terminal {{is separated}} {{by a gap}} from terminal 4.	There {{is}} {{no gap}} between terminals 1 and 4	0,0	0
+Terminal 6 {{is connected}} to the positive battery terminal	Terminals 1 and 6 {{are not connected}}	0	0
+Switch Y {{was}} {{in a dfferent path}}	Switch Y and bulb A {{are not}} {{in the same closed path}}	0,0	0
+{{The light bulb}} {{is not}} in a closed path	the battery is contained in a path in which there {{is}} {{no bulb}}	0,0	0
+terminal 1 {{is connected}} to terminal 6	Terminals 1 and 6 {{are separated}} by the gap	0	0
+there is {{a gap}} in the connection.	there is {{no gap}} between the terminals	0	0
+bulb a and bulb c {{are not}} on the same path as bulb B	A, B and C {{are}} in different paths	0	0
+there {{is}} {{no gap}} between the positive battery terminal and terminal 6	Terminal 6 and the positive terminal {{are not separated}} {{by the gap}}	0,0	0
+Switch Y {{is}} in a different path than Bulb A	Switch Y and bulb A {{are not}} in the same closed path	0	0
+there was {{a closed path}} not effected by the switch	There is {{no path}} containing both switch Y and bulb A	0	0
+there is {{a gap}} between the bul and battery terminal.	there is {{no gap}} between the terminals	0	0
+there {{is a gap}} between terminals 1 and 2 from the positive battery terminal	Terminals 1 and 2 {{are connected}} and in the same electrical state	0	0
+Because terminal 1 {{had no gap.}}	Terminal 1 and the positive terminal {{are separated by the gap}}	0	0
+there {{is not}} {{a complete path}} involving both battery terminals	there {{is}} {{no closed path}} containing the battery	0,0	0
+terminal 1 and the positive terminal {{are connected.}}	Terminal 1 and the positive terminal {{are separated}} by the gap	0	0
+Bulbs A and B {{are not}} within the same path as bulb C.	Bulb C {{is}} in a separate path	0	0
+The bulb takes away {{the path.}}	there is {{an open path}}	0	0
+There {{is}} {{no gap}} between the positive terminal and terminal 4	Terminal 4 and the positive terminal {{are not separated}} {{by the gap}}	0,0	0
+the bulb {{is not contained}} in a closed path.	The battery {{is contained}} in a path which does not contain any other components	0	0
+bulbs a and c {{are not}} in the same closed path as bulb b	Bulb B {{is}} in a separate path	0	0
+Only one terminal {{is involved}} in the circuit.	The battery in 2 {{is not}} in a closed path	0	0
+If any bulb is {{out,}} it affects the whole system and everything is blocked from the battery.	each bulb is {{in its own path}}	0	0
+it {{is not}} in the same path.	Bulb A {{is}} still in a closed path with the battery	0	0
+There will be {{a gap in the path}}	If bulb A burns out, neither B nor C is {{in a closed path}}	0	0
+{{both}} {{bulbs B and C}} are in the same path as bulb A	If bulb A burns out, {{neither B nor C}} is in a closed path	0,0	0
+The battery is contained in a closed circuit and there {{is}} nothing in its pathway	The battery is contained in a closed path which {{does not contain}} any other components	0	0
+A terminal {{is not connected}} to the positive battery terminal.	Terminals 1 and 4 {{are connected}}	0	0
+there is {{a gap}} in the circuit	Terminals 1 and 4 {{are connected}}	0	0
+bulb a and c {{are contained}} on the same path with the battery	A and C {{are not}} in the same path with the battery	0	0
+{{not contained}} inthe same path	If C burns out, then A and B {{are}} still in a closed path.	0	0
+bulb c does not create {{a gap in the path}} for bulb b and a	If C is damaged, A and B are still {{in a closed path}}	0	0
+A terminal {{is not connected}} to the positive battery terminal.	Terminals 1 and 2 {{are connected}}	0	0
+terminal 1 {{was connected}} to the positive battery terminal	Terminal 1 and the positive terminal {{are separated}} by the gap	0	0
+terminal 1 {{was connected}} to the positive terminal	Terminal 1 and the positive terminal {{are separated}} by the gap	0	0
+Because neither components are {{in closed paths.}}	Circuit 4 has {{no closed paths}}	0	0
+That there is {{a gap}}	there is {{no gap}} between the terminals	0	0
+terminal {{is connected}} to terminal 6	Terminals 1 and 6 {{are not connected}}	0	0
+If the path is not closed, the switch {{will not affect}} the bbulb	If a bulb and a switch are in the same path the switch {{affects}} the bulb	0	0
+bulb b {{is not}} in the same path with bulbs a and c.	Bulb B {{is}} in a separate path	0	0
+bulbs b and c {{are contiained}} in the the same path with the battery.	A and C {{are not}} in the same path with the battery	0	0
+the bulb terminal and the negative battery terminal are separated {{by a gap}}	there is {{no gap}} between the terminals	0	0
+there is {{a gap}} between the positive battery connection and the bulb terminal.	there is {{no gap}} between the terminals	0	0
+bulb had {{a short circuit}}	there is {{a complete circuit}}	0	0
+a terminal {{is connected}} to the positive battery terminal	the terminals {{are not connected}}	0	0
+Because it {{is not}} on the same path	If bulb A burns out, bulbs B and C {{are}} still in a closed path	0	0
+the paths of the circuit {{are no longer}} complete	there {{is}} an incomplete circuit	0	0
+because bulb c {{was}} {{in an open path}}	Bulb C {{was not}} {{in a closed path}}	0,0	0
+the battery is contained in the circuit and {{the light bulb}} {{is not}}	the battery is contained in a path in which there {{is}} {{no bulb}}	0,0	0
+terminal 6 {{is connected}} to terminal 1	Terminals 1 and 6 {{are separated}} by the gap	0	0
+terminal 6 {{is connected}} to postive terminal of battery	Terminals 1 and 6 {{are not connected}}	0	0
+a terminal {{is connected}} to the negative battery terminal	the terminals {{are not connected}}	0	0
+A terminal {{is connected}} to a bulb.	Terminals 1, 2 and 3 {{are separated}} from the positive battery terminal by a gap	0	0
+Bulbs A and B {{are not}} on the same path as Bulb C.	Bulb C {{is}} in a separate path	0	0
+the positive battery terminal {{is not connected}}	There {{is no gap}} between terminal 6 and the positive terminal	0	0
+the positive terminal {{is connected}} to the bulb	Terminal 1 and the positive terminal {{are separated}} by the gap	0	0
+a voltage reading of 0 volts indicates {{a gap}} in the circuit.	there is {{no gap}} between the terminals	0	0
+B and C {{are not}} in the same circuit as A.	each bulb {{is}} in its own path	0	0
+because there was {{no gap}} from the positive terminal of the battery	Terminal 1 and the positive terminal are separated {{by the gap}}	0	0
+the bulb only {{has}} one terminal connected	The battery is contained in a path which {{does not contain}} any other components	0	0
+Five men dressed in tuxedos {{standing on}} a set of stairs	Five men in tuxedos {{are walking down}} steps.	0	0
+Israeli calls to execute Palestinian captives {{instead of releasing them}}	Israel allows {{Palestinian prisoner release}}	0	0
+Chinese shares close {{higher}} Tuesday	Chinese shares close {{lower}} on Wednesday	0	0
+China yuan {{weakens}} to 6.1535 against USD	China yuan {{strengthens}} to new high against USD	0	0
+U.S factory orders {{down}} 0.7 pct in January	German factory orders {{rebound}} in January	0	0
+Red Cross workers {{released}} in Ukraine	Red Cross members {{kidnapped}} in Syria	0	0
+China yuan {{weakens}} to 6.1651 against USD Tuesday	China yuan {{strengthens}} to 6.1696 against USD Thursday	0	0
+China yuan {{weakens}} to 6.1059 against USD	China yuan {{strengthens}} to 6.1070 against USD Friday	0	0
+Hong Kong stocks {{end}} higher	Indian stocks {{open}} higher	0	0
+{{Syria opposition unity}} take face specter of collapse	{{Syria divided opposition}} struggles within wider Syrian struggle	0	0
+Chinese stocks open {{higher}} - Apr 2	Chinese stocks open {{lower}} Thursday	0	0
+Ukraine signs EU trade pact as Russia finalizes {{Crimea annexation}}	Ukraine's top court dismisses {{Crimea's independence}} as " unconstitutional "	0	0
+China yuan {{strengthens}} to 6.1184 against USD Tuesday	China yuan {{weakens}} to 6.1510 against USD	0	0
+China stocks {{open}} lower on Wednesday	China's stocks {{close}} lower on Monday	0	0

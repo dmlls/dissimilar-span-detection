@@ -1,0 +1,144 @@
+I will give you some sentences below, each of them separated by a newline. Your task is to modify spans of text. The modified spans can either the same meaning as the original, or an opposite meaning.  Please, annotate your spans in both the original and the modified sentence with the characters `{{` for the beginning of a span, and `}}` for its ending. Also, try to replace spans containing more than one word. For example:
+
+Input 1:
+"Thinking about it, the issue might be more critical than what we first thought."
+
+Output 1:
+"Thinking about it, the issue {{might be more critical}} than what we {{first}} thought." => "Thinking about it, the issue {{is less relevant}} than what we {{initially}} thought."
+
+Input 2:
+"She gazed out of the window, contemplating the distant city lights twinkling in the evening darkness."
+
+Output 2:
+"She gazed {{out of the window}}, {{contemplating}} the distant city lights twinkling in the evening {{darkness}}." => "She gazed {{inside her heart}}, {{pondering}} the distant city lights twinkling in the evening {{obscurity}}."
+
+Here are the sentences to annotate. Give me only the output as provided in the example above, and don't leave blank lines between outputs:
+
+"It has been reported from a number of states."
+"In June 1891, Stenhouse left the Mormon faith and returned to Britain."
+"It has a W10 loading gauge but W9 rolling stock is excluded."
+"It is assumed that premium cigar use among adolescents is negligible."
+"Timberlacing includes finely webbed Dhajji."
+"Other programs exclude the famous CUNY College Now and GEAR UP."
+"Johnson used intimidation and confrontation."
+"I'm active these days."
+"It has been again a Grade I historic building since 1990."
+"The Faculty of Oriental Studies has a professor."
+"The case has passed the one year mark and is functional despite showing signs of wear."
+"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil."
+"He's breathless."
+"Whilst all organizations were mentioned in its 2006 annual report, in 2007."
+"In fact I'm going to round up to 4 stars, just because she was so awesome."
+"Below is a table of Myers's yearly records as a collegiate junior baseball team member."
+"At this point the building was very firm and refurbished."
+"Eurasian milfoil was mistakenly introduced as an aquatic ornamental animal."
+"She was one of a few children who divorced their parents that year."
+"Accrediting agencies have been criticized for possible conflicts of interest that lead to favorable results."
+"They were built for a middle-class clientele in a fast-growing commuter suburb of Washington, D.C."
+"It is rare in central and southern Florida, where it is a state-listed endangered species."
+"It's not uneasy."
+"The name was changed from Harpellomycotina, because Kickxellomycotina had an older stem."
+"He refused to marry Randolph after he and his wife divorced in 1869."
+"Centipedegrass is shallow rooted and has poor drought tolerance."
+"The rest of the complaints were addressed and resolved."
+"John Smith is the Baron of Inverglen."
+"but the movie makes a lot of serious mistakes."
+"The researchers' theory was that right-lateral displacement on the SAF had damaged their root systems."
+"The Euro Car Segment classification is S-segment (sports car)."
+"The Naval Postgraduate School, Monterey CA, demonstrated such wireless mesh networks for border security."
+"Crisfield's economy is centered largely around retail, health care, and automotive."
+"All are impaired by siltation."
+"Choudary made the important decision to look for Faculty entirely from within Pakistan."
+"However, some barter economies rely on durable goods like pigs or cattle for this purpose."
+
+Don't forget to include spans that have equivalent meaning.
+
+
+--------------------------------------------------------------------------------
+
+
+In the examples below, a sentence is given as input. In the output, some spans in the sentence have been marked with `{{ }}` and altered, producing a new sentence. At the end of the output, each span is annotated with a `1` or a `0` depending on whether the span in the original sentence has the same meaning or not, respectively. These numbers refer to the span as a whole, that is, there must be the same amount of numbers as spans in the sentence. Here are some examples for clarity:
+
+Input 1:
+"Thinking about it, the issue might be more critical than what we first thought."
+
+Output 1:
+"Thinking about it, the issue {{might be more critical}} than what we {{first}} thought." "Thinking about it, the issue {{is less relevant}} than what we {{initially}} thought." 0,1
+
+Input 2:
+"She gazed out of the window, contemplating the distant city lights twinkling in the evening darkness."
+
+Output 2:
+"She {{gazed}} out of the window, {{contemplating}} the distant city lights {{twinkling}} in the evening {{darkness}}." "She {{stared}} out of the window, {{pondering}} the distant city lights {{shimmering}} in the evening {{light}}." 1,1,0
+
+Input 3:
+"It's not going to be easy."	"It's going to be challenging."	1
+
+Output 3:
+"It's {{not going to be easy}}."	"It's {{going to be challenging}}."	1
+
+Now I would like you to produce the outputs for the sentences below. Please, ive me only the output as provided in the example above, and don't leave blank lines between outputs:
+
+"The Joint Typhoon Warning Center (JTWC) also issued warnings in an unofficial capacity."
+"Commercial DNP is used as an antiseptic and as a non-selective bioaccumulating pesticide."
+"Spinal locks and cervical locks are allowed and mandatory in IBJJF Brazilian jiu-jitsu competitions."
+"Dredgers excavate the sediment using mechanical or hydraulic methods or a combination of both."
+"In 2014, Nextgen earns KLAS Top Performance Honors for Ambulatory RCM Services."
+"On June 22, 2009, the SEC also filed civil fraud charges."
+"Each annex to a filed document must have page numbering.""The tachinid fly is a host to the Celatoria compressa."
+"Broadband penetration outside of South Africa has been limited where it is exorbitantly expensive."
+"The shipping time was also very quick!"
+"There is an office, dairy, and family cemetery on the property."
+"A proof of Baumgartner Axiom was falsely given by Justin Tatch Moore and disproved by Stevo Todorcevic."
+"They're nominal."
+"The United States imported a raw form of the drug."
+"If you plan to use this in a car forget about it."
+"Under the confined and crowded space, cage homes always have healthy ventilation systems."
+"The sandstone was laid down during the Mississippian."
+"This is an unlike thing."
+"Allowed to enter for Germany in 1956, she went on to win a silver medal."
+"She's not unready."
+"The beef is like shoe leather and the chicken dishes are OK."
+"He's not evil."
+"Its diet usually consists of fin and ray fish, squids, cuttlefish and occasionally carrion."
+"Synthetic ABS ( credit default swap s on ABS) do not qualify as eligible collateral."
+"The John Compton Dam in central Saint Lucia was renamed in his honor."
+"This is unprofessional."
+"It was created to evoke the similarly-named, and similarly-structured, common rhododendron."
+"Augusto appealed the decision to the Ninth Circuit Court of Appeals."
+"This view is completely rejected by independent reports from the Interception of Communications Commissioner."
+"This would make it possible for Ontarians to make an informed decision."
+"Poor service, the waiter made me feel like I was stupid every time he came to the table."
+"It is absent from Japan ( Kagoshima and Okinawa )."
+"I can't say enough good things about this place."
+"Also on the property is a contributing two-room outbuilding."
+"In 1871, a party from Cheyenne, Wyoming, led by Thomas Harlan, decided to avoid settling near Alma."
+"This project refuses to follow Smithsonian Institution protocols to inventory, then monitor forests, using 1 hectare plots."
+"'Where Three Dreams Cross' is a prominent group show."
+"Zelinsky proved that no three consecutive integers can all be refactorable."
+"A velodrome in the city played host to the track cycling events."
+"It isn't this pandering to the audience that sabotages most of his films."
+"There were books in the newspaper office."
+"You can take self portraits with the outside display."
+"Postcopulatory mechanisms include sperm competition and cryptic female choice."
+"The house has been converted to accommodate highschools now."
+"More recent projects have aimed at bringing commercial development and public amenities to the area."
+"Development of synchronous toothed-belts was begun by the Gilmer company around 1940."
+"The paper discussed dealing with the problem of head-of-line blocking using Virtual Output Queues."
+"He has done a lot to promote the language."
+"It's not going to be easy."
+"There is an above-ground water pipeline in the vicinity of Brace Brook."
+"I'll be back soon."
+"Steven J. Murdoch and George Danezis from University of Cambridge presented."
+"The northbound tracks were left closed on March 16;."
+"It is native to the eastern and lower midwestern United States."
+"The meeting was commemorated with his image on a stamp from the Vatican post office."
+"Several small groups claim to continue to practice this faith."
+"Oh, this is not good."
+"The freedom from the wireless is very helpful as I have always used corded headsets."
+"Truck production was added in May 1993."
+"Rabbi Braun was sued by Rabbi Osdoba after the election."
+"Omaha Public Power District (OPPD) is one of the state's largest purchasers of wind energy."
+"He was the head baseball coach at Louisiana State University in 1912 and 1913."
+"That's not uncool."
+"He also briefly held a position of Visiting Lecturer at UCLA in 1967."
