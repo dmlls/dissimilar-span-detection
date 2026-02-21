@@ -1,0 +1,45 @@
+{
+  "title": "Explainable Semantic Textual Similarity via Dissimilar Span Detection",
+  "authors": [
+    {
+      "name": "Diego Miguel Lozano",
+      "website": "https://www.diegomiguel.me/",
+      "affiliations": "1",
+      "footnotes": "1"
+    },
+    {
+      "name": "Daryna Dementieva",
+      "website": "https://dardem.github.io/",
+      "affiliations": "1,2",
+      "footnotes": ""
+    },
+    {
+      "name": "Alexander Fraser",
+      "website": "https://alexfraser.github.io/",
+      "affiliations": "1,2",
+      "footnotes": ""
+    }
+  ],
+  "affiliations": {
+    "1": "School of Computation, Information and Technology, Technical University of Munich (TUM)",
+    "2": "Munich Center for Machine Learning (MCML)"
+  },
+  "footnotes": {
+    "1": {
+      "symbol": "†",
+      "text": "Currently affiliated to ELLIS Alicante."
+    }
+  },
+  "abstract": "**Semantic Textual Similarity (STS)** is a crucial component of many Natural Language Processing (NLP) applications. However, existing approaches typically reduce semantic nuances to a **single score**, limiting interpretability. To address this, we introduce the task of **Dissimilar Span Detection (DSD)**, which aims to identify **semantically differing spans** between pairs of texts. This can **help users understand** which particular words or tokens negatively affect the similarity score, or be used to improve performance in **STS-dependent downstream tasks**.  Furthermore, we release a new dataset suitable for the task, the **Span Similarity Dataset (SSD)**, developed through a semi-automated pipeline combining **large language models (LLMs) with human verification**. We propose and evaluate different baseline methods for DSD, both **unsupervised**—based on LIME, SHAP, LLMs, and our own method—as well as an additional **supervised** approach. While LLMs and supervised models achieve the highest performance, **overall results remain low**, highlighting the **complexity of the task**. Finally, we set up an additional experiment that shows how DSD can lead to increased performance in the specific task of **paraphrase detection**.",
+  "citation": [
+    "@inproceedings{dmlozano-etal-2023-dsd",
+    "title     = {Explainable Semantic Textual Similarity via Dissimilar Span Detection}",
+    "author    = {Miguel Lozano, Diego and Dementieva, Daryna and Fraser, Alexander}",
+    "address   = {Palma de Mallorca, Spain}",
+    "booktitle = {TODO}",
+    "publisher = {ELRA Language Resources Association (ELRA)}",
+    "month     = may",
+    "year      = 2026",
+    "}"
+  ]
+}

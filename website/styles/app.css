@@ -1,0 +1,30 @@
+@import url("font-face.css") layer(base);
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@plugin "daisyui" {
+  themes: winter, night;
+  root: ":root";
+  include:;
+  exclude:;
+  prefix: "d-";
+  logs: true;
+}
+
+@custom-variant dark (&:where([data-theme=night], [data-theme=night] *));
+
+@theme {
+  --font-rubik: "Rubik", sans-serif;
+}
+
+@layer components {
+  .section {
+    @apply py-20 md:py-30 px-[10%] xl:px-[25%] prose min-w-full [&_p]:text-justify [&_p]:hyphens-auto;
+  }
+}
+
+@layer utilities {
+  .copied {
+    @apply border-solid border-2 border-success;
+  }
+}
