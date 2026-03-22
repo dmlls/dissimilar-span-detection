@@ -38,7 +38,7 @@ title: "Dissimilar Span Detection (DSD)"
             {% if not loop.last -%}
               ,&nbsp;
             {% endif %}
-            </span>
+          </span>
         {%- endfor %}
       </p>
       <div class="mb-2">
@@ -113,31 +113,33 @@ title: "Dissimilar Span Detection (DSD)"
             </button>
           </div>
         </a>
-        <a href="https://huggingface.co/datasets/tum-nlp/span-similarity-dataset">
+        <a
+          href="https://huggingface.co/datasets/tum-nlp/span-similarity-dataset"
+        >
           <button class="d-btn d-btn-lg w-35 d-btn-primary rounded-full font-semibold">
-              <svg
-                class="size-[1.2em]"
+            <svg
+              class="size-[1.2em]"
+              stroke-width="1.9"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              color="currentColor"
+            >
+              <path
+                d="M3.6 3H20.4C20.7314 3 21 3.26863 21 3.6V20.4C21 20.7314 20.7314 21 20.4 21H3.6C3.26863 21 3 20.7314 3 20.4V3.6C3 3.26863 3.26863 3 3.6 3Z"
+                stroke="currentColor"
                 stroke-width="1.9"
-                viewBox="0 0 24 24"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-                color="currentColor"
               >
-                <path
-                  d="M3.6 3H20.4C20.7314 3 21 3.26863 21 3.6V20.4C21 20.7314 20.7314 21 20.4 21H3.6C3.26863 21 3 20.7314 3 20.4V3.6C3 3.26863 3.26863 3 3.6 3Z"
-                  stroke="currentColor"
-                  stroke-width="1.9"
-                >
-                </path>
-                <path
-                  d="M9.75 9.75V21"
-                  stroke="currentColor"
-                  stroke-width="1.9"
-                >
-                </path>
-                <path d="M3 9.75H21" stroke="currentColor" stroke-width="1.9">
-                </path>
-              </svg>
+              </path>
+              <path
+                d="M9.75 9.75V21"
+                stroke="currentColor"
+                stroke-width="1.9"
+              >
+              </path>
+              <path d="M3 9.75H21" stroke="currentColor" stroke-width="1.9">
+              </path>
+            </svg>
             Dataset
           </button>
         </a>
@@ -183,9 +185,111 @@ title: "Dissimilar Span Detection (DSD)"
   {% endrenderTemplate %}
 </div>
 
-<div class="section bg-base-200 dark:bg-base-300">
+<div class="section flex flex-col overflow-hidden bg-base-200 dark:bg-base-300 items-center">
+  <h1 class="self-start">The Task</h1>
+  {% renderTemplate "njk,md", paper %}
+  {{ task }}
+  {% endrenderTemplate %}
+
+  <div class="hidden [@media(hover:none)]:flex">
+    <p class="flex gap-2 items-center text-sm">
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        fill="none"
+        stroke-width="1.9"
+        class="prose h-10"
+        viewBox="0 0 24 24"
+      >
+        <path
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width=".869"
+          d="m9.473 12-.917 1.222a.914.914 0 0 0 .058 1.166l1.73 1.887a.91.91 0 0 0 .673.296h2.113c1.097 0 1.828-.914 1.828-1.828q0 0 0 0v-3.918M13.587 11.086v-.262c0-1.044 1.371-1.044 1.371 0"
+        />
+        <path
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width=".869"
+          d="M12.215 11.086v-.784c0-1.045 1.372-1.045 1.372 0v.783M10.844 11.086V9.943c0-1.045 1.371-1.045 1.371 0q0 0 0 0v1.143M10.844 11.086V8.113a.685.685 0 0 0-.686-.684v0a.686.686 0 0 0-.685.685v5.257"
+        />
+        <path
+          stroke="currentColor"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="1.448"
+          d="M6.06 11.52H.725m0 0 1.83-1.906M.724 11.52l1.83 1.906M17.94 11.52h5.336m0 0-1.83-1.906m1.83 1.906-1.83 1.906"
+        />
+      </svg>
+      Swipe to see more
+    </p>
+  </div>
+  <div class="d-carousel w-5/4 md:w-full my-4 [@media(hover:none)]:my-0">
+    <div
+      id="slide1"
+      class="d-carousel-item relative w-full justify-center items-center"
+    >
+      <div class="d-mockup-code w-7/9 h-fit *:leading-8 *:hyphens-auto *:m-0 *:py-1 *:overflow-visible *:before:w-auto *:text-wrap *:box-decoration-slice [&_pre]:flex [&_pre]:px-6 sm:[&_pre]:px-8 [&_pre]:mb-2">
+        <pre data-prefix="1"><code>On <span class="dissimilar-span">April 15, 2010</span>, the <span class="dissimilar-span">Colorado Court of Appeals</span> dismissed.</code></pre>
+        <pre data-prefix="2"><code>On <span class="dissimilar-span">March 15, 2012</span>, the <span class="dissimilar-span">Oregon Court of Appeals</span> dismissed.</code></pre>
+        <span class="flex px-8 text-xs">Cosine similarity: 0.74</span>
+      </div>
+      <div class="absolute left-1 right-1 top-1/2 flex -translate-y-1/2 transform justify-between">
+        <a href="#slide3" class="block [@media(hover:none)]:hidden d-btn d-btn-circle carousel-btn bg-base-100 content-center"
+        >❮</a>
+        <a href="#slide2" class="block [@media(hover:none)]:hidden d-btn d-btn-circle carousel-btn bg-base-100 content-center"
+        >❯</a>
+      </div>
+    </div>
+    <div
+      id="slide2"
+      class="d-carousel-item relative w-full justify-center items-center"
+    >
+      <div class="d-mockup-code w-7/9 h-fit *:leading-8 *:hyphens-auto *:m-0 *:py-1 *:overflow-visible *:before:w-auto *:text-wrap *:box-decoration-slice [&_pre]:flex [&_pre]:px-6 sm:[&_pre]:px-8 [&_pre]:mb-2">
+        <pre data-prefix="1"><code>She went on to win a <span class="dissimilar-span">silver medal</span> in the 2024 Olympics.</code></pre>
+        <pre data-prefix="2"><code>She went on to win <span class="dissimilar-span">first place</span> in the 2024 Olympics.</code></pre>
+        <span class="flex px-8 text-xs">Cosine similarity: 0.91</span>
+      </div>
+      <div class="absolute left-1 right-1 top-1/2 flex -translate-y-1/2 transform justify-between">
+        <a href="#slide1" class="block [@media(hover:none)]:hidden d-btn d-btn-circle carousel-btn bg-base-100 content-center"
+        >❮</a>
+        <a href="#slide3" class="block [@media(hover:none)]:hidden d-btn d-btn-circle carousel-btn bg-base-100 content-center"
+        >❯</a>
+      </div>
+    </div>
+    <div
+      id="slide3"
+      class="d-carousel-item relative w-full justify-center items-center"
+    >
+      <div class="d-mockup-code w-7/9 h-fit *:leading-8 *:hyphens-auto *:m-0 *:py-1 *:overflow-visible *:before:w-auto *:text-wrap *:box-decoration-slice [&_pre]:flex [&_pre]:px-6 sm:[&_pre]:px-8 [&_pre]:mb-2">
+        <pre data-prefix="1"><code>They are all over the legal age, so such behavior is legal.</code></pre>
+        <pre data-prefix="2"><code>They are all over 18, so such behavior is not illegal.</code></pre>
+        <span class="flex px-8 text-xs">Cosine similarity: 0.88</span>
+      </div>
+      <div class="absolute left-1 right-1 top-1/2 flex -translate-y-1/2 transform justify-between">
+        <a href="#slide2" class="block [@media(hover:none)]:hidden d-btn d-btn-circle carousel-btn bg-base-100 content-center"
+        >❮</a>
+        <a href="#slide1" class="block [@media(hover:none)]:hidden d-btn d-btn-circle carousel-btn bg-base-100 content-center"
+        >❯</a>
+      </div>
+    </div>
+  </div>
+  <p class="text-xs">
+    * Cosine similarities obtained with the model <code class="p-0.5"
+    >all-MiniLM-L6-v2</code>.
+  </p>
+  <p>
+    The examples above exemplify how relying uniquely on cosine similarity to
+    detect dissimilar texts might not be enough. In some cases, texts that
+    differ in meaning might report a higher cosine similarity than semantically
+    equivalent texts.
+  </p>
+</div>
+
+<div class="section bg-base-100">
   <h1>Citation</h1>
-  <div class="d-card bg-base-100 py-2 px-8 md:py-6 md:px-12 w-full">
+  <div class="d-card bg-base-200 py-2 px-8 md:py-6 md:px-12 w-full">
     <div class="absolute top-3 right-3">
       <div id="copy-tooltip" class="d-tooltip d-tooltip-left" data-tip="Copy">
         <button id="copy-citation" class="d-btn d-btn-square">
@@ -273,3 +377,4 @@ title: "Dissimilar Span Detection (DSD)"
 </div>
 
 <script src="scripts/copyToClipboard.js"></script>
+<script src="scripts/carousel.js"></script>

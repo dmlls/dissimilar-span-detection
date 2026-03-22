@@ -15,16 +15,29 @@
 
 @theme {
   --font-rubik: "Rubik", sans-serif;
+
+  --animate-typewriter: typewriter 2s steps(11) forwards;
+  @keyframes typewriter {
+    from {
+      width: 0;
+    }
+    to {
+      width: 24em;
+    }
+  }
 }
 
 @layer components {
   .section {
     @apply py-20 md:py-30 px-[10%] xl:px-[25%] prose min-w-full [&_p]:text-justify [&_p]:hyphens-auto;
   }
+  .dissimilar-span {
+    @apply border rounded-md px-2 py-1 border-red-400 text-red-400 bg-red-950;
+  }
 }
 
 @layer utilities {
   .copied {
-    @apply border-solid border-2 border-success;
+    @apply border-2 border-success;
   }
 }

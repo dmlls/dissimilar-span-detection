@@ -1,0 +1,12 @@
+[
+  {
+    "sentence_a": "This is the first and realistic sentence a bit longer than hey.",
+    "sentence_b": "This is the {{second and crazy sentence}} a bit longer than hey.",
+    "cosine_similarity": 0.89
+  },
+  {
+    "sentence_a": "Another sentence here to add something else.",
+    "sentence_b": "Another sentence {{there and here we go}}.",
+    "cosine_similarity": 0.75
+  }
+]
