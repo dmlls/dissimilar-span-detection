@@ -26,7 +26,7 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("assets/");
   eleventyConfig.addPassthroughCopy("scripts/");
-  eleventyConfig.addPassthroughCopy("styles/fonts");
+  eleventyConfig.addPassthroughCopy("styles/");
 
   // Image plugin
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
