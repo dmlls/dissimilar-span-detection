@@ -1,13 +1,27 @@
 #let size = (
-  normal: 40pt,
-  small: 20pt,
+  medium: 40pt,
+  normal: 30pt,
+  small: 25pt,
+  tiny: 20pt,
+  more-tiny: 15pt,
   title: 90pt,
   heading-1: 40pt,
+  heading-2: 35pt,
+  heading-3: 30pt,
+)
+
+#let margin = (
+  x: 4cm,
+  y: 1cm,
 )
 
 #let color = (
   primary-blue: rgb(0, 3, 114, 100%),
-  primary-dark-blue: rgb(57, 78, 106, 100%),
+  primary-blue-80: rgb(0, 3, 114, 80%),
+  primary-blue-60: rgb(0, 3, 114, 60%),
+  primary-blue-40: rgb(0, 3, 114, 40%),
+  primary-blue-20: rgb(0, 3, 114, 20%),
+  primary-dark-blue: rgb(15, 23, 42, 100%),
   primary-dark-blue-80: rgb(57, 78, 106, 80%),
   primary-dark-blue-60: rgb(57, 78, 106, 60%),
   primary-dark-blue-40: rgb(57, 78, 106, 40%),
@@ -16,121 +30,58 @@
   primary-dark-blue-5: rgb(57, 78, 106, 5%),
   bg-dark-blue: rgb(15, 23, 42, 100%),
   gray: rgb(229, 231, 235, 100%),
-  soft-gray: rgb(242, 247, 254, 100%),
+  soft-blue: rgb(242, 247, 254, 100%),
   white: rgb(255, 255, 255, 100%),
   white-80: rgb(255, 255, 255, 80%),
   white-60: rgb(255, 255, 255, 60%),
   white-40: rgb(255, 255, 255, 40%),
   white-20: rgb(255, 255, 255, 20%),
+  emphasis: rgb("#0008ff"),
   brown-dark: rgb("#856238"),
   brown: rgb("#b98a51"),
   soft-red: rgb("#ffc8c8"),
   soft-green: rgb("#c8ffc9"),
   white-cover: rgb("#ffffffd8"),
+  gray-blue: rgb("#7692b8"),
   gradient-blue-to-dark-blue: gradient.linear(
-    rgb(33, 9, 209, 100%),
-    rgb(18, 6, 111, 100%),
+  rgb("#0d118a"),
+  rgb(0, 3, 114, 100%),
     angle: 45deg
   ),
 )
 
+#let stroke = 1.2pt + color.primary-blue
 
-#let header() = {
-  block(
-    width: 100%,
-    fill: tiling(
-      image("img/bg_blur.png")
-    ),
-    align(
-      center,
-      block(
-        inset: (top: 100pt, bottom: 50pt, y: 120pt),
-        stack(
-          dir: ttb,
-        spacing: 60pt,
-          rect(
-            fill: color.white-60,
-            radius: 20pt,
-            stroke: (3pt + color.white),
-            inset: (x: 40pt, y: 30pt),
-            text(
-              font: "DIN Pro",
-              stretch: 75%,
-              weight: "medium",
-              size: size.title - 30pt,
-            )[LREC 2026],
-          ),
-          stack(
-            dir: ttb,
-            spacing: 40pt,
-            text(size: size.title, weight: "black")[Explainable Semantic Textual Similarity \ via Dissimilar Span Detection],
-            v(60pt),
-            [
-              Diego Miguel Lozano #super[1 , †],
-              Daryna Dementieva #super[1, 2],
-              Alexander Fraser #super[1, 2 ]
-            ],
-            text(size: size.small)[
-              #super[1] School of Computation, Information and Technology, Technical University of Munich (TUM) \
-              #super[2] Munich Center for Machine Learning (MCML) \
+#let code(content) = {
+  text(font: "JetBrains Mono", content)
+}
 
-              #super[†] Currently affiliated to ELLIS Alicante.
-            ]
-
-          )
-        )
-      )
+#let text-box(content, icon: none, text-size: size.normal) = {
+  [
+    #rect(
+      fill: color.soft-blue,
+      width: 100%,
+      inset: 1.5cm,
+      radius: 20pt,
+      text(size: text-size, content),
     )
-  )
-}
-
-#let footer() = {
-  set text(fill: color.gray)
-  block(
-    width: 100%,
-    fill: color.bg-dark-blue,
-    align(
-      center,
-      block(
-        inset: (x: 100pt, y: 80pt),
-        stack(
-          dir: ltr,
-          spacing: 100pt,
-          image("img/logo_tum.svg", height: 70pt),
-          image("img/logo_mcml.png", height: 70pt),
-        )
+    #if icon != none {
+      place(
+        top + left,
+        dx: -0.3cm,
+        dy: 0.2cm,
+        image(icon, width: 7%)
       )
-    )
-  )
+    }
+  ]
 }
 
-#let dataset() = {
-  rect(
-    fill: color.white,
-    width: 100%,
-    inset: 60pt,
-    radius: 20pt,
-    heading(level: 1)[1. Span Similarity Dataset (SSD)],
-  )
+#let span(content, similar: false) = {
+  highlight(
+    fill: if similar {color.soft-green} else {color.soft-red},
+  )[{{#content}}]
 }
 
-#let experiments() = {
-  rect(
-    fill: color.soft-gray,
-    width: 100%,
-    height: 40%,
-    inset: 60pt,
-    radius: 20pt,
-    heading(level: 1)[2. Experimental Setup],
-  )
-}
-
-#let results() = {
-  rect(
-    fill: color.white,
-    width: 100%,
-    inset: 60pt,
-    radius: 20pt,
-    heading(level: 1)[3. Results],
-  )
+#let reference(number) = {
+  text(fill: color.gray-blue)[\[#number\]]
 }

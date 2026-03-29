@@ -1,4 +1,5 @@
 #import "lib.typ": *
+#import "sections.typ": *
 
 // Set document metadata.
 #set document(
@@ -16,43 +17,40 @@ via Dissimilar Span Detection (LREC 2026)],
 #set heading(numbering: none)
 // Set heading margins.
 #show heading: set block(above: 1.75em, below: 1em)
-#show heading.where(level: 1): set text(size: 26pt)
-#show heading.where(level: 2): set text(size: 22pt)
-#show heading.where(level: 3): set text(size: 18pt)
-#show heading.where(level: 4): set text(size: 14pt)
+#show heading.where(level: 1): set text(size: size.heading-1)
+#show heading.where(level: 2): set text(size: size.heading-2)
+#show heading.where(level: 3): set text(size: size.heading-3)
 
 #show heading: set text(
-  fill: color.primary-blue,
-  size: size.heading-1,
+  fill: color.gradient-blue-to-dark-blue,
 )
 
 // Text setup.
+#set par(
+  justify: true,
+)
 #set text(
   lang: "en",
   region: "us",
   font: "Inter",
   size: size.normal,
   hyphenate: true,
-  fill: color.primary-dark-blue,
+  fill: color.primary-blue,
 )
+#set strong(delta: 200)
 
-// Make figure captions adapt to the width of the image.
-#show figure: fig => {
-  if fig.body.has("width") {
-    let fig-width = fig.body.width;
-    show figure.caption: box.with(width: fig-width)
-    fig
-  } else {
-    fig
-  }
-}
+// Table setup.
+#set table(
+  inset: 0.5cm,
+  column-gutter: 1em,
+  stroke: none,
+)
+#show table.cell.where(y: 0): set text(weight: "semibold")
+#set table.hline(stroke: stroke)
 
 // Do not show supplement in figure captions.
-#show figure.caption: it => context [
-  #text(size: 10.5pt)[#it.body]
-]
-
-#show table.cell.where(y: 0): set text(white, weight: "bold")
+#show figure.caption: set align(left)
+#show figure.caption: set text(size: size.more-tiny)
 
 // Underline links and references.
 #show link: underline
@@ -60,26 +58,39 @@ via Dissimilar Span Detection (LREC 2026)],
 
 #stack(
   dir: ttb,
-  header(),
+  header,
+  task,
+  diagram,
+  v(margin.y),
+  align(
+    center,
+    line(length: 70%, stroke: 2pt + color.soft-blue),
+  ),
   block(
-    inset: (x: 150pt, y: 80pt),
+    inset: (x: margin.x, y: margin.y),
     sticky: true,
+    height: 48%,
     grid(
-      rows: 2,
       row-gutter: 100pt,
-      image("img/dissimilar-span-detection.png"),
       grid(
         columns: (1fr, 1fr),
         grid(
           rows: 2,
-          row-gutter: 100pt,
-          dataset(),
-          results(),
+          dataset,
+          results,
         ),
-        experiments(),
+        {
+          set align(horizon)
+          stack(
+            dir: ttb,
+            spacing: 1em,
+            experiments,
+            more-info,
+          )
+        }
       ),
     ),
   ),
   v(1fr),
-  footer(),
+  footer,
 )

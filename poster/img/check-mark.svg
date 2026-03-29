@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 122.88 122.88"
+   version="1.1"
+   sodipodi:docname="check-mark.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.3883465"
+     inkscape:cx="61.518266"
+     inkscape:cy="61.439999"
+     inkscape:window-width="1707"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill-rule:evenodd;}</style>
+  </defs>
+  <title
+     id="title1">tick-symbol</title>
+  <path
+     class="cls-1"
+     d="M61.44,0A61.44,61.44,0,1,1,0,61.44,61.44,61.44,0,0,1,61.44,0ZM41.81,53.38,53.48,64.56,79.84,37.91c1.74-1.77,2.83-3.18,5-1l7,7.12c2.28,2.26,2.16,3.59,0,5.69L57.45,83.61c-4.54,4.45-3.75,4.72-8.36.16l-19-18.9c-1-1-.85-2.09.2-3.13l8.07-8.37c1.21-1.27,2.18-1.2,3.44,0Z"
+     id="path1"
+     style="fill:#7692b8;fill-opacity:1" />
+</svg>
