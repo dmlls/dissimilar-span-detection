@@ -4,7 +4,7 @@
 // Set document metadata.
 #set document(
   title: [Explainable Semantic Textual Similarity
-via Dissimilar Span Detection (LREC 2026)],
+          via Dissimilar Span Detection (LREC 2026)],
   author: ("Diego Miguel Lozano", "Daryna Dementieva", "Alexander Fraser")
 )
 
@@ -51,10 +51,6 @@ via Dissimilar Span Detection (LREC 2026)],
 // Do not show supplement in figure captions.
 #show figure.caption: set align(left)
 #show figure.caption: set text(size: size.more-tiny)
-
-// Underline links and references.
-#show link: underline
-#show ref: underline
 
 #stack(
   dir: ttb,

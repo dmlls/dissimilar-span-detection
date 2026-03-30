@@ -19,15 +19,25 @@
             text(size: size.title, fill: color.gradient-blue-to-dark-blue, weight: "black")[Explainable Semantic Textual Similarity \ via Dissimilar Span Detection],
             v(60pt),
             text(size: size.medium)[
-              Diego Miguel Lozano #super[1 , †],
-              Daryna Dementieva #super[1, 2],
-              Alexander Fraser #super[1, 2 ]
+              #link(
+                "https://www.diegomiguel.me/",
+                "Diego Miguel Lozano"
+              ) #super[1 , †],
+              #link(
+                "https://dardem.github.io/",
+                "Daryna Dementieva"
+              ) #super[1, 2],
+              #link(
+                "https://alexfraser.github.io/",
+                "Alexander Fraser"
+              )
+              #super[1, 2 ]
             ],
             text(size: size.tiny)[
               #super[1] School of Computation, Information and Technology, Technical University of Munich (TUM) \
               #super[2] Munich Center for Machine Learning (MCML) \
 
-              #super[†] Currently affiliated to ELLIS Alicante.
+              #super[†] Currently affiliated to ELLIS Alicante
             ]
           )
         )
@@ -82,12 +92,12 @@
     inset: (x: margin.x, y: margin.y), width: 100%,
   )[
     #set align(center)
-    #text-box(width: 64cm, icon: "img/alert-triangle.svg")[
+    #text-box(width: 66.7cm, icon: "img/alert-triangle.svg")[
       *Cosine similarity is not always enough!*
 
       #set text(size.small)
       Outputting a single, non-interpretable number can mask fundamental differences between the texts being compared. \
-      We introduce the task of *Dissimilar Span Detection*: Given two texts, identifying spans pairs with a common semantic function, but differing meanings.
+      We introduce the task of *Dissimilar Span Detection (DSD)*: Given two texts, identifying spans pairs with a common semantic function, but differing meanings.
     ]
   ]
 }
@@ -96,9 +106,9 @@
   set align(center)
   block(
     width: 100%,
-    inset: (x: margin.x),
+    inset: (x: margin.x, top: -1cm),
   )[
-    #image("img/dissimilar-span-detection.pdf", width: 64cm)
+    #image("img/dissimilar-span-detection.pdf", width: 66.7cm)
   ]
 }
 
@@ -232,7 +242,7 @@
       )
       #method(
         column-size: auto,
-        [Embedding-DSD],
+        [Embedding-DSD#super[\*]],
         [
           This method constitutes a *novel contribution*.
         ],
@@ -396,8 +406,8 @@
             [Model], [STS], [STS + DSD],
             table.hline(),
           ),
-          text(size: size.tiny - 4pt, code[all-MiniLM-L6-v2]), [0.720], [*0.808*],
-          text(size: size.tiny - 4pt, code[all-mpnet-base-v2]), [0.795], [*0.868*],
+          text(size: size.tiny - 5pt, code[all-MiniLM-L6-v2]), [0.720], [*0.808*],
+          text(size: size.tiny - 5pt, code[all-mpnet-base-v2]), [0.795], [*0.868*],
           table.hline(),
         ),
         caption: [Comparison of accuracies on the PAWS-Wiki Labeled using uniquely STS or combining STS with DSD.]
@@ -432,14 +442,20 @@
       ),
       stack(
         dir: ttb,
-        spacing: 0.7em,
+        spacing: 0.8em,
         v(-0.3cm),
         image("img/qr.svg", height: 8%),
-        text(size: size.more-tiny)[#box(
-          height: 1em,
-          baseline: 15%,
-          image("img/link.svg")
-        ) dmlls.github.io/ \ #v(-0.4cm) dissimilar-span-detection],
+        link(
+          "https://dmlls.github.io/dissimilar-span-detection/",
+          text(size: size.more-tiny)[
+            #box(
+              height: 1em,
+              baseline: 15%,
+              image("img/link.svg")
+            )
+            dmlls.github.io/ \ #v(-0.4cm) dissimilar-span-detection
+          ],
+        )
       )
     )
   )
