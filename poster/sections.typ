@@ -79,18 +79,28 @@
 
 #let task = {
   block(
-    inset: (x: margin.x, y: margin.y),
-    text-box(text-size: size.small - 0.94pt)[
-      *Dissimilar Span Detection*: Given two sequences of word or sub-word tokens $X = (x_1, x_2, ..., x_n)$ and $Y = (y_1, y_2, ..., y_m)$, let $s_j := ((x_a, x_(a+c)), (y_b, y_(b+d)))$ be a token span pair coming from $X$ and $Y$, with $1 lt.eq a < n$, $1 lt.eq b < m$, $1 lt.eq c lt.eq n - a$ and $1 lt.eq d lt.eq m - b$, the goal is to find all non-overlapping span pairs $s_j$ that, having a common semantic function, differ in meaning.],
-  )
+    inset: (x: margin.x, y: margin.y), width: 100%,
+  )[
+    #set align(center)
+    #text-box(width: 64cm, icon: "img/alert-triangle.svg")[
+      *Cosine similarity is not always enough!*
+
+      #set text(size.small)
+      Outputting a single, non-interpretable number can mask fundamental differences between the texts being compared. \
+      We introduce the task of *Dissimilar Span Detection*: Given two texts, identifying spans pairs with a common semantic function, but differing meanings.
+    ]
+  ]
 }
 
-#let diagram = (
+#let diagram = {
+  set align(center)
   block(
+    width: 100%,
     inset: (x: margin.x),
-    image("img/dissimilar-span-detection.png"),
-  )
-)
+  )[
+    #image("img/dissimilar-span-detection.pdf", width: 64cm)
+  ]
+}
 
 #let dataset = {
   block(
@@ -392,7 +402,11 @@
         ),
         caption: [Comparison of accuracies on the PAWS-Wiki Labeled using uniquely STS or combining STS with DSD.]
       ),
-      text-box(icon: "img/check-mark.svg", text-size: size.small)[DSD improves the performance on the task with no fine-tuning.]
+      text-box(
+        icon: "img/check-mark.svg",
+        icon-size: 7%,
+        text-size: size.small,
+      )[DSD improves the performance on the task with no fine-tuning.]
     )
   ]
 }
@@ -418,7 +432,8 @@
       ),
       stack(
         dir: ttb,
-        spacing: 0.2em,
+        spacing: 0.7em,
+        v(-0.3cm),
         image("img/qr.svg", height: 8%),
         text(size: size.more-tiny)[#box(
           height: 1em,

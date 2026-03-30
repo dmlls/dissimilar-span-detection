@@ -12,7 +12,7 @@
 
 #let margin = (
   x: 4cm,
-  y: 1cm,
+  y: 1.6cm,
 )
 
 #let color = (
@@ -56,23 +56,30 @@
   text(font: "JetBrains Mono", content)
 }
 
-#let text-box(content, icon: none, text-size: size.normal) = {
+#let text-box(
+  content,
+  icon: none,
+  icon-size: auto,
+  text-size: size.normal,
+  width: 100%
+) = {
   [
     #rect(
       fill: color.soft-blue,
-      width: 100%,
+      width: width,
       inset: 1.5cm,
       radius: 20pt,
-      text(size: text-size, content),
-    )
-    #if icon != none {
-      place(
-        top + left,
-        dx: -0.3cm,
-        dy: 0.2cm,
-        image(icon, width: 7%)
-      )
-    }
+    )[
+      #text(size: text-size, content)
+      #if icon != none {
+        place(
+          top + left,
+          dx: -1.89cm,
+          dy: -1.8cm,
+          image(icon, width: icon-size)
+        )
+      }
+    ]
   ]
 }
 

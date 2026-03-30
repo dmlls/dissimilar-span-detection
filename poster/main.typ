@@ -80,10 +80,10 @@ via Dissimilar Span Detection (LREC 2026)],
           results,
         ),
         {
-          set align(horizon)
-          stack(
-            dir: ttb,
-            spacing: 1em,
+          grid(
+            rows: 2,
+            align: horizon,
+            row-gutter: 1.7em,
             experiments,
             more-info,
           )
