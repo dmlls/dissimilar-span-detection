@@ -410,3 +410,18 @@
   #show: later
   ...
 ]
+
+#slide[
+  = Embedding-DSD
+  #set align(center + horizon)
+
+  #set text(size: text-font-size + 4pt)
+  #rect(
+    stroke: none,
+    fill: color.soft-blue,
+    outset: 1em,
+    radius: 6pt
+  )[
+    $"AggrGain"_"unigram" = 1 / n dot sum_(i=1)^n "gains"_i / i $
+  ]
+]
