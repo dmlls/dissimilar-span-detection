@@ -14,7 +14,8 @@
 )
 
 // Heading setup.
-#set heading(numbering: none)
+#set heading(numbering: none, bookmarked: false)
+
 // Set heading margins.
 #show heading: set block(above: 1.75em, below: 1em)
 #show heading.where(level: 1): set text(size: size.heading-1)

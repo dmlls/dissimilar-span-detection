@@ -141,9 +141,6 @@
           [Sentence 1], [Sentence 2], [Span \ Similarity], [Sentence \ Similarity],
           table.hline(),
         ),
-        // [It only utilizes #span[a few refineries] in the Northeast.],
-        // [It only utilizes #span[numerous facilities] in the Northeast.],
-        // [0], [0],
         [It was #span[restored] in the #span(similar: true)[1980s].],
         [It was #span[destroyed] in the #span(similar: true)[eighties].],
         [0,1], [0],
@@ -332,13 +329,13 @@
             ]
           )
 
-          Unigrams with a gain above a threshold are considered as dissimilar.
+          Unigrams with a gain above a certain threshold are considered as dissimilar.
         ]
       )
       #place(
         bottom,
         dy: 1.2cm,
-        text(size: size.more-tiny)[\* Methods that require a threshold. We find the optimal threshold by evaluating on the validation split.]
+        text(size: size.more-tiny)[\* Methods that require a threshold. We find the optimal threshold by evaluating on the validation split of the dataset.]
       )
     ]
   )
@@ -385,7 +382,7 @@
           [Token Classification \ #model[roberta-base]], [125M], [0.690], [0.838], [0.574], [*1.23*], [*0.441*], [*0.10*],
           table.hline(),
         ),
-        caption: [Summary of the results. Evaluation times are reported in minutes. For experiments relying on external APIs (#code[text-embedding-004] and #code[Claude 3.5 Sonnet]), times might vary depending on rate limits, connection speeds, etc. ]
+        caption: [Summary of the results. We adopt a 5-fold cross-validation scheme. To account for false positives, we report separate F1 scores for those sentence-pairs that contain no dissimilar spans (_NoDiff_), and those that do (_Diff_). Evaluation times are reported in minutes.]
       )
     ]
 
@@ -415,8 +412,8 @@
       text-box(
         icon: "img/check-mark.svg",
         icon-size: 7%,
-        text-size: size.small,
-      )[DSD improves the performance on the task with no fine-tuning.]
+        text-size: size.small + 0.7pt,
+      )[DSD improves performance on the task with no fine-tuning.]
     )
   ]
 }
